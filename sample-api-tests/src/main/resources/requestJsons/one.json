@@ -1,0 +1,435 @@
+{
+  "brand_information": {
+    "brand": "AVIS"
+  },
+  "confirmation_number": "30434584US5",
+  "pick_up_location": {
+    "mnemonic_code": "JFK",
+    "currency_code": [
+      {
+        "type": "SYSTEM",
+        "code": "USD"
+      }
+    ]
+  },
+  "drop_off_location": {
+    "mnemonic_code": "JFK"
+  },
+  "pick_up_date_time": {
+    "date": "2023-10-10",
+    "time": "1000"
+  },
+  "drop_off_date_time": {
+    "date": "2023-12-10",
+    "time": "1000"
+  },
+  "rental_agreement_number": "0",
+  "company_information": {
+    "type": "K",
+    "company_number": "A065100"
+  },
+  "customer_information": [
+    {
+      "customer_details": {
+        "name": {
+          "ascii": {
+            "first_name": "GARIEL",
+            "last_name": "VOLPARA"
+          }
+        },
+        "email": [
+          {
+            "email_id": "ABC@AVISBUDGET.COM",
+            "type": "PRIMARY"
+          }
+        ],
+        "phone_number": [
+          {
+            "country_code": "ML91",
+            "number": "9876543210",
+            "type": "PRIMARY"
+          }
+        ],
+        "date_of_birth": "1999-11-08",
+        "age": 23,
+        "preferences": [
+          {
+            "type": "PUSH-OPT-IN",
+            "value": "T"
+          },
+          {
+            "type": "SMS-OPT-IN",
+            "value": "A"
+          }
+        ],
+        "features": {
+          "enhanced_profile": false
+        },
+        "address": {
+          "ascii": [
+            {
+              "type": "PRIMARY",
+              "address1": "6 SYLVAN WAY",
+              "address2": "SUITE 106",
+              "city": "PARSIPPANY",
+              "state_province": "NJ",
+              "postal_code": "07054",
+              "country_code": "US"
+            }
+          ]
+        },
+        "driving_license": [
+          {
+            "verified": false
+          }
+        ],
+        "sms_notification_changed_timestamp": "28SEP23100511",
+        "push_notification_changed_timestamp": "28SEP23100511"
+      }
+    }
+  ],
+  "available_products": {
+    "products": [
+      {
+        "type": "VEHICLE",
+        "code": "G",
+        "details": {
+          "vehicle_information": {
+            "main_carclass_code": "R",
+            "sub_carclass_code": "G"
+          }
+        },
+        "duration": {
+          "period_length_of_rental": {
+            "days": 6,
+            "hours": 0
+          },
+          "calendar_days_length_of_rental": 61
+        },
+        "price_details": [
+          {
+            "rate_details": {
+              "code": "3J",
+              "title": "3J  BAMM DOLLARSOFF",
+              "currency_code": "USD",
+              "charge_type": "DAILY",
+              "categories": [
+                6
+              ],
+              "rate": [
+                {
+                  "type": "AVERAGE",
+                  "value": "140.16"
+                },
+                {
+                  "type": "HOURLY",
+                  "value": "112.51"
+                },
+                {
+                  "type": "DAILY",
+                  "value": "150.00"
+                },
+                {
+                  "type": "MONTHLY",
+                  "value": "4200.00"
+                },
+                {
+                  "type": "WEEKLY",
+                  "value": "1050.00"
+                },
+                {
+                  "type": "MILEAGE",
+                  "value": ".40"
+                }
+              ],
+              "miles_information": [
+                {
+                  "type": "HOURLY",
+                  "value": "UNL",
+                  "unit": "MILES"
+                },
+                {
+                  "type": "DAILY",
+                  "value": "UNL",
+                  "unit": "MILES"
+                },
+                {
+                  "type": "MINILEASE",
+                  "value": "UNL",
+                  "unit": "MILES"
+                }
+              ]
+            },
+            "features": {
+              "awd_override": false,
+              "net_rate_indicator": false
+            },
+            "total_breakdown": [
+              {
+                "currency_type": "RATE",
+                "amounts": {
+                  "gross_subtotal": "8550.00",
+                  "net_subtotal": "8550.00"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "rewards": [
+    {
+      "reward_id": 3,
+      "reward_type_code": "FTP"
+    }
+  ],
+  "travel_info": {
+    "features": {
+      "accept_flight": true
+    }
+  },
+  "delivery_collection_details": {
+    "delivery_indicator": "N",
+    "collection_indicator": "D"
+  },
+  "features": {
+    "minilease_indicator": true,
+    "dropped_awd_indicator": false,
+    "no_show_fee_indicator": false,
+    "prepay": {
+      "avis_dotcom_ldb_prepay": true
+    },
+    "rate": {
+      "rate_guarantee": {
+        "applicable": false
+      },
+      "rate_type": "B",
+      "rate_derived_from": "ASD",
+      "rrpc_processing_indicators": {
+        "ftp": true,
+        "underage_surcharge": false,
+        "insurance": true
+      }
+    },
+    "voucher": {
+      "paperless_iata_indicator": false
+    },
+    "underage": {
+      "exempted": true,
+      "reason": "AWD_TYPE"
+    },
+    "rrpc_compliance_indicator": true,
+    "taxable_indicators": {
+      "cdw_ldw_mvi": false,
+      "pai": false,
+      "pep_lli": false,
+      "ali_tp": false,
+      "tax": false,
+      "surcharge": true,
+      "vlf_vrf": false,
+      "apo_fee": true
+    },
+    "indirect_customer_type": {
+      "is_web_geb": false,
+      "is_shared_cid": false,
+      "is_net_tour_rate": false,
+      "is_rate_category_68_69": false
+    },
+    "status_indicators": {
+      "successful_arinc_completion": true
+    },
+    "paperless_reservation_indicator": false,
+    "ridehale": {
+      "partner_code": "A"
+    },
+    "offline_indicator": false
+  },
+  "transition_items": {
+    "alternate_currency_codes": [
+      {
+        "alternate_currency_type": "RATE_ALTERNATE",
+        "currency_code": [
+          {
+            "type": "SYSTEM",
+            "code": "USD"
+          }
+        ]
+      },
+      {
+        "alternate_currency_type": "ONE_WAY_ALTERNATE",
+        "currency_code": [
+          {
+            "type": "SYSTEM",
+            "code": "USD"
+          }
+        ]
+      },
+      {
+        "alternate_currency_type": "TOTAL_ALTERNATE",
+        "currency_code": [
+          {
+            "type": "TOTAL_ALTERNATE",
+            "code": "USD"
+          }
+        ]
+      }
+    ]
+  },
+  "price_details": [
+    {
+      "additional_charges": {
+        "applied_charges": [
+          {
+            "type_code": "FEE",
+            "code": "CFD",
+            "value_type_code": "PER_DAY",
+            "description": "G/DY C.R.F. SURCHARGE",
+            "daily_amount": [
+              {
+                "currency_type": "RATE",
+                "amount": ".50"
+              },
+              {
+                "currency_type": "ALTERNATE",
+                "amount": ".50"
+              }
+            ],
+            "total": [
+              {
+                "currency_type": "RATE",
+                "amount": "30.50"
+              },
+              {
+                "currency_type": "ALTERNATE",
+                "amount": "30.50"
+              },
+              {
+                "currency_type": "PICK_UP",
+                "amount": "30.50"
+              }
+            ]
+          },
+          {
+            "type_code": "SURCHARGE",
+            "code": "ACF",
+            "value_type_code": "PERCENTAGE",
+            "description": "Airport Concession Fee",
+            "percentage": "11.12",
+            "total": [
+              {
+                "currency_type": "RATE",
+                "amount": "950.76"
+              }
+            ]
+          },
+          {
+            "type_code": "TAX",
+            "code": "TAX",
+            "value_type_code": "PER_DAY",
+            "description": "Local Tax",
+            "total": [
+              {
+                "currency_type": "RATE",
+                "amount": "1989.65"
+              }
+            ]
+          },
+          {
+            "type_code": "FEE",
+            "code": "OWF",
+            "value_type_code": "PER_DAY",
+            "description": "One Way Fee",
+            "total": [
+              {
+                "currency_type": "RATE",
+                "amount": ".00"
+              },
+              {
+                "currency_type": "ALTERNATE",
+                "amount": ".00"
+              }
+            ]
+          }
+        ],
+        "conditional_charges": [
+          {
+            "type_code": "FEE",
+            "code": "EXT",
+            "value_type_code": "PER_RENTAL",
+            "description": "G10.00    EXTENSION FEE MAY APPLY"
+          },
+          {
+            "type_code": "FEE",
+            "code": "FPO",
+            "value_type_code": "PER_RENTAL",
+            "description": "FUEL POLICY IS FULL TO FULL"
+          },
+          {
+            "type_code": "FEE",
+            "code": "LAT",
+            "value_type_code": "PER_RENTAL",
+            "description": "G15.00    LATE FEE MAY APPLY"
+          },
+          {
+            "code": "PNS",
+            "type_code": "FEE",
+            "value_type_code": "PER_RENTAL",
+            "description": "PayNow NoShow Fee",
+            "total": [
+              {
+                "currency_type": "RATE",
+                "amount": "150.00"
+              }
+            ]
+          },
+          {
+            "type_code": "FEE",
+            "code": "PCN",
+            "value_type_code": "PER_RENTAL",
+            "description": "PayNow Cancellation Fee",
+            "total": [
+              {
+                "currency_type": "RATE",
+                "amount": "50.00"
+              }
+            ]
+          }
+        ]
+      },
+      "total_breakdown": [
+        {
+          "currency_type": "RATE",
+          "amounts": {
+            "approximate_total": "11520.91",
+            "total": "11520.91"
+          }
+        },
+        {
+          "currency_type": "ALTERNATE",
+          "amounts": {
+            "approximate_total": "11520.91"
+          }
+        }
+      ]
+    }
+  ],
+  "response_context": {
+    "booking_channel_info": {
+      "domain_country": "US",
+      "iata_numbers": [
+        "0160134S",
+        "0165211K"
+      ],
+      "booking_location_details": {
+        "mnemonic_code": "N1W",
+        "number": 8395
+      },
+      "booking_channel_code": "DC"
+    },
+    "original_booking_date": "2023-09-28",
+    "correlation_identifier": "ee368c74-1a05-f143-e08a",
+    "status": "SUCCESS",
+    "response_time": "2023-09-28T14:05:11.704Z"
+  }
+}

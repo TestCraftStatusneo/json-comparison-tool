@@ -1,0 +1,23 @@
+testMethodName,             param1,  param2,      param3,   param4,      param5
+verifyLocationSearch,          US,	 details123,  Avis,     Brooklyn
+verifyLocationSearch,          US,   details456,  Avis,     New Jersey
+verifyLocationSearch,          US,	 details123,  Budget,   Brooklyn
+verifyLocationSearch,          US,   details456,  Budget,   New Jersey
+verifyLocationSearch,          CA,   details123,  Avis,     Toronto
+verifyLocationSearch,          CA,   details456,  Avis,     Montreal
+verifyLocationSearch,          CA,   details123,  Budget,   Toronto
+verifyLocationSearch,          CA,   details456,  Budget,   Montreal
+verifyLocationSearch,          GB,   details123,  Avis,     London
+verifyLocationSearch,          GB,   details456,  Avis,     Glasgow
+verifyLocationSearch,          GB,   details123,  Budget,   London
+verifyLocationSearch,          GB,   details456,  Budget,   Glasgow
+verifyCountryCodeLengthError, TEST,   locationdetails123, Avis,   New Jersey
+verifyBestBuySearch,           21,   Avis
+verifyBestBuySearch,           25,   Avis
+verifyRateRequest,              A,   8A                , 25
+verifyRateRequest,              A,   8A                , 21
+verifyRateShops,              Avis
+verifyRateShops,              Budget
+verifyRateShops,              Payless
+verifyCSVDataAsString,         Avis,   US,              Brooklyn
+

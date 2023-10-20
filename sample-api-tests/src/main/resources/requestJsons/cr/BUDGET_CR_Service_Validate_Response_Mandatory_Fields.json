@@ -1,0 +1,125 @@
+{
+  "customer_information": [
+    {
+      "customer_role": "PRIMARY-RENTER",
+      "customer_details": {
+        "name": {
+          "ascii": {
+            "first_name": "SUNDAR",
+            "last_name": "MOORTHY"
+          }
+        },
+        "email": [
+          {
+            "type": "Y",
+            "email_id": "abgservice.us@gmail.com"
+          }
+        ],
+        "phone_number": [
+          {
+            "number": "2139156465"
+          }
+        ],
+        "country_of_residence_details": {
+          "country_code": [
+            {
+              "type": "ISO",
+              "code": "US"
+            }
+          ]
+        },
+        "preferences": [],
+        "features": {
+          "enhanced_profile": true,
+          "GEB_profile": false
+        },
+        "driving_license": [],
+        "wizard_number": "D4G13H"
+      }
+    }
+  ],
+  "requested_products": {
+    "products": [
+      {
+        "type": "VEHICLE",
+        "code": "A",
+        "details": {
+          "vehicle_information": {
+            "main_carclass_code": [
+              "R"
+            ],
+            "sub_carclass_code": [
+              "A"
+            ]
+          }
+        },
+        "quantity": 1,
+        "price_details": [
+          {
+            "requested_rates": [
+              "X-CP"
+            ]
+          }
+        ],
+        "associated_products": {
+          "products": []
+        },
+        "loyalty_details": {},
+        "associated_payment_id": []
+      }
+    ]
+  },
+  "pick_up_location": {
+    "mnemonic_code": "EWR"
+  },
+  "drop_off_location": {
+    "mnemonic_code": "EWR"
+  },
+  "pick_up_date_time": {
+    "date": "2023-10-14",
+    "time": "1000"
+  },
+  "drop_off_date_time": {
+    "date": "2023-10-19",
+    "time": "1000"
+  },
+  "request_context": {
+    "correlation_identifier": "ee368c74-1a05-f143-e08a",
+    "request_time": "2023-08-09T01:01:22Z",
+    "booking_channel_info": {
+      "booking_channel_code": "DC",
+      "domain_country": "US",
+      "partner_code": "I1",
+      "booking_location_details": {
+        "number": 9327,
+        "mnemonic_code": "WWW"
+      },
+      "iata_numbers": []
+    }
+  },
+  "brand_information": {
+    "brand": "BUDGET",
+    "sub_brand": ""
+  },
+  "payments": [],
+  "discount_codes": [],
+  "company_information": {
+    "company_number": "u140000"
+  },
+  "features": {
+    "prepay": {
+      "prepay_process": "N"
+    },
+    "rate": {
+      "rate_type": "LEISURE",
+      "rate_derived_from": "BB"
+    },
+    "loyalty": {},
+    "cid_override": false,
+    "on_request": false,
+    "approximate_total_components": false
+  },
+  "rewards": [],
+  "split_info": {}
+
+}

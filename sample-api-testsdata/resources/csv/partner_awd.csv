@@ -1,0 +1,982 @@
+# # AWD_Partner,A0699,"^[0-9]{5,9}$",A828300,USAA,NULL
+# # AWD_Partner,Q0544,"^[0-9]{5,9}$",A828300,USAA,NULL
+# # AWD_Partner,A1083,^[0-9]{12}$,A828100,Costco,NULL
+# # AWD_Partner,B5835,^[0-9]{12}$,A828100,Costco,NULL
+# # AWD_Partner,B9865,^[0-9]{12}$,A828100,Costco,NULL
+# # AWD_Partner,B9949,^[0-9]{12}$,A828100,Costco,NULL
+# # AWD_Partner,A1772,"^[0-9]{5,9}$",A828300,USAA,NULL
+# # AWD_Partner,A0185,"^[0-9]{5,9}$",A828300,USAA,NULL
+# # AWD_Partner,A5437,"^.{1,20}$",A543700,Uber,NULL
+# # AWD_Partner,A3598,NULL,A002600,AARP,NULL
+# AWD_Partner,A0586,,A0586000,ZEP,@ZEP.com
+# AWD_Partner,S6293,,S629300,,@aptiv.com
+# AWD_Partner,D5876,,D587600,,@dow.com
+# AWD_Partner,G0677,,G067700,,@hp.com
+# AWD_Partner,A1027,,A102700,RR Donnelley,@rrd.com
+# AWD_Partner,B0679,,B067900,,@netapp.com
+# AWD_Partner,A9228,,A9228000,Nokia Networks,"@nokia.com,@nokia-sbell.com,@nokia-bell-labs.com"
+# AWD_Partner,A9654,,A965400,TRUCATIONS,@trucations.com
+# AWD_Partner,S1921,,S192100,,@abbvie.com
+# AWD_Partner,A2743,,A274300,,@allergan.com
+AWD_Partner,A4494,,A449400,Aramco,@aramcoservices.com
+# AWD_Partner,A9655,,A9655000,COMCAST CORPORATION,"@comcast.com,@nbcuni.com,@adazzle.com,@audiencexpress.com,@beeswax.com,@blueface.com,@bluvector.io,@COMCASTSPECTACOR.COM,@CONTINGENT.COM,@DEEPBLUECOMMUNICATIONS.COM,@EENTERTAINMENT.COM,@forecastlabs.com,@freewheel.com,@FREEWHEEL.TV,@g4tv.com,@GOLFCHANNEL.COM,@I-CHANNEL.COM,@indemand.com,@masergy.com,@metrological.com,@PHILLYFUSION.GG,@plaxo.com,@spectacorevents.com,@SPECTACORGAMING.COM,@stratag.com,@thepamfestival.com,@THEPLATFORM.COM,@tvone.tv,@VISIBLEWORLD.COM,@xumo.com,@stylenetwork.com,@dreamworks.com,@cable.comcast.com"
+# AWD_Partner,A6432,,A643200,BioMarin,"@bmrn.com,@biomarin.com,@biomarin-rareconnections.com"
+# AWD_Partner,D4465,,D446500,Winco,"@winco.com,@wincofoods.com"
+# AWD_Partner,A5267,,A5267000,General Dynamics,@jetaviation.com
+# AWD_Partner,A5151,,A5151000,HEWLETT-PACKARD,@hpe.com
+# AWD_Partner,S2134,,S2134000,KYNDRYL,@kyndryl.com
+# AWD_Partner,A1339,,A1339000,CITI,"@citi.com,@citibank.com"
+# AWD_Partner,A2743,,A2743000,ALLERGAN,@allergan.com
+# AWD_Partner,A1941,,A1941000,PRICEWATERHOUSECOOPERS,@pwc.com
+# AWD_Partner,A3685,,A3685000,JOHNSON & JOHNSON,@its.jnj.com
+# AWD_Partner,D0157,,D0157000,MORGAN STANLEY,"@morganstanley.com,@ms.com"
+# AWD_Partner,B6935,,B6935000,ABBOTT,@abbott.com
+# AWD_Partner,D5876,,D5876000,DOW,@dow.com
+# AWD_Partner,A5411,,A5411000,KPMG,@KPMG.com
+# AWD_Partner,D6740,,D6740000,GOOGLE,"@google.com,@wing.com,@waymo.com,@surefox.com"
+# AWD_Partner,Y6738,,Y673800,Empire Airlines,@empireairlines.com
+# AWD_Partner,S1921,,S1921000,ABBVIE,@abbvie.com
+# AWD_Partner,G0677,,G0677000,HP,@hp.com
+# AWD_Partner,A1420,,A1420000,DXC,@dxc.com
+# AWD_Partner,A1300,,A1300000,BRISTOL MYERS SQUIBB,@bms.com
+# AWD_Partner,A4659,,A4659000,ADP,@adp.com
+# AWD_Partner,D1919,,D191900,Fortive,"@fortive.com,@ftvbsllc.com,@tektronix.com,@provationmedical.com,@fluke.com,@dynapar.com,@asp.com"
+# AWD_Partner,J0646,,J0646000,DUPONT,@dupont.com
+# AWD_Partner,B9069,,B9069000,ICON CLINICAL RESEARCH,"@iconplc.com,@prahs.com"
+# AWD_Partner,S6293,,S6293000,APTIV,@aptiv.com
+# AWD_Partner,B0679,,B0679000,NETAPP,@netapp.com
+# AWD_Partner,A6202,,A620200,IPG,"@10reddesign.com,@12status.com,@135team.com,@18knoten.com,@20-80.fcb.com,@215mccann.com,@2gh.de,@2ndstoryedit.com,@303.com.au,@303lowe.com.au,@303mullenlowemediahub.com.au,@361experiential.com,@361marketing.com,@3pmagency.com,@90north.health,@acceleratefusion.com,@advantagemrktg.com,@advantagesports.co.za,@ae.initiative.com,@affinity-cmc.com,@afg1.com,@afgasia.org,@afg-enterprise.com,@afgeurope.com,@afgmccann.com,@agence-one.com,@agency215.com,@agency5oclock.com,@aginamerica.com,@airborneagency.com,@altitude.me,@amaze-interpublic.com,@ampersandmarketing.com,@amusecentral.com,@anom.com.au,@ansiblemobile.com,@ansibleww.com,@ansibleww.com.au,@antitraffickingexam.com,@ap.magnaglobal.com,@ap.mccann.com,@aqueduct.co.uk,@ar.initiative.com,@ar.initiativemedia.com,@area23hc.com,@area23onhudson.com,@asteroid.cl,@at.initiative.com,@ateam.lat,@atelieramuse.com,@atelieripg.com,@atrium310.com,@au.initiative.com,@au.initiativemedia.com,@audience-tv.com,@baylife.org.uk,@be.initiativemedia.com,@be.webershandwick.com,@benjamingroup.com,@bgenius.com,@bluebanana.co.uk,@bo.initiative.com,@bo.initiativemedia.com,@bomoda.com,@borghierhlowe.com.br,@borghilowe.com.br,@bpnindia.com,@bpnww.com,@bpnww.dk,@bpnww.no,@brandconnection.com,@brandopinion.gr,@brandxglobal.com,@brand-xperience.com,@bright-consultancy.co.uk,@bsmg.com,@bx.design,@ca.initiative.com,@ca.initiativemedia.com,@cabelleanes.com,@cadillacexecutivedrive.ca,@cadreon.co.uk,@cadreon.com,@cadreon.nl,@cam.initiative.com,@campbell-ewald.com,@canvasblue.com,@capellamena.com,@cappuccinodigital.com.br,@catalunyabikerace.com,@caudex.com,@c-e.com,@ch.initiative.com,@ch.initiativemedia.com,@chasedesign.net,@cherryprocessor.com,@chi-fms.com,@choosecherries.com,@chromedigital.tv,@cl.initiative.com,@clarkstreetbridge.com,@clickablemediagroup.com,@clickablemg.com,@clinicallycurrent.com,@clynch.com,@cmgaustralia.com.au,@cmggrp.com,@cmgrp.com,@cmgrpituk.com,@cmithun.com,@cms.interpublic.com,@cn.initiative.com,@cn.initiativemedia.com,@co.initiative.com,@co.initiativemedia.com,@collaborate.draftfcb.com,@collaborate.fcb.com,@commandline.ai,@commonwealth-team.com,@compasspoint.media,@compasspoint-mccann.com,@compasspoint-media.com,@completeclarity.com,@complete-grp.com,@complete-grp.it,@complete-hv.com,@complete-mc.com,@completemedcom.ca,@completemedcom.com,@completemedcomms.com,@complete-reg.com,@complete-rw.com,@completeworldwide.com,@connect-cmc.com,@consultcomplete.com,@corewell.org,@corp.ipgnetwork.com,@corp.ipgtest.com,@cplusplatform.com,@craftamsterdam.com,@craftamsterdam.nl,@craftww.com,@creation.io,@creation-ldn.com,@creation-mcr.com,@creativecapital.ws,@creativemedia.gr,@creature.agency,@creatureagency.com.au,@cure-hc.com,@currentglobal.com,@currentlm.com,@cw-mccann.com,@cwmena.com,@cz.initiative.com,@cz.initiativemedia.com,@datavision.affinity-cmc.com,@datavision.caudex.com,@datavision.complete-hv.com,@datavision.connect-cmc.com,@dcell.in,@de.initiative.com,@dearwhiteparents.guide,@deepdesign.com,@devriesglobal.com,@devriespr.com,@devries-pr.com,@devries-slam.com,@dfcbx.com,@dhelixc.co.uk,@dhelixc.com,@dhelixd.co.uk,@dhelixd.com,@digilogue.nl,@dk.initiative.com,@dk.initiativemedia.com,@dlkw.co.uk,@dlkwlowe.com,@dna-comms.com,@dnamedcomms.co.uk,@dnamedcomms.com,@dnext-mb.com,@do.initiative.com,@doublehelix.co.uk,@doublehelixconsulting.co.uk,@doublehelixdevelopment.co.uk,@doublehelixdevelopment.com,@draftca.com,@draftcanada.com,@draftfcb.co.id,@draftfcb.de,@draftworldwide.com,@dynamicipg.com,@dyu.cl,@e.craftww.com,@e.mccann.es,@e.thefilmhouse.es,@e.umww.com,@eascc.interpublic.com,@eascc-dev.interpublic.com,@eascc-qa.interpublic.com,@ec.initiative.com,@ec.initiativemedia.com,@eikoncampaign.com,@elevatedigitalww.com,@el-laboratorio.es,@el-laboratorio.net,@el-laboratorio.org,@endtoendmarketing.net,@ensemble.agency,@ensembleaustralia.com.au,@ensembleworldwide.com,@ensembleww.com,@eou.com.br,@eou-mrm.com.br,@epand.co,@epandcompany.com,@erwinpenland.com,@es.initiative.com,@es.initiativemedia.com,@eshare.interpublic.com,@europe.mccann.com,@evidenceresearchunit.com,@eyesiteindia.com,@fastbridge.at,@fastbridge.hu,@fbls.no,@fcb.com,@fcbcure.com,@fcbhalesway.co.uk,@fcbhealth.com,@fcbhealth.de,@fcb-health.de,@fcbhealthcare.com,@fcbhealthnetwork.com,@fcbinferno.com,@fcbsix.com,@fcbsixconsulting.com,@fcbvio.com,@fcb-x.com,@fcurarte.org,@filmfashion.com,@firebrandcoms.co.uk,@fissioncommunications.com,@fitzco-compasspoint.com,@flipsidegroup.com,@fluidww.com,@fp7.com,@fp7ccann.com,@fp7mccann.com,@fr.initiative.com,@fr.initiativemedia.com,@frankaboutwomen.com,@freshlybakedmktg.com,@fruktcomms.com,@fruktfixers.com,@fueladvertising.com,@fuelcontent.ca,@fundacioncurarte.org,@futurebrand.com,@futurebrand.es,@futurebrand.fr,@futurebrandhugoandcat.com,@futurebrandindex.com,@futurebrandspeckdesign.com,@futurebranduxus.com,@futuressport.com,@genuineinteractive.com,@gfmf-nbad.com,@gghlowe.de,@ggh-mullenlowe.de,@gh-usa.com,@giftededucaterberlin.com,@giftededucatorberlin.com,@giscenter.interpublic.com,@gmrworks.com,@golin.com,@golindev.com,@golinharris.com,@golinharris.com.hk,@golinharris.de,@golinharris.net,@golinmagic.com,@golinopinion.in,@goteamunion.com,@gothaminc.com,@gr.initiative.com,@gr.initiativemedia.com,@grapheneipg.com,@greenroom-digital.com,@groupyellow.com,@gts-cplus.com,@gumboeurope.net,@halesway.co.uk,@haloeffect.me,@harrison.com.pe,@harrison.japan.mccann.com,@harrison.ph,@harrisonbangkok.com,@harrisoncn.com,@healixglobal.com,@healixglobalmedia.com,@healthvizion.com,@healthvizionair.com,@healthvizionlife.com,@Hedy-agency.com,@hedy-agency.de,@hhcc.com,@hilinedm.com,@hk.initiative.com,@hk.initiativemedia.com,@hpdiscover2015.com,@hpeglobaleventsemea.com,@hudsonglobal.com,@hudsonmc.com,@hugoandcat.com,@humancarehc.com,@iagi.co,@icc-hc.com,@icclink.com,@icclowe.com,@iconaww.com,@id.initiativemedia.com,@ideasforbrands.com,@identitycomms.com.au,@identityww.com,@idmediaww.com,@ie.initiative.com,@ignite-com.com,@ignitenordic.com,@il.initiative.com,@il.initiativemedia.com,@imba.gr,@inferno-group.co.uk,@initiative.co.uk,@initiative.com,@initiativemedia.com,@initiativemedia.com.lb,@initiativemena.com,@insidedge.net,@instituteofdecisionmaking.com,@interactive.mccann.es,@interactiveavenues.com,@interactiveuniversal.com,@interpublic.com,@interpublic.com.au,@interpublicdev.com,@interpublicdev.onmicrosoft.com,@intranet.draftfcb.com,@intranet.fcb.com,@ipg2test.com,@ipgambg.com,@ipgatelier.com,@ipgcenter.com,@ipgcenter-ACX.com,@ipgcenter-RUS.com,@ipgcomms.com,@ipgcommunications.com,@ipgdev.com,@ipgdxtra.com,@ipgdynamic.com,@ipgexchange.jackmorton.com,@ipgfusion.com,@ipghealth.com,@ipg-health.com,@ipghealth.de,@ipg-health.de,@ipghealthcarenetwork.com,@ipghealthfamily.com,@ipghealthventure.com,@ipg-heath.com,@ipghexpert.com,@ipgjobs.com,@ipglab.com,@ipgmediabrands.com,@ipgopen.com,@ipg-pr.com,@ipgredplay.com,@ipgstudios.co.kr,@ipgstudios.com,@IPGTeamAccess.com,@ipgteamcyclone.com,@ipg-teamdynamic.com,@ipgtest.com,@ipg-thrive.com,@ipgvision.com,@ipgvpnguest.com,@IPG-X.com,@ipgxspringhill.com,@ipm.co.uk,@iportal.interpublic.com,@iportal2010.interpublic.com,@iportal2010dev.interpublic.com,@iportal2010qa.interpublic.com,@iportal2016dev.interpublic.com,@iportal2019.interpublic.com,@iportal2019dev.interpublic.com,@iportal2019qa.interpublic.com,@iportaldev.interpublic.com,@iportalqa.interpublic.com,@iretail.dk,@it.initiative.com,@it.initiativemedia.com,@itb-worldwide.com,@ium.dk,@ium.fi,@ium.no,@ium.se,@iumas.no,@ix-team.com,@j3canada.com,@j3mena.com,@jack-health.com,@jackmorton.co.uk,@jackmorton.com,@jackmorton.com.cn,@jackmorton.com.hk,@jackmorton.com.sg,@jackmortongsuite.com,@japan.mccann.com,@jnb-mccann.com,@jnb-mccann.de,@kinesso.com,@k-initiative.in,@krcresearch.com,@kseglobal.com,@Kuulas.fi,@lab13.design,@laika.cl,@lakestarmccann.com,@lakestarmedia.com,@lariojabikerace.com,@lb.initiative.com,@lb.initiativemedia.com,@lcispot.com,@lcmena.com,@leestreetpr.com,@legacy.ipgtest.com,@lenovo-events.co.uk,@linconsult.in,@linengage.in,@linenlintas.com,@linhealth.in,@linopiniongh.com,@linproductions.in,@lintascex.in,@lintasindia.com,@lintasinitiative.in,@lintaslive.in,@lintasmedia.in,@lintasmediahub.in,@linteractive.in,@liverwatchi.com,@lodestar-um.com,@lolahuge-barcelona.com,@lola-madrid.com,@lola-mullenlowe.com,@lordandthomas.org,@lowe.co.il,@loweandpartners.com,@loweandpartnerssa.com,@lowebull.com,@lowecape.com,@lowe-ce.com,@lowe-ceny.com,@lowecounsel.com,@lowedev.com,@lowedraftfcb.com,@lowefrance.com,@lowehealthcare.com,@lowejhb.com,@lowelintas.com,@lowelintas.in,@lowemail.com,@loweny.com,@loweopen.com,@loweparis.com,@loweprofero.com,@loweprofero.com.au,@lowestrateus.com,@lowesuperculture.com,@loweworldwide.com,@m2u.ca,@m2universal.ca,@maclaren.com,@magnaglobal.com,@magna-global.com,@magnaglobal.fr,@magnaglobal.nl,@magnaglobal-eg.com,@magnainsights.com,@manchesterws.co.uk,@map-global.at,@map-global.com,@martinagency.com,@martinclouds.com,@marvelous.dk,@mastercardpromocoes.com.br,@matterkind.com,@matterkind.la,@mbcsww.com,@mbww.com,@mccann.ch,@mccann.cl,@mccann.co.cr,@mccann.co.uk,@mccann.com,@mccann.com.ar,@mccann.com.br,@mccann.com.co,@mccann.com.hn,@mccann.com.mx,@mccann.com.pa,@mccann.com.pe,@mccann.com.pl,@mccann.com.pr,@mccann.com.tr,@mccann.com.tt,@mccann.com.ve,@mccann.cz,@mccann.de,@mccann.es,@mccann.nl,@mccann.ph,@mccann.ro,@mccann4flow.com,@mccann-amaze.com,@mccanncanada.com,@mccanncompletemed.com,@mccannconnected.com,@mccannenterprise.com,@mccannentertainment.com,@mccannhealth.com,@mccannhealth.com.br,@mccannhealth.de,@mccannhealthcare.ae,@mccannhealthcare.nl,@mccannlondon.com,@mccannsf.com,@mccann-spencer.com,@mccannsynergy.com,@mccann-torrelazur.de,@mccannwg.com,@mccannworldgroup.com,@mccannworldgroup.de,@mccannworldgroup.nl,@mccannworldgroup.pl,@mccannxbc.com,@mcmedia.us.com,@mcm-iceacademy.com,@mcnholding.com,@mcnmena.com,@mediabrands.at,@mediabrands.be,@mediabrands.com,@mediabrands.fr,@mediabrands.gr,@mediabrandsww.com,@mediaexperts.com,@mediafirst.com,@mediafront.no,@mediahubml.com,@mediahubmullen.com,@mediahubmullenlowe.com,@mediahubww.com,@mediapartnership.com,@mercadomccann.com,@mgmp.de,@mhwmedcomms.com,@miami.mccann.com,@milkmoney.tv,@miller.shandwick.com,@mithun.agency,@mlmhus.com,@mnetmobile.com,@mnetmobile.com.au,@momentum.mccann.ro,@momentum.pl,@momentum.ro,@momentummena.com,@momentumww.com,@momentumww.com.co,@momentumww.pl,@momoww.com,@mosaic-mm.com,@mosaic-mmagency.com,@mrjohnsample.com.br,@mrm.ae,@mrm.cl,@mrm.com,@mrm.de,@mrm.technology,@mrm-ellaboratorio.com,@mrmendtoend.com,@mrm-inside.com,@mrmlondon.co.uk,@mrm-mccann.ae,@mrmmccann.com,@mrm-mccann.com,@mrm-mccann.de,@mrm-mccann.pl,@mrmmeteorite.co.uk,@mrm-meteorite.co.uk,@mrm-meteorite.com,@mrmpartners.co.uk,@mrmpartners.com.au,@mrmpartners.fr,@mrmpartners.ro,@mrmworks.com,@mrmworldwide.co.uk,@mrmworldwide.com,@mrmworldwide.com.ar,@mrmworldwide.ro,@mrm-ww.com,@mrmww.es,@mrvls.com,@mubaloo.com,@mullen.com,@mullenlintas.in,@mullenlowe.com,@mullenlowebrasil.com,@mullenlowegroup.com,@mullenlowelintas.in,@mullenlowelondon.com,@mullenlowemediahub.com,@mullenlowemena.com,@mullenloweopen.com,@mullenloweprofero.com,@Mullenlowesalt.com,@m-united-msft.com,@mwg.com,@mwgdetroit.com,@mwgsolutions.com,@mwg-tag.me,@mworkspr.com,@mx.initiative.com,@mx.initiativemedia.com,@my.initiative.com,@my.initiativemedia.com,@neon-nyc.com,@newhonorsociety.com,@nl.initiative.com,@nl.initiativemedia.com,@nlab.com.br,@no2nd.place,@no6.com,@no6.tv,@notjustacasestudy.com,@nowupontime.org,@octagon.com,@octagonmena.com,@octagonta.com,@ofswealth.com,@oilinsight.co.za,@ok-reprise.com,@onemccann.com,@onemilliontalks.com,@onmullenlowe.com,@opsww.com,@optaros.com,@orioncapitalww.com,@oriondeals.com,@orionholdingsww.com,@oriontrading.dk,@oriontradingww.com,@orionworldwide.com,@osenww.com,@otradingww.com,@outdoorservices.be,@ovejanegralowe.com,@pace.icclowe.com,@pace-hc.com,@panmedia.at,@pdgltd.com,@pe.initiative.com,@pe.initiativemedia.com,@performanceart.com,@performanceart.io,@PerformanceArts.com,@performly.social,@ph.initiative.com,@ph.initiativemedia.com,@pipelineps.com,@pl.initiativemedia.com,@plate84.com,@platform-five.com,@pmi.fi,@pmkbnc.com,@pointninelintas.in,@popbydevries.com,@populistwest.com,@postsintoletters.com,@powelltate.com,@premiumvoice.fr,@previewpropaganda.com.br,@primegroup.com,@primepr.se,@probridge.com,@probridgeww.com,@profero.com,@proficientcomm.com,@prohealthmeded.com,@projcenter.com,@projectcenter.interpublic.com,@projects.affinity-cmc.com,@projects.caudex.com,@projects.complete-hv.com,@projects.complete-mc.com,@projects.complete-reg.com,@projects.connect-cmc.com,@projects.jackmorton.com,@projects.mccann.com,@promoqube.com,@promoqube.net,@promoseven360.com,@pt.initiative.com,@pt.initiativemedia.com,@pt.universalmccann.com,@publicom.com.br,@pursway.com,@pyxstudio.com,@quadrantcom.com,@rallyworldwide.com,@rapportnl.nl,@rapportww.com,@rchrome.com,@rcw.com,@realhelsinki.fi,@redshift.icclowe.com,@redsnap.co,@red-snap.com,@red-start.com,@reprise.pl,@reprisecommerce.com,@reprisedigital.com,@reprisemedia.com,@reprisemedia.com.au,@reprisemedia.fr,@reprisemedia.no,@reprisemedia.pl,@reprisemena.com,@resolute.com,@reviveagency.com,@revivepr.com,@revivepublicrelations.com,@rivetglobal.com,@ro.initiative.com,@rogersandcowan.com,@rogersandcowanpmk.com,@room523.com,@rufusemea.com,@rufusww.com,@rworksglobal.com,@rwspost.com,@s2.com.br,@s2publicom.com.br,@sa.initiativemedia.com,@Saltlondon.com,@Saltsingapore.com,@sawyermiller.com,@scania-events.com,@se.initiative.com,@seatstudiosupport.co.uk,@see-sound.com,@segallicensing.com,@sendmyteacher.com,@sensekit.com,@service-sharing.com,@sg.initiative.com,@shandwick.com,@sharepoint.draftfcb.com,@sharepoint.fueladvertising.com,@sharepoint.hackergroup.com,@shelllicenseesummit2018.com,@shoppersciences.com,@sixadvertising.com.au,@slampr.com,@slamteam.com,@sma1.ipg.iphmx.com,@sma2.ipg.iphmx.com,@societyagency.com,@societysocial.co.uk,@societysocial.com.au,@societysocial.ie,@solved.health,@somosberlin.cl,@spdev.interpublic.com,@spmail.interpublic.com,@spongpr.com,@springcreek.nl,@springcreekgroup.com,@springpoint.com.br,@sprunglanguage.com,@srglink.com,@stickyeyes.com,@studi03.com.au,@studio6support.com,@studiorx.com,@studiorxww.com,@superdigital.nl,@sv.initiative.com,@synergycreative.co.uk,@tagideation.com,@talktocurrent.com,@team5x5.com,@teamelectrify.com,@TeamIPGconnect.com,@team-n.net,@team-xcelerate.com,@test.springcreekgroup.com,@th.initiative.com,@th.initiativemedia.com,@thatlot.co.uk,@thebackroom.biz,@thebrooklynbrothers.com,@thecostudios.com,@thefilmhouse.es,@thegolingroup.com,@themediapracticeww.com,@thermaldigital.com,@thesocialphotographers.be,@thesocialphotographers.biz,@thinkrevivehealth.com,@thirteen-inc.com,@thisisanexampledomain.com,@Thisisansible.com,@thrivembww.com,@thrive-umww.com,@thrive-wmccann.com,@tierneyagency.com,@tierneygroup.com,@traffic4u.es,@traffic4u.nl,@traverse32.com,@triliamedia.com,@trio.icclowe.com,@trio-hc.com,@triorx.com,@truenorth.com,@tspstudios.be,@tspstudios.biz,@tw.initiative.com,@tw.initiativemedia.com,@twofifteenmccann.com,@u2-media.pl,@ucww.com,@uk.initiative.com,@uk.initiativemedia.com,@uk.webershandwick.com,@um.nl,@umdash.com,@umj3.com,@ummena.com,@umpanmedia.at,@umspotify.com,@umww.co.uk,@umww.com,@umwwpm.com,@unit003.cz,@unitedminds.se,@unitedmindsglobal.com,@unitedwesa.com,@universalmccann.co.uk,@universalmccann.com,@universalmccann.com.tr,@universalmccann.cz,@universalmccann.de,@universalmccann.es,@universalmccann.ph,@us.initiative.com,@us.initiativemedia.com,@uxus.com,@uxusdesign.com,@uy.initiative.com,@uy.initiativemedia.com,@ve.initiative.com,@ve.initiativemedia.com,@vectorb.com.mx,@velocitydetroit.com,@verizonbusiness.com,@virgohealth.com,@virgohealthpr.com,@virgovantage.com,@virtamedia.com,@vispringdubai.com,@vmware-events.com,@voweldigital.com,@wahlstrom.com,@wanops.com,@wearefrukt.com,@wearegenuine.com,@wearematterkind.com,@wearesuperjoy.com,@webershandwick.com,@we-connect.net,@well-7.com,@wgretail.com,@wizard-manila.com,@wmccann.com,@wonderww.com,@workingsolutions.ae,@ws-mena.com,@xcelerate-team.com,@xpeto.net,@yazuyello.com,@yetiproductions.com,@yourfuturelondon.com,@your-notifications.com,@your-submissions.com,@yune.nl,@yuzuyello.com,@yuzuyellow.com,@zazzlemedia.co.uk"
+# AWD_Partner,X1962,NULL,X1962000,FACEBOOK,"@face.com,@meta.com,@fb.com,@instagram.com,@oculus.com"
+# AWD_Partner,B1469,,B146900,NBBJ,@nbbj.com
+# AWD_Partner,B2863,,B286300,PACCAR,@paccar.com
+# AWD_Partner,A5021,,A5021000,SHELL OIL/SERVICES CO.,@shell.com
+# AWD_Partner,A4130,,A4130000,"BANK OF AMERICA, NA","@bofa.com,@ml.com"
+# AWD_Partner,A6038,,A6038000,"CAPGEMINI AMERICA, INC.",@capgemini.com
+# AWD_Partner,A1393,,A1393000,PFIZER,@pfizer.com
+# AWD_Partner,G8729,,G872900,Comfort Systems USA,@comfortsystemsusa.com
+# AWD_Partner,A3669,,A366900,TrueBlue,@trueblue.com
+# AWD_Partner,B3855,,B3855000,TEXAS INSTRUMENTS INC,@ti.com
+# AWD_Partner,A1201,,A1201000,FISERV,@fiserv.com
+# AWD_Partner,B7054,,B7054000,MARATHON PETROLEUM,@marathonpetroleum.com
+# AWD_Partner,A8400,,A8400000,AON CORPORATION,@aon.com
+# AWD_Partner,A8440,,A8440000,GENERAL MILLS,@genmills.com
+# AWD_Partner,B1266,,B1266000,PARKER HANNIFIN,@parker.com
+# AWD_Partner,A6309,,A6309000,APPLIED MATERIALS INC,@amat.com
+# AWD_Partner,A3775,,A3775000,MEDTRONIC,@medtronic.com
+# AWD_Partner,A6666,NULL,A6666000,AT&T,"@ACCBUSINESS.COM,@ACUS.COM,@AIO.COM,@AIOWIRELESS.COM,@ALASCOM.ATT.COM,@ALIENVAULT.COM,@AMERITECH.COM,@AP.ATT.COM,@APPNEXUS.COM,@ASE.ATT-MAIL.COM,@ASEMAIL.ATT.COM,@ATT.COM,@ATT.COM.MX,@ATTWIFI.COM,@ATTWS.COM,@AWSMAIL.ATT.COM,@BKB.TV,@CINGULARLAB.COM,@CORP.PRODIGY.COM,@CRICKETCOMMUNICATIONS.COM,@CRICKETWIRELESS.COM,@D2MEDIASALES.COM,@DIRECTV.COM,@DIRECTVLA.COM,@DTVHS.COM,@DTVOPS.NET,@EMEA.ATT.COM,@EMS.ATT.COM,@EXO.ATT.COM,@GRCI.COM,@INTERWISE.COM,@INTL.ATT.COM,@LABS.ATT.COM,@LEAPWIRELESS.COM,@LGA.ATT.COM,@MWMAIL.ATT.COM,@MX.ATT.COM,@QUICKPLAY.COM,@RESEACH.ATT.COM,@RESORTWIFI.COM,@RESORTWIFI.NET,@RESORTWIFI.ORG,@SEMAIL.ATT.COM,@SUPERCLICK.COM,@SWMAIL.ATT.COM,@UNEFON.COM,@UNEFON.COM.MX,@US.ATT.COM,@WAYAD.CORP.WAYPORT.NET,@WAYPORT.COM,@WAYPORT.NET,@WAYPORTACCESS.NET,@WAYPORT-ASIA.COM,@WAYPORT-ASIA.NET,@WAYPORT-EUROPE.COM,@WAYPORT-EUROPE.NET,@WAYPORT-INTL.COM,@WAYPORT-INTL.NET,@WEMAIL.ATT.COM,@XANDR.COM"
+# AWD_Partner,A2862,,A2862000,JPMORGAN CHASE & CO,"@jpmorganchase.com,@jpmorgan.com,@chase.com,@jpmchase.com"
+# AWD_Partner,A6225,NULL,A6225000,ERNST & YOUNG,"@AF.EY.COM,@AL.EY.COM,@DZ.EY.COM,@AR.EY.COM,@AM.EY.COM,@AU.EY.COM,@AT.EY.COM,@AZ.EY.COM,@BS.EY.COM,@BH.EY.COM,@BD.EY.COM,@BB.EY.COM,@BY.EY.COM,@BE.EY.COM,@BM.EY.COM,@BO.EY.COM,@BA.EY.COM,@BW.EY.COM,@BR.EY.COM,@VG.EY.COM,@BN.EY.COM,@BG.EY.COM,@KH.EY.COM,@CM.EY.COM,@CA.EY.COM,@KY.EY.COM,@TD.EY.COM,@CL.EY.COM,@CN.EY.COM,@TW.EY.COM,@CO.EY.COM,@CR.EY.COM,@CI.EY.COM,@HR.EY.COM,@CY.EY.COM,@CZ.EY.COM,@CZ.EYLAW.COM,@CD.EY.COM,@DK.EY.COM,@DO.EY.COM,@EC.EY.COM,@EG.EY.COM,@SV.EY.COM,@GQ.EY.COM,@EE.EY.COM,@FJ.EY.COM,@FI.EY.COM,@FR.EY.COM,@GA.EY.COM,@GE.EY.COM,@DE.EY.COM,@GH.EY.COM,@GI.EY.COM,@GR.EY.COM,@GU.EY.COM,@GT.EY.COM,@GN.EY.COM,@HN.EY.COM,@HU.EY.COM,@IS.EY.COM,@IN.EY.COM,@ID.EY.COM,@IQ.EY.COM,@IE.EY.COM,@IM.EY.COM,@IL.EY.COM,@IT.EY.COM,@JM.EY.COM,@JP.EY.COM,@JO.EY.COM,@KZ.EY.COM,@KE.EY.COM,@KR.EY.COM,@KW.EY.COM,@KG.EY.COM,@LA.EY.COM,@LV.EY.COM,@LB.EY.COM,@LY.EY.COM,@LT.EY.COM,@LU.EY.COM,@MK.EY.COM,@MW.EY.COM,@MY.EY.COM,@MT.EY.COM,@MU.EY.COM,@MX.EY.COM,@MD.EY.COM,@MC.EY.COM,@MN.EY.COM,@ME.EY.COM,@MA.EY.COM,@MZ.EY.COM,@MM.EY.COM,@NA.EY.COM,@NL.EY.COM,@AN.EY.COM,@NZ.EY.COM,@NI.EY.COM,@NG.EY.COM,@NO.EY.COM,@OM.EY.COM,@PK.EY.COM,@PS.EY.COM,@PA.EY.COM,@PG.EY.COM,@PY.EY.COM,@PE.EY.COM,@PH.EY.COM,@PL.EY.COM,@PT.EY.COM,@QA.EY.COM,@CG.EY.COM,@RO.EY.COM,@RU.EY.COM,@RW.EY.COM,@SA.EY.COM,@SN.EY.COM,@RS.EY.COM,@SG.EY.COM,@SK.EY.COM,@SI.EY.COM,@ZA.EY.COM,@ES.EY.COM,@LK.EY.COM,@SE.EY.COM,@CH.EY.COM,@TZ.EY.COM,@TH.EY.COM,@TT.EY.COM,@TN.EY.COM,@TR.EY.COM,@UG.EY.COM,@UA.EY.COM,@AE.EY.COM,@UY.EY.COM,@UZ.EY.COM,@VE.EY.COM,@VN.EY.COM,@ZM.EY.COM,@ZW.EY.COM,@DP.EY.COM,@EXTERNALCONTRACTOR.EY.COM,@EYC3.COM,@EYPORTJACKSONPARTNERS.COM,@GDS.EY.COM,@HK.EY.COM,@MEHLMANJACOBS.COM,@@PARTHENON.EY.COM,@DOBERMAN.EY.COM,@EY-AVOCATS.COM,@EYLAW.AT,@EYLAW.COM.HK,@EYOP.EY.COM,@LAW.SE.EY.COM,@MO.EY.COM,@XE03.EY.COM,@CONTROLLER-INSTITUT.AT,@EYG.EY.COM,@HOLLANDLAW.NL,@HVGLAW.BE,@HVGLAW.NL,@LAN.EY.COM,@RA-LAW.RO,@SU.EY.COM,@XE04.EY.COM,@LUMIERELP.COM,@SRB.IN,@VENTURY.EY-AVOCATS.COM,@EY.COM,@EYFOUNDATION.EY.COM,@EY-INNOVALUE.DE,@MXS.EY.COM,@PDSLEGAL.COM,@SKYE.EY.COM,@ATLASASIALAW.COM.SG,@CATALYST.EY.COM,@INVEST-TRADE.UK,@VODW.EY.COM,@XE05.EY.COM,@XE08.EY.COM,@ETVENTURE.EY.COM,@EY-SEREN.COM,@ISS.EY.COM,@MET.EY.COM,@RIVERVIEWLAW.EY.COM,@CYLAW.EY.COM,@PARTHENON.EY.COM,@RAPID.EY.COM,@RRP.PT,@UK.EY.COM,@XE02.EY.COM"
+# AWD_Partner,B0218,,B021800,Resers,@resers.com
+# AWD_Partner,D1991,,D199100,Zumiez,@zumiez.com
+# AWD_Partner,C0620,NULL,C0620000,BOMBARDIER,"@aero.bombardier.com,@bombardier.com"
+# AWD_Partner,B5928,,B592800,Schnitzer Steel,"@schn.com,@schnitzersteel.com"
+# AWD_Partner,A1517,,A151700,Cooper Industries,@cooperindustries.com
+# AWD_Partner,D0084,,D0084000,AMAZON COM,"@6pm.com,@abebooks.com,@amazon.com,@annapurnalabs.com,@audible.com,@bookdepository.com,‎@boxofficemojo,@comixology.com,@fabric.com,@goodreads.com,@imdb.com,@healthnavigator.com,@kuiper-group.com,@lab126.com,@lovefilm.com,@pillpack.com,@ring.com,@shopbop.com,@twitch.tv,@wholefoodsmarket.com,@woot.com,@zappos.com,@zoox.com,@a100dco.com,@a2z.com,@amazon.ae,@amazon.at,@amazon.ch,@amazon.co.jp,@amazon.co.th,@amazon.co.uk,@amazon.com.ar,@amazon.com.au,@amazon.com.bh,@amazon.com.tr,@amazon.com.vn,@amazon.cz,@amazon.de,@amazon.es,@amazon.fi,@amazon.fr,@amazon.id,@amazon.in,@amazon.it,@amazon.lu,@amazon.my,@amazon.nl,@amazon.ph,@amazon.pl,@amazon.pt,@amazon.ro,@amazon.sa,@audible.co.jp,@audible.co.uk,@audible.com.au,@audible.de,@buyvip.com,@quidsi.com,@wondery.com,@justin.tv"
+# AWD_Partner,T5047,,T5047000,OTIS ELEVATOR,"@OTIS.COM,@otiselevator.net"
+# AWD_Partner,H7782,,H7782000,MOTOROLA SOLUTIONS,@motorolasolutions.com
+# AWD_Partner,A3674,,A3674000,TYSON SHARED SERVICES,@tyson.com
+# AWD_Partner,A1456,,A1456000,JOHNSON CONTROLS INC,@jci.com
+# AWD_Partner,B4600,,B4600000,KLA,"@kla.com,@kla-tencor.com,@orbotech.com,@spts.com,@woodruffsawyer.com"
+# AWD_Partner,A5511,NULL,A5511000,RAYTHEON TECHNOLOGIES,"@AATCORP.COM,@ADFOS.ROCKWELLCOLLINS.COM,@ARINC.COM,@ARINCDIRECT.COM,@ATSCHILLER.COM,@AVIATIONELECTRONICS.COM,@BBN.COM,@BEAEROSPACE.COM,@BEAEROSPACE-SYSTEMS.COM,@BRAZONICS.COM,@BTL.CO.IL,@CLAVERHAM.COM,@COLLINS.COM,@COLLINSAERO.COM,@COLLINSAEROSPACE.COM,@CORP.ROCKWELLCOLLINS.COM,@CORPDC.UTC.COM,@CORPHQ.UTC.COM,@CORPUK.UTC.COM,@DELAVAN.CO.UK,@ENGINEALLIANCEPORTAL.COM,@FISCHER-SEATS.COM,@FISCHER-SEATS.DE,@GOODRICH.COM,@HFEMAIL.COM,@HS.UTC.COM,@HSD.UTC.COM,@HSMARSTON.CO.UK,@IAE-JAEC.COM,@IAEV2500.COM,@JAREINHARDT.COM,@KIDDE-DEUGRA.COM,@LISTS.ARINC.COM,@MACROLINK.COM,@MIKROSYSTEMS.COM,@NM.HSD.UTC.COM,@PCIGA.COM,@PIKEWERKS.COM,@PRATTWHITNEY.COM,@PRATTWHITNEYCHINA.COM,@PW.UTC.COM,@PWAERO.UTC.COM,@PWAP.UTC.COM,@PWBE.UTC.COM,@PWC.CA,@PWK.COM.PL,@PWRZE.UTC.COM,@RTX.COM,@RAYTHEON.CO.UK,@RAYTHEON.COM,@RAYTHEON.COM.AU,@RAYTHEONCYBER.COM,@RAYTHEON-SSD.COM,@RPS-EMEA.COM,@SIGOVS.COM,@SOLIPSYS.COM,@TELIGY.COM,@THALESRAYTHEON-US.COM,@TRAININGSUPPORTADMIN.COM,@RATIER-FIGEAC.FR,@SBMACHINEINC.COM,@SILICONSENSING.COM,@TEKLAM.COM,@UTC.COM,@WOVENELECTRONICS.COM,@seakr.com"
+# AWD_Partner,B3156,,B315600,RS AUTOMATION,@rs-automation.com.mx
+# AWD_Partner,B8152,,B8152000,IQVIA,"@iqvia.com,@us.imshealth.com,@novasyte.com,@quintiles.com,@bd.com,@rpsweb.com,@av.abbott.com,@novumprs.com,@abbott.com,@q2labsolutions.com,@quintilesims.com,@syneoshealth.com,@theimsinstitute.org,@us.imshealth.com"
+# AWD_Partner,D4901,,D4901000,SALESFORCE,"@salesforce.com,@slack.com,@multesoft.com"
+# AWD_Partner,B2695,,B2695000,BAE SYSTEMS5,@baesystems.com
+# AWD_Partner,A4766,,A4766000,VMWARE INC.,@vmware.com
+# AWD_Partner,A8744,,A8744000,HILL-ROM SERVICES INC,"@hillrom.com,@hill-rom.com"
+# AWD_Partner,F4517,,F4517000,CBRE GROUP,"@cbre.com,@cbreim.com,@trammellcrow.com,@commercialloanservices.com"
+# AWD_Partner,B9787,,B9787000,KELLOGG COMPANY,"@kellogg.com,@pringles.com,@carrs.com,@gardenburger.com,@nutragrain.com,@morningstarfarms.com,@kashi.com"
+# AWD_Partner,A8583,,A8583000,SCHNEIDER,@schneider.com
+# AWD_Partner,A1413,,A1413000,AEROSPACE CORP,@aero.org
+# AWD_Partner,T0640,,T0640000,Chick-Fil-A,"@accesscfa.ca,@accesscfa.com,@baycenterfoods.com,@cathyfamily.com,@cfacorp.ca,@cfacorp.com,@cfacorp.com.sg,@cfafranchisee.ca,@cfafranchisee.com,@cfafranchisee.pr,@cfa-supply.com,@chick-fil-a.ca,@chick-fil-a.co.uk,@chick-fil-a.com,@stcbrands.com"
+# AWD_Partner,B3985,,B3985000,Cox Enterprises,"@ajc.com,@autotrader.com,@blueprintrf.com,@cox.com,@coxautoinc.com,@coxinc.com,@coxmedia.com,@dawgnation.com,@ideabaragency.com,@kbb.com,@trapollo.com,@vauto.com,@vinsolutions.com"
+# AWD_Partner,K0067,,K0067000,Yahoo,"@autoblog.com,@beboundless.jp,@engadget.com,@makers.com,@ryot.org,@ryotstudio.com,@techcrunch.com,@yahoofinance.com,@yahooinc.com,@yahoosports.com"
+# AWD_Partner,A0519,,A051900,PHILLIPS,"@p66.com,@contractor.p66.com"
+# AWD_Partner,B3625,,B3625000,WILLIAMS STRATEGIC,@williams.com
+# AWD_Partner,E3432,,E3432000,NTT HOLDINGS,"@global.ntt.com,@everis.nttdata.com,@nttsourcing.com,@nttdata.com,@ntt-research.com,@hco.ntt.com,@jp.nttdata.com,@nttdata.ro,@hco.ntt.co.jp,@global.ntt,@nttcom.co.jp,@east.ntt.co.jp,@ntt.com,@nttdocomo.com,@west.ntt.co.jp,@ragingwire.com,@netmagicsolutions.com,@dimensiondata.com,@ap.ntt.com,@arkadin.com,@cis.ntt.com,@emea.nttdata.com,@everis.com,@global.ntt.com,@hco.ntt.com,@hco.nttco.jp,@itelligence.de,@locus.com,@ntt.com.cn,@ntt.com.hk,@ntt.eu,@ntta.com,@nttcom.ms,@nttdata.co.jp,@nttglobal.net,@nttict.com,@o365.nttcom.co.jp,@qunie.com,@secure-24.com"
+# AWD_Partner,A3461,,A3461000,Newell Brands Inc,@newellco.com
+# AWD_Partner,A6357,,A6357000,Warner Bros. Discovery,"@newline.com,@Warnermedia.com,@CNN.com,@warnerbros.com,@hbo.com,@wbgames.com,@turner.com"
+# AWD_Partner,D6500,,D650000,AVAYA INC,"@avaya.com,@konftel.com"
+# AWD_Partner,D5420,,D542000,COMMSCOPE,@commscope.com
+# AWD_Partner,A1396,,A139600,MERCK & COMPANY INC,"@merck.com,@organon.com,@msd.de,@msd.com,@bigpond.com,@airr.com.au,@bms.com,@benco.com"
+# AWD_Partner,A4322,,A4322000,PANASONIC,"@us.panasonic.com,@panasonic.aero,@ext.us.panasonic.com,@panasonicautomotive.com,@ext.panasonicautomotive.com,@hussmann.com,@jp.panasonic.com,@mx.panasonic.com,@za.panasonic.com,@Teradiode.com,@yohana.com"
+# AWD_Partner,B8577,,B8577000,QUEST DIAGNOSTICS,"@questdiagnostics.com,@ameripath.com,@examone.com,@dermpathdiagnostics.com,@lumosdiagnostics.com"
+# AWD_Partner,A4914,,A4914000,MIT LINCOLN LABORATORY,"@LL.MIT.EDU,@MIT.EDU"
+# AWD_Partner,A0669,,A0669000,HOLOGIC INC,"@HOLOGIC.COM,@GEN-PROBE.COM"
+# AWD_Partner,B7250,,B7250000,PAREXEL INTERNATIONAL,@PAREXEL.COM
+# AWD_Partner,A1234,,A1234000,HOUGHTON MIFFLIN HARCOURT,"@HARCOURT.COM,@HMHCO.COM,@HMHPUB.COM,@MATHSOLUTIONS.COM,@LEADERED.COM"
+# AWD_Partner,B0992,,B099200,Shape Technologies,@shapetechnologies.com
+# AWD_Partner,D1384,,D138400,Fisher Investments,"@fi.com,@fisherinvestments.com"
+# AWD_Partner,N2378,,N237800,Expeditors,@expeditors.com
+# AWD_Partner,G3450,,G345000,NI,"@NI.com,@digilent.com,@HRResearch.com,@mcc.com"
+# AWD_Partner,S0911,,S091100,Whole Foods Market Inc,"@wholefoods.com,@wholefoodscoop.org"
+# AWD_Partner,A1914,,A191400,Herc Rentals,"@hercrentals.com,@herc.com"
+# AWD_Partner,A5678,,A567800,LyondellBasell,"@lyb.com,@lyondellbasell.com"
+# AWD_Partner,D9926,,D992600,McLane Company,"@mclanefs.com,@mclaneco.com"
+# AWD_Partner,B8241,,B824100,American Campus,"@americancampus.com,@studenthousing.com"
+# AWD_Partner,D3484,,D348400,CoreCivic of Tennessee,@corecivic.com
+# AWD_Partner,S7899,,S789900,Envistacom,@envistacom.com
+# AWD_Partner,S9453,,S945300,Fanchised League,"@fcf.io,@fanchi.se"
+# AWD_Partner,A1516,,A151600,Aerojet Rocketdyne,"@aerojet.com,@rocket.com"
+# AWD_Partner,A9203,,A920300,UNUM,"@unum.com,@unum.co.uk"
+# AWD_Partner,Q0096,,Q009600,VIP International,@vipinc.com
+# AWD_Partner,D7328,,D732800,Global Process Consultant,"@gpconsultants.net,@global-gpc.com"
+# AWD_Partner,A1310,,A1310000,THE MITRE CORPORATION,@MITRE.ORG
+# AWD_Partner,D7349,,D7349000,STAPLES INC,@STAPLES.COM
+# AWD_Partner,D0546,,D0546000,CVS HEALTH,"@CVSHEALTH.COM,@AETNA.COM,@CAREMARK.COM,@CORAHMC.COM,@CVS.COM,@CVSCAREMARK.COM,@CVSPHARMACY.COM,@OMNICARE.COM"
+# AWD_Partner,B8749,,B8749000,ASML,@ASML.COM
+# AWD_Partner,R7321,,R7321000,THOMSON REUTERS,"@THOMSONREUTERS.COM,@TRADEWEBB.COM"
+# AWD_Partner,B4907,,B4907000,Fidelity,@fisglobal.com
+# AWD_Partner,B2214,,B2214000,Allstate Insurance Corp,@allstate.com
+# AWD_Partner,V2799,,V2799000,Zebra Technologies,@zebra.com
+# AWD_Partner,A4682,,A4682000,Kohler,@kohler.com
+# AWD_Partner,A4490,,A4490000,Owens Corning,@owenscorning.com
+# AWD_Partner,A8913,,A8913000,Humana,@Humana.com
+# AWD_Partner,A3035,,A3035000,Rolls Royce,@Rolls-Royce.com
+# AWD_Partner,D4071,,D4071000,CHARTER COMMUNICATIONS,@charter.com
+# AWD_Partner,B5869,,B5869000,AECOM,@aecom.com
+# AWD_Partner,D9253,,D925300,Interactive Communication,@incomm.com
+# AWD_Partner,A8654,,A8654000,HITACHI VANTARA,"@hitachivantara.com,@Hitiachi-Digital.com,@Oyxa.com,@HAL.HITACHI.COM,@HAP.COM,@HCA.HITACHI-CABLE.COM,@HCAM-USA.COM,@HDS.COM,@HDSFED.COM,@HES.COM,@HITACHI.COM,@HITACHI.HTA.COM,@HITACHI-ALOKA.COM,@HITACHIASTEMO.COM,@HITACHI-AUTOMOTIVEAMERICAS.COM,@HITACHI-AUTOMOTIVE.CO.JP,@HITACHI-AUTOMOTIVE.US,@HITACHI-CABLE.COM,@HITACHICAPITALAMERICA.COM,@HITACHI-CHEMICAL.COM,@HITACHICONSULTING.COM,@HITACHI-CTA.COM,@HITACHIHEALTHCARE.COM,@HITACHI-HHTA.COM,@HITACHI-HIGHTECH.COM,@HITACHI-HPA.COM,@HITACHI-HTA.COM,@HITACHI-IESA.COM,@HITACHI-IMS.COM,@HITACHIINSIGHTGROUP.COM,@HITACHIMED.COM,@HITACHISOLUTIONS.COM,@HITACHI-TDS.COM,@HITACHIVANTARAFEDERAL.COM"
+# AWD_Partner,A3559,,A3559000,Plus Relocation Services,"@plusrelocation.com,@google.com"
+# AWD_Partner,A6079,,A6079000,Nike,"@nike.com,@Converse.com,@RTFKT,@crunchbase.com,@colehaan.com,@hurley.com,@umbro.com"
+# AWD_Partner,C2055,,C2055000,DASSAULT SYSTEMES CANADA,@3DS.COM
+# AWD_Partner,A9308,,A9308000,Helmerick & Payne,@hpinc.com
+# AWD_Partner,C0747,,C0747000,BANK OF MONTREAL,@BMO.COM
+# AWD_Partner,A2010,,A2010000,CGI INC.,"@cgi.com,@cgifederal.com"
+# AWD_Partner,A5276,,A5276000,GENERAL DYNAMICS,"@BIW.COM,@GD-AIS.COM,@GD-MS.COM,@GD-OTS.COM,@GD.COM,@GDAMSEA.COM,@GDC4S.COM,@GDEB.COM,@GDIT.COM,@GENERALDYNAMICS.COM,@NASSCO.COM,@CSRA.COM,@gdbiw.com,@GD-MS.CA,@GULFSTREAM.COM,@GDLS.COM,@GD-MS.UK"
+# AWD_Partner,A8727,,A8727000,CIENA CORPORATION,@CIENA.COM
+# AWD_Partner,D0528,,D052800,Providence,"@providence.com,@providence.org"
+# AWD_Partner,A8202,,A8202000,CH Robinson,"@CHROBINSON.COM,@ROBINSONFRESH.COM,@MYTMC.COM"
+# AWD_Partner,B5387,,B538700,Epicor,@epicor.com
+# AWD_Partner,A2667,,A2667000,Harvard University,"@BIDMC.HARVARD.EDU,@CFA.HARVARD.EDU,@CYBER.LAW.HARVARD.EDU,@deas.harvard.edu,@DFCI.HARVARD.EDU,@EPS.HARVARD.EDU,@FAS.HARVARD.EDU,@GSD.HARVARD.EDU,@HARVARD.EDU,@HARVARDBUSINESS.ORG,@HBSP.HARVARD.EDU,@HCS.HARVARD.EDU,@HKS.HARVARD.EDU,@HMC.HARVARD.EDU,@hms.harvard.edu,@HSPH.HARVARD.EDU,@KSG.HARVARD.EDU,@LAW.HARVARD.EDU,@PHYSICS.HARVARD.EDU,@POST.HARVARD.EDU,@RICS.BWH.HARVARD.EDU,@SEAS.HARVARD.EDU,@STAT.HARVARD.EDU,@WJH.HARVARD.EDU"
+# AWD_Partner,B6385,,B638500,Vanderbilt University,@vanderbilt.edu
+# AWD_Partner,A9783,,A9783000,Gainwell Technologies,@gainwelltechnologies.com
+# AWD_Partner,A3030,,A3030000,"Paycom Payroll, LLC",@paycomonline.com
+# AWD_Partner,A9900,,A9900000,Freeman Companies,@freeman.com
+# AWD_Partner,D3707,,D370700,Mammoet,@mammoet.com
+# AWD_Partner,B5577,,B5577000,Nabors,@nabors.com
+# AWD_Partner,J3099,,J3099000,Scientific drilling,@scientificdrilling.com
+# AWD_Partner,A4579,,A4579000,Archrock Services,@archrock.com
+# AWD_Partner,D4862,,D486200,AM Technical Solutions,@amts.com
+# AWD_Partner,A1141,,A1141000,Occidental Petroleum,@oxy.com
+# AWD_Partner,D1516,,D1516000,Itron,@Itron.com
+# AWD_Partner,D6610,,D6610000,NXP,@NXP.com
+# AWD_Partner,S7202,,S7202000,Refined Technologies,@R-T-I.com
+# AWD_Partner,T4734,,T4734000,Valero,@valero.com
+# AWD_Partner,H7887,,H7887000,ULA,@ulalaunch.com
+# AWD_Partner,C2577,,C2577000,TORONTO DOMINION BANK,"@TD.COM,@tdassurance.com,@td.com,@tdinsurance.com,@tdsecurities.com,@tdam.com"
+# AWD_Partner,B8439,,B843900,On Semi,@onsemi.com
+# AWD_Partner,D4142,,D414200,SmartRent,@smartrent.com
+# AWD_Partner,A2635,,A263500,Salt River Project,@srpnet.com
+# AWD_Partner,A3491,,A349100,Microchip,@microchip.com
+# AWD_Partner,A5312,,A531200,Sprouts,@sprouts.com
+# AWD_Partner,A0946,,A094600,Host Broadcast Services,@hbs.tv
+# AWD_Partner,A6117,,A611700,Liquid Consulting,"@liquidconsulting.com,@liquidconsulting.se"
+# AWD_Partner,A1723,,A1723000,Sargent & Lundy,@sargentlundy.com
+# AWD_Partner,J2395,,J239500,Bristow Group,@bristowgroup.com
+# AWD_Partner,A1445,,A1445000,BDO USA LLP,"@bdo.com,@bdo-ba.com"
+# AWD_Partner,A1113,,A1113000,DISCOVER,"@discover.com,@pulsenetwork.com"
+# AWD_Partner,B9681,,B9681000,IDEX CORPORATION,"@idexcorp.com,@roplan.com,@mytana.com,@airtech.com,@envirosight.com"
+# AWD_Partner,D5579,,D5579000,CDW LLC,"@cdw.com,@Cdwg.com,@Cdw.ca,@Amplifiedit.cdw.com"
+# AWD_Partner,A6026,,A6026000,HILCO TRADING,@hilcoglobal.com
+# AWD_Partner,A9622,,A962200,Motiva,@motiva.com
+# AWD_Partner,A1414,,A1414000,Navistar Inc,@navistar.com
+# AWD_Partner,A7320,,A7320000,LOCKTON,@lockton.com
+# AWD_Partner,D1881,,D1881000,Citizens Financial,@citizensbank.com
+# AWD_Partner,D3281,,D3281000,TATA CONSULTANCY,@tcs.com
+# AWD_Partner,B6969,,B696900,Nintendo,"@nintendo.com,@noa.nintendo.com"
+# AWD_Partner,H6624,,H662400,Braskem America,@braskem.com
+# AWD_Partner,B1138,,B113800,Inframark,@inframark.com
+# AWD_Partner,G8697,,G869700,Suez,@suez.com
+# AWD_Partner,A3405,,A340500,Unisys,@unisys.com
+# AWD_Partner,B5633,,B563300,Vertex,@vertex.com
+# AWD_Partner,K2234,,K223400,Team Rubicon,@teamrubiconusa.org
+# AWD_Partner,D4489,,D448900,Electrosonic,@electrosonic.com
+# AWD_Partner,B0600,,B060000,City of Hope,@coh.org
+# AWD_Partner,A4300,,A430000,AIDS Healthcare,@ahf.org
+# AWD_Partner,A9359,,A935900,Butler Americas,@butler.com
+# AWD_Partner,D3859,,D385900,Menemsha Solutions,@menemshasolutions.com
+# AWD_Partner,A3915,,A391500,Copan Diagnostics,"@copangroup.com,@copanusa.net"
+# AWD_Partner,A9850,,A9850000,Tetra Laval,"@tetrapak.com,@sidel.com,@delaval.com,@alfalaval.com,@e80group.com"
+# AWD_Partner,G0292,,G029200,Stewart-Haas Racing,"@shracing.com,@haascnc.com"
+# AWD_Partner,B4131,,B4131000,Stifel Financial,"@stifel.com,@EATON-PARTNERS.COM,@stifelbank.com,@lempire.com,@merchantcapiral.com,@kbw.com,@EQUITYCOMPASS.COM,@EATONPARTNERSLLC.COM,@19191C.COM,@maifirst.com,@tweisel.com,@STIFELINDEPENDENCE.COM,@MILLERBUCKFIRE.COM,@syllc.com,@sterneagee.com,@bsmservices.com,@STIFELTRUST.COM,@STIFELBANK.COM"
+# AWD_Partner,B2494,,B2494000,AMCOR,"@amcor.com,@bericap.com"
+# AWD_Partner,D3774,,D3774000,Commissioning Agents,@cagents.com
+# AWD_Partner,A7941,,A7941000,ALTICOR INC,"@amway.com,@accessbusinessgroup.com"
+# AWD_Partner,H7809,,H7809000,R&E AUTOMATED SYSTEMS,"@reautomated.com,@micindustrial.com,@redevgrp.com"
+# AWD_Partner,A2863,,A2863000,PNC,"@pnc.com,@bbva.com,@fortisrep.com,@harriswilliams.com,@hawthorn.pnc.com,@leaserv.com,@midlandls.com,@nationalcity.com,@NC-4.com,@ncmc.com,@pncequity.com,@pncerieview.com,@pncgis.com,@pncglobaltransfers.com,@pncmezzanine.com,@pncmortgage.com,@pnctax.com,@sixpointpartners.com,@soleburystrat.com,@solecap.com"
+# AWD_Partner,A2718,,A2718000,KINDRED HEALTHCARE,@kindredhealthcare.com
+# AWD_Partner,A8171,,A8171000,TRIMBLE NAVIGATION,@trimble.com
+# AWD_Partner,D4282,,D4282000,R & L CARRIERS,@rlcarriers.com
+# AWD_Partner,A5141,,A5141000,State of Colorado,"@ATMOS.COLOSTATE.EDU,@CAHS.COLOSTATE.EDU,@CASA.COLORADO.EDU,@CDE.STATE.CO.US,@CEMML.COLOSTATE.EDU,@cira.colostate.edu,@CO.ARAPAHOE.CO.US,@COLORADO.EDU,@COLORADODEFENDERS.US,@COLORADOMESA.EDU,@COLORADOPRESERVATION.ORG,@COLOSTATE.EDU,@COLOSTATE-PUEBLO.EDU,@CSUPUEBLO.EDU,@CU.EDU,@DENVERGOV.ORG,@DORA.STATE.CO.US,@engr.colostate.edu,@LAMAR.COLOSTATE.EDU,@LASP.COLORADO.EDU,@MANTLE.COLORADO.EDU,@MATH.COLOSTATE.EDU,@MSUDENVER.EDU,@NREL.COLOSTATE.EDU,@PIZERO.COLORADO.EDU,@RAMS.COLOSTATE.EDU,@SOLARZ.COLORADO.EDU,@SPIKE.DOR.STATE.CO.US,@SPOT.COLORADO.EDU,@STATE.CO.US,@TCHDEN.ORG,@UCDENVER.EDU,@UNCO.EDU,@UVB.NREL.COLOSTATE.EDU,@childrenscolorado.org"
+# AWD_Partner,B3195,,B3195000,UNITED RENTALS,@ur.com
+# AWD_Partner,D4558,,D4558000,"SAFE FLEET, INC.",@safefleet.net
+# AWD_Partner,S9657,,S9657000,LPL Financial LLC,"@lpl.com,@lplfinancial.com"
+# AWD_Partner,D2004,,D2004000,ELECTROLUX,"@electrolux.com,@electrolux.se"
+# AWD_Partner,A4281,,A4281000,SEALED AIR CORPORATION,"@sealedair.com,@diversey.com,@johnsondiversey.com"
+# AWD_Partner,D1595,,D1595000,Biomerieux,@biomerieux.com
+# AWD_Partner,B4573,,B457300,"CITRIX SYSTEMS, INC.",@citrix.com
+# AWD_Partner,A1557,,A1557000,SCIENCE APPLICATIONS,@saic.com
+# AWD_Partner,G8821,,G8821000,LKQ Corporation,@Lkqcorp.com
+# AWD_Partner,G9367,,G9367000,Sentara Healthcare,@sentara.com
+# AWD_Partner,A3888,,A3888000,MANHATTAN ASSOCS INC,@manh.com
+# AWD_Partner,B4661,,B466100,Bertelsmann Random House,"@penguinrandomhouse.com,@arvato.com,@bertelsmann.de,@bertelsmann.uk,@dk.com,@playaway.com"
+# AWD_Partner,B0444,,B0444000,SURGICAL CARE AFFILIATES,@scasurgery.com
+# AWD_Partner,A6138,,A613800,Itochu International,"@amt.com,@altafp.com,@aiidealer.com,@avidex.com,@ctc-america.com,@denyo.us,@enprotech.com,@helmitinadhesives.com,@hylife.com,@icrest-llc.com,@usipc.com,@isuzufin.com,@itochuauto.com,@iaa-us.com,@itochu.com,@itochu-ca.com,@itochucoal.com,@us.itclogi.com,@itochu-metals.com,@itochu.com.mx,@itochupro.com,@j-aero.com,@ibpholdings.com,@mgiintl.com,@multiquip.com,@naes.com,@qtitech.com,@texmacusa.com,@reynoldsglue.com,@usptmills.com,@tyrenergy.com,@masterhalco.com"
+# AWD_Partner,A3044,,A304400,Frontier Ventures,@frontierventures.org
+# AWD_Partner,A4556,,A4556000,Southern Company,"@southernco.com,@georgiapower.com,@alabamapower.com,@southerncompanygas.com,@aglresourses.com,@southstarenergy.com,@powersecure.com"
+# AWD_Partner,D3713,,D371300,Highmark,"@highmark.com,@astrisk.com,@helionhealthcare.com,@highmarkhealth.org,@highmarkcaringplace.com,@hmhcs.com,@hmig.com,@hminsurancegroup.com,@lumevity.com,@imcdocs.com,@rbsre.com,@remworkssleepstore.com,@thryvedigital.com,@ucci.com,@ahn.org,@highmarkwholecare.com,@goenGen.com"
+# AWD_Partner,H7251,,H725100,Moss Adams,@mossadams.com
+# AWD_Partner,J3013,,J301300,MSC Industrial Supply Co,@mscdirect.com
+# AWD_Partner,B5064,,B5064000,CRU,"@cru.org,@ccci.org,@ccci.com"
+# AWD_Partner,D0331,,D033100,Spirit Airlines,"@spirit.com,@spiritair.com"
+# AWD_Partner,A9903,,A9903000,Crisis 24,@crisis24.com
+# AWD_Partner,A0064,,A0064000,Munters Corporation,"@munters.com,@quantservice.com,@munters.se,@mtech-systems.com"
+# AWD_Partner,T7321,,T7321000,Mapei,@mapei.com
+# AWD_Partner,D4258,,D4258000,Florida Marine,@flmarine.com
+# AWD_Partner,Q2177,,Q217700,Kearney,"@kearney.com,@atkearneypsds.com,@mycervello.com"
+# AWD_Partner,A1409,,A140900,Rabobank,"@rabobank.com,@dllgroup.com"
+# AWD_Partner,A1506,,A150600,NY Times,@nytimes.com
+# AWD_Partner,A1203,,A120300,S&P Global,@spglobal.com
+# AWD_Partner,A7518,,A7518000,SKF USA,@skf.com
+# AWD_Partner,B6096,,B609600,Mastercard International,@mastercard.com
+# AWD_Partner,B8629,,B8629000,Chubb INA Hoildings,"@chubb.com,@esis.com,@rsintl.com,@westchester.com,@mclolaw.com,@mclolaw.com,@brandywineholdings.com,@combined.com,@newmarketsagency.com,@chubbagribusiness.com,@rainhail.com,@pennmillers.com,@armijogarcialaw.com,@meaderslaw.com,@kirmserlaw.com,@vcbesq.com,@bunkerray.com,@bfarrelllaw.com,@eustacelaw.com,@dmc-atty.com,@sdc-atty.com,@m-ilaw.com,@mgmesq.com,@cariellolaw.com,@dlclawfirm.com,@mc-atty.com,@kuluvalaw.com,@pcesq.com,@streamlabswater.com"
+# AWD_Partner,A2529,,A252900,WL Gore,@wlgore.com
+# AWD_Partner,A3257,,A3257000,ZOETIS,@zoetis.com
+# AWD_Partner,D0427,,D0427000,KEYENCE CORP,@keyence.com
+# AWD_Partner,A5998,,A5998000,BRG CONSULTING,"@thinkbrg.com,@brg-expert.com"
+# AWD_Partner,X3507,,X350700,Unite Here,@unitehere.org
+# AWD_Partner,A1604,,A1604000,Cornell University,"@cornell.edu,@med.cornell.edu"
+# AWD_Partner,A2708,,A270800,Scholastic Inc,@scholastic.com
+# AWD_Partner,S6668,,S666800,Apollo Mgmt Holdings,"@apollo.com,@apollolp.com,@apollo-advisors.com"
+# AWD_Partner,B3005,,B300500,Apollo Global,"@apollo.com,@apolloglobal.com"
+# AWD_Partner,R1363,,R136300,J.S. Held,@jsheld.com
+# AWD_Partner,B6982,,B698200,Cemex,"@cemex.com,@cemexusa.com"
+# AWD_Partner,D0403,,D040300,Atlas Air,"@atlasair.com,@polaraircargo.com,@titanaviationleasing.com"
+# AWD_Partner,B2700,,B2700000,PITNEY BOWES INC,@pb.com
+# AWD_Partner,B7320,,B7320000,UNFI,"@unfi.com,@ALBERTSORGANICS.COM,@TONYSFINEFOODS.COM,@SUPERVALU.COM"
+# AWD_Partner,G5614,,G5614000,THE HARTFORD,"@thehartford.com,@hartfordfunds.com,@himco.com"
+# AWD_Partner,A6010,,A6010000,BAIN & COMPANY,@bain.com
+# AWD_Partner,D0427,,D0427000,KEYENCE CORP,@keyence.com
+# AWD_Partner,D5591,,D559100,Healix,@healix.net
+# AWD_Partner,V0827,,V082700,Adidas,@adidas.com
+# AWD_Partner,D2604,,D2604000,BRUKER CORPORATION,"@bruker.com,@Preomics.com,@Molecubes.com,@Acuityspatialgenomics.com,@Incoatec.de,@Optimal-ltd.co.uk,@Optimal-tech.co.uk,@Mestrelab.es,@research-instruments.de"
+# AWD_Partner,A2028,,A2028000,HUBBELL INC,@hubbell.com
+# AWD_Partner,A3274,,A3274000,THE TRAVELERS INDEMNITY,"@travelers.com,@BoilerRe.com,@constitutionstateservices.com,@familybusinessinstitute.com,@northlandins.com,@stpaultravelers.com"
+# AWD_Partner,A4249,,A4249000,YALE UNIVERSITY,@yale.edu
+# AWD_Partner,B0903,,B0903000,Iron Mountain,"@Ironmountain.com,@Archivex.com,@Anzdmsd.recall.com,@Apacdms.ironmountain.com,@Apacdmstest.ironmountain.com,@Archive.com.pl,@Archivesone.com,@Connected.fr,@Aberdeen.ironmountain.co.uk,@Archirex.hu,@Ddsrecycle.com.au,@Dsiescrow.com,@Imrm.com,@Io.com,@Ironmountain.be,@Ironmountain.com.pl,@Ironmountain.co.uk,@Ironmountain.com.mx,@Emea.ironmountain.com,@Ironmountain.cl,@Ironmountain.co.in,@Ironmountain.co.nz,@Ironmountain.com.ar,@Ironmountain.com.br,@Ironmountain.com.co,@Ironmountain.com.pe,@Ironmountain.de,@Ironmountain.es,@Ironmountain.eu,@Ironmountain.fr,@Ironmountain.gr,@Ironmountain.hu,@Ironmountain.ie,@Ironmountain.nl,@Ironmountain.no,@Ironmountain.pl,@Livevault.com.au,@Pcbackup.net.au,@Rmturkey.com,@Secure-destruction.co.uk,@Storbox.cl,@Tapeguard.com,@Ironmountain.co.za,@Ironmtn.com,@Ironmtn.com.au,@Gsuite.ironmountain.com,@Ftdc.com,@Crozierfinearts.com,@Documentcustodian.com,@Artexfas.com,@Crozierlongisland.com,@Crozier.ch,@Lapackinginc.com,@Capitalvision.fr,@Imdc.ironmountain.com,@Info.ironmountain.com,@Osgrm.ua,@Martinspeed.com,@Express.ironmountain.com,@Archivex.info,@Infofort.com,@Itrenew.com,@Ironmountain.com,@Crozierfinearts.com,@Documentcustodian.com"
+# AWD_Partner,T1277,,T1277000,EOS,@EOSITS.COM
+# AWD_Partner,G9274,,G9274000,Equinix Inc,"@EQUINIX.COM,@AP.EQUINIX.COM"
+# AWD_Partner,S8193,,S8193000,RingCentral,@RINGCENTRAL.COM
+# AWD_Partner,B0667,,B0667000,Sanmina,"@SANMINA.COM,@SANMINA-SCI.COM,@SCI.COM"
+# AWD_Partner,D7579,,D7579000,Rope Partner,@ROPEPARTNER.COM
+# AWD_Partner,B0594,,B0594000,Charles Schwab,"@schwab.com,@ameritrade.com,@tdameritrade.com"
+# AWD_Partner,A8585,,A8585000,Gap Inc,"@gap.com,@fisherinc.com"
+# AWD_Partner,A2525,,A2525000,Autodesk Inc,@autodesk.com
+# AWD_Partner,G4165,,G4165000,Dolby Laboratories,@dolby.com
+# AWD_Partner,V8473,,V8473000,Screen SPE USA LLC,"@screen-spe.com,@dnse.com,@usa.sokudospeed.com,@screenamericas.com"
+# AWD_Partner,T1253,,T1253000,Grifols North America,@grifols.com
+# AWD_Partner,Q0622,,Q062200,Air Revive,@airrevive.com
+# AWD_Partner,A2989,,A2989000,Gavin De Becker,"@gavindebecker.com,@gdba.com"
+# AWD_Partner,A8812,,A8812000,"Mathnasium, LLC","@mathnasium.com,@biola.edu"
+# AWD_Partner,S8896,,S8896000,AFC Corporation,@afcsushi.com
+# AWD_Partner,A3867,,A3867000,One Source,"@1sourcelabor.com,@powerlaborusa.com"
+# AWD_Partner,A1575,,A1575000,Jenny Craig,@jennycraig.com
+# AWD_Partner,A1744,,A1744000,Tang Capital,"@tangcapital.com,@odonate.com"
+# AWD_Partner,D5334,,D5334000,FICO,@fico.com
+# AWD_Partner,D5083,,D5083000,KR Wolfe,@krwolfe.com
+# AWD_Partner,A0871,,A0871000,GETAC,"@GETAC.COM,@GETAC.COM.TW"
+# AWD_Partner,A6171,,A6171000,PACIFIC DENTAL,"@PACDEN.COM,@pacificdentalservices.com,@SmileGeneration.com,@tucsonspectrumdentistry.com,@PDPDENTAL.COM,@SIGNATUREDENTALPARTNERS.COM,@PACIFICDENTAL.COM"
+# AWD_Partner,A1863,,A186300,Rowan Companies Inc.,@rowancompanies.com
+# AWD_Partner,D0740,,D074000,ATT Metrology,@attinc.com
+# AWD_Partner,A6293,,A629300,Boise Cascade,@bc.com
+# AWD_Partner,A2868,,A286800,Costco,@costco.com
+# AWD_Partner,A0885,,A088500,Kindercare,"@kc-education.com,@kindercare.com,@kcdevelopment.net,@harmonytx.org,@littleredschoolhouseny.com,@primroseschools.com"
+# AWD_Partner,A5482,,A548200,Melaleuca,@Melaleuca.com
+# AWD_Partner,S7369,,S736900,Sun Coast Resources,@suncoastresources.com
+# AWD_Partner,A4414,,A4414000,WILLIS TOWERS,"@wtwco.com,@willistowerswatson.com,@grassavoye.com,@lifesight.com,@extendhealth.com,@tzinsurance.com,@scr-ltd.co.uk,@parsalud.com,@richardoliver.com,@grms.co.za,@scr-ltd.com,@willis.com,@chanceunderwriting.com,@grassavoyetetard.com,@temeris.fr,@nc.grassavoye.com,@grassavoye-yachting.com,@nsa-gsc.com,@garantip-top.com,@savilleassessment.com,@willis.kendriki.gr,@acciona.com,@nsa.pt,@tranzact.net,@cignium.com,@towerswatson.com,@cnhind.com,@omnidirect.tv,@dlp.pl,@bnpparibas.pl,@cfspolska.pl,@bplgpl.bnpparibas.com,@bpsleasing.pl,@bpls.pl,@bgzbnpparibas.pl,@claas.com,@bnpparibas.com,@liazon.com,@unityducruet.com,@unitysetessa.com,@ajgre.com"
+# AWD_Partner,B8430,,B8430000,DH BUSINESS SERVICES,"@aldevron.com,@avt-dhr.com,@avt-inc.com,@beckman.com,@beckmancoulter.com,@beckmancoulter.de,@beckmanmolecular.com,@coulter.com,@lumigen.com,@proiris.com,@cepheid.com,@cepheid.se,@cepheidbenelux.com,@cepheideurope.co.uk,@cepheideurope.com,@cepheideurope.fr,@cepheidhbdc.com,@cepheiditops.com,@cepheidsas.com,@cytiva.com,@japan.cepheid.com,@aguasin.cl,@aguasin.com,@chemtreat.com,@Lipesa.com,@termodinamica.cl,@tridenttech.com,@danaher.com,@danaher.net,@danaherconnect.com,@danaherdigital.com,@danaherintegrity.com,@danaherintegrityeu.com,@danaherlabs.com,@danahermail.com,@dhbsllc.com,@dhbsllc.com.cn,@dhdiagnostic.com,@dhlifesciences.com,@dhproductid.com,@dhrcloudtest.com,@dhrdiagnostics.com,@bluesoftware.com,@enfocus.com,@esko.com,@esko-graphics.com,@mediabeacon.com,@andia.co,@applitek.com,@biotector.com,@crison.es,@dhwaterquality.com,@drlange.de,@ele.com,@eleint.co.uk,@eleusa.com,@enviroinfogroup.com,@gliint.com,@hach.com,@hach.com.cn,@hach.fr,@hachenvironmental.com,@hachhst.com,@hach-lange.at,@hach-lange.be,@hach-lange.ch,@hach-lange.co.uk,@hach-lange.com,@hach-lange.com.gr,@hach-lange.com.tr,@hach-lange.cz,@hach-lange.de,@hach-lange.dk,@hach-lange.es,@hachlange.fr,@hach-lange.fr,@hach-lange.gr,@hach-lange.hu,@hach-lange.ie,@hach-lange.it,@hach-lange.net,@hach-lange.nl,@hach-lange.org,@hach-lange.pl,@hach-lange.pt,@hach-lange.ro,@hach-lange.se,@hach-lange.si,@hach-lange.sk,@hachpacific.com,@hachultra.com,@hexis.com.br,@hydrolab.com,@hydrolab.net,@lachatinst.com,@lachatinstruments.com,@lufft.com.cn,@marshmcbirney.com,@marsh-mcbirney.com,@opssys.com,@orbisphere.com,@pionneer.com,@powerchemtech.com,@serwa.de,@watereye.com,@xos.com,@zuellig.ch,@idbs.com,@quantrix.com,@idtdna.com,@mbiotech.co.kr,@aperio.com,@DevicorMedical.com,@e-leica.com,@labcyte.com,@lbsimaging.com,@leica.com,@leicabiosystems.com,@leica-biosystems.com,@leicabiosystems.com.au,@leica-microsystems.co.jp,@leica-microsystems.com,@leica-microsystems.com.au,@mammotome.com,@market-insights.net,@vision-bio.com,@vsl.com.au,@linx.co.uk,@linx.fr,@linxglobal.com,@mccrometer.com,@adcon.at,@adcon.com,@kippzonen.com,@lufft.com,@lufft.de,@micks.de,@ott.com,@ott-austria.at,@ottfrance.fr,@otthydromet.com,@ott-hydrometry.co.uk,@sutron.com,@ap.pall.com,@europe.pall.com,@flowstar.pall.net,@fsifilters.com,@pall.com,@pall.de,@pallwater.com,@solohill.com,@agela.com,@agela.com.cn,@bonnaagela.com,@phenomenex.com,@phenova.com,@avoidpreanalyticalerrors.com,@china.radiometer.com,@hemocue.co.uk,@hemocue.co.za,@hemocue.com,@hemocue.com.au,@hemocue.de,@hemocue.dk,@hemocue.fi,@hemocue.in,@hemocue.net,@hemocue.no,@hemocue.se,@innotrac.fi,@myradiometer.com,@nalytical.com,@radiometer.ae,@radiometer.be,@radiometer.ch,@radiometer.cn,@radiometer.co.jp,@radiometer.co.nz,@radiometer.co.uk,@radiometer.co.za,@radiometer.com,@radiometer.com.au,@radiometer.com.tr,@radiometer.cz,@radiometer.de,@radiometer.dk,@radiometer.es,@radiometer.fi,@radiometer.fr,@radiometer.hu,@radiometer.ie,@radiometer.in,@radiometer.kr,@radiometer.kz,@radiometer.my,@radiometer.net,@radiometer.nl,@radiometer.pl,@radiometer.pt,@radiometer.ru,@radiometer.sg,@radiometeramerica.com,@radiometer-basel.ch,@radiometercanada.com,@radiometerdanmark.dk,@radiometerstargard.pl,@rint.dk,@sendx.com,@sendxmedical.com,@sp.radiometer.net,@absciex.com,@idbsdhr.com,@moldev.com,@partner.moldev.com,@sciex.com,@satlantic.com,@seabird.com,@sea-birdcoastal.com,@sea-birdscientific.com,@wetlabs.com,@aquafineuv.com,@h2o2.com,@opencel.com,@portal.trojanuv.com,@portal-dev.trojanuv.com,@r-can.com,@salsnes-filter.com,@salsnes-filter.no,@trojanmarinex.com,@trojantechnologies.com,@trojanuv.com,@usptechnologies.com,@viqua.com,@alltec.org,@alltec-laser.com,@alltec-laser.de,@claricom.co.uk,@claricom.com,@contractor.videojet.com,@counterfight.com,@ext.laetus.com,@external.videojet.com,@foba.de,@foba.it,@fobalaser.com,@laetus.com,@laetusmail.com,@videojet.com,@videojet.fr,@videojet.nl,@videojet.pl,@wolke.com,@amazys.com,@askpantone.com,@colormunki.com,@colorstrology.com,@ezcolor.com,@gretagmacbeth.com,@i1color.com,@jeneric.com,@matchrite.com,@monacosys.com,@monacosystems.com,@Munsell.com,@mypantone.com,@Pantone.co.uk,@pantone.com,@pantone.com.hk,@Pantone.de,@pantone-espana.com,@Pantoneeyewear.com,@pantone-france.com,@Pantone-italia.com,@pantoneview.com,@therightcolor.com,@web.xrite.com,@xrite.com,@x-rite.com,@xrite.net,@x-rite.net,@xrite.org,@x-rite.org,@xritephoto.com"
+# AWD_Partner,A1344,,A1344000,BANK OF NY MELLON,"@arxinvestimentos.com.br,@Bankofny.com,@bnymellon.com,@bnymellon.com.br,@bnymellon.net,@cibcmellon.com,@dom.bnymellon.com,@dpmmellon.com,@dreyfus.com,@eacm.com,@Eagelaccess.com,@eagleinvsys.com,@inautix.co.in,@inautix.com,@insightinvestment.com,@lkwd.com,@Loclwoodadvisors.com,@mcm.com,@mellon.com,@mellonbank.com,@newton.co.uk,@Newtonim.com,@paretopartners.com,@pershing.co.in,@pershing.co.uk,@pershing.com,@pershing.ie,@pershing.je,@pnc.com,@standish.com,@TBCAM.com,@walterscott.com,@xbktrading.com,@milestonegroup.com"
+# AWD_Partner,A1910,,A1910000,United Parcel Service,"@coyote.com,@iShip.com,@Connectship.com,@jetcomm.net,@mbe.com,@foremost-sales.com,@esolutions.ups.com,@marken.com,@ups.com,@ups-mi.com,@upsers.com,@europe.upslogistics.com,@ups-consulting.com,@upsfeedback.com,@upslogistics.com,@upsts.com,@upsstore.com,@ups-scs.com,@tforcefreight.com"
+# AWD_Partner,A1356,,A135600,PepsiCo,"@ROCKSTARENERGY.COM,@PEPSICO.COM,@MUSCLEMILKCOLLEGE.COM,@MUSCLEMILK.COM,@DRINKEVOLVE.COM,@CYTOSPORT.COM,@AZUREDS.AZURE.INTRA.PEPSICO.COM,@SNACKS2YOU.COM,@RFAXCSCFIT.PEPSICO.COM,@MAKEROATS.COM,@KEVITA.COM,@WBD.RU,@PEPSI.COM,@FAX.PEPSICO.COM,@RFAXPFC.PEPSICO.COM,@RFAXCSC.PEPSICO.COM,@CAPNCRUNCH.COM,@MSGROUTING.PEPSI.COM,@DORITOSLATENIGHT.COM,@MISSIONG.COM,@STACYSSNACKS.COM,@FRITOLAY.COM,@EN.PEPSI.CA,@PEPSICO.MAIL.ONMICROSOFT.COM,@PBSG.COM,@CA.SMARTSPOT.COM,@TR.SMARTSPOT.COM,@QUAKER-OATS.COM,@LIZMAIL.COM,@PCFCI.COM,@CAPTAINCRUNCH.COM,@NAKEDJUICE.NET,@IZZE.COM,@BLUEBIRD.CO.NZ,@PEPSICO.COM.MX,@QUAKERCA.COM,@PITACHIP.COM,@FR.QUAKEROATS.CA,@QUAKER.CO.UK,@MISSVICKIES.CA,@PEPSI.RU,@SAKATA.COM.AU,@GAMESA-USA.COM,@SMITHS.COM.AU,@PEPSICO.COM.AU,@PITACHIPS.COM,@FR.PEPSI.CA,@TROPICANA.COM,@DORITOS.COM,@GATORADE.COM,@PC.SMARTSPOT.COM,@NEAREAST.COM,@QTGSALES.COM,@PBGMEXICO.COM,@PEPSICO.ONMICROSOFT.COM,@WALKERS-EATHAPPY.CO.UK,@NAKEDJUICE.COM,@WALKERS.CO.UK,@EN.QUAKEROATS.CA,@PEPSI-QTG.COM,@PEPSIAMERICAS.COM,@QUAKEROATS.COM,@PBG-SPAIN.INTL.PEPSI.COM,@INTL.FRITOLAY.COM,@EBPP.PEPSICO.COM,@BD.PEPSICO.COM,@INTL.PEPSICO.COM,@CS.TROPICANA.COM,@CA.PEPSI.COM,@INTL.PEPSI.COM,@THEHIVEBRANDS.COM,@G1D.PEPSICO.COM,@R1Q.PEPSICO.COM,@R1U.PEPSICO.COM,@R1P.PEPSICO.COM,@PLANETPARTNERSHIP.COM,@PENS.PEPSICO.COM,@SAPP17.PEPSICO.COM,@PEPWAP11176.PEPSICO.COM,@PEPWAP20616.PEPSICO.COM,@PEPWAP11179.PEPSICO.COM,@PEPWAP20885.PEPSICO.COM,@PEPWAP21099.PEPSICO.COM,@PEPWAP21226.PEPSICO.COM,@A1P.PEPSICO.COM,@PEPWAP21493.PEPSICO.COM,@SAPP16.PEPSICO.COM,@GETPAID.PEPSICO.COM,@S1U.PEPSICO.COM,@BLUECLOUDINC.COM,@B1D.PEPSICO.COM,@B1I.PEPSICO.COM,@B1Q.PEPSICO.COM,@B1U.PEPSICO.COM,@B11.PEPSICO.COM,@SAPD20.PEPSICO.COM,@A1U.PEPSICO.COM,@X1D.PEPSICO.COM,@SAPQ20.PEPSICO.COM,@SAPP20.PEPSICO.COM,@SAP-SRMQA.PEPSICO.COM,@VWATER.COM,@SARDINHABAHIA.COM.BR,@TRUENORTHSNACKS.COM,@TRUENORTHNUTS.COM,@EQLIBRI.COM.BR,@GATORADE.COM.MX,@ELMA-CHIPS.COM.BR,@SABRITAS.COM.MX,@MAIZORO.COM.MX,@TODDY.COM.BR,@TODDYNHO.COM.BR,@ELMACHIPS.COM.BR,@COQUEIRO.COM.BR,@GAMESA.COM.MX,@QUAKER.COM.BR,@FRITOLAY.COM.TW,@FRITOLAY.CL,@ALTUSFOODS.COM,@PEPSICO.COM.BR,@KFC-MTB.MS.TEAMS.VODACOM.CO.ZA,@KFC.CFO.MSDR.TEAMS.VODACOM.CO.ZA,@KFC.CO.UK,@KFC.COM,@KFC.COM.AU,@KFC.MTB.MSDR.TEAMS.VODACOM.CO.ZA,@BOOKITPROGRAM.COM,@MAIL.PIZZAHUT.COM,@MAILHUB.PIZZAHUT.COM,@MY.PIZZAHUT.COM,@O365.PIZZHUT.IO,@PIZZAHUT.CO.UK,@ORDERS.PIZZAHUT.COM,@PIZZAHUT.COM,@WINGSTREET.COM,@INTERNATIONALBELL.COM,@TACOBELL.CO.UK,@TACOBELL.COM,@TACOBELLFOUNDATION.COM,@TACOBELLFOUNDATION.ORG,@TACOMAIL.TACOBELL.COM,@TAKINGPEOPLEWITHYOU.COM,@THECOLLIDERLAB.COM,@YUM-EU.TAO-GLOBALVOICE.COM,@YUM-INDIA.NET,@YUM-US.TAO-GLOBALVOICE.COM,@YUM-US2.TAO-GLOBALVOICE.COM,@YUMBRANDSINC.ONMICROSOFT.COM,@DRAGONTAILSYSTEMS.COM,@YUM.com"
+# AWD_Partner,A2180,,A2180000,L3 Harris,@L3harris.com
+# AWD_Partner,B1016,,B101600,REI,@rei.com
+# AWD_Partner,D4836,,D483600,Horizontal Technology,@horizontaltech.com
+# AWD_Partner,S6313,,S631300,Pacific Drilling Services,@pacificdrilling.com
+# AWD_Partner,S5177,,S517700,EMAS-AMC Inc,"@emas.com,@emaschiyoda.com"
+# AWD_Partner,A6686,,A6686000,Textron,"@TEXTRON.PSTN1.CTGOV.SERVICES,@BELLHELICOPTER.TEXTRON.COM,@RESPONSETECHS.COM,@MCTURBINE.COM,@SKYBOOKS.COM,@BH.COM,@TEXTRON.US,@BH.TEXTRON.COM,@BHFG.TEXTRON.COM,@TEXTRONSYSTEMS.US,@EDWARDS-ASSOC.COM,@BHTCL.TEXTRON.COM,@BELLHELICOPTER-AMS.TEXTRON.COM,@BELLFLIGHT.COM,@BELLAERO.COM,@AERO-ACCESS.COM,@USHELO.COM,@TEXTRON.PSTN2.CTGOV.SERVICES,@ROTOR-BLADES.COM,@TEXTRONTEST.COM,@DEF.TEXTRON.COM,@TXTDEF.ONMICROSOFT.US,@TXTDEF.MAIL.ONMICROSOFT.US,@BELLFLIGHT.US,@PROFLIGHT.AERO,@TXTWTF.COM,@TEXTRONTURF.COM,@JACOBSENUKDIRECT.COM,@OCCASIONSGOLF.FR,@PRO-FITPARTS.COM,@SHOP.EZGO.COM,@BETTEROUTDOORPRODUCTS.COM,@JACOBSENDEALER.COM,@MECHTRONIX.COM,@EZGO-CHINA.COM,@TXTSOCMILTER.PANDA-BURGERS789.COM,@AEROSONDE.COM,@ATACUSA.COM,@ONTEXTRON.ONMICROSOFT.COM,@HAWKERBEECHCRAFT.COM,@ARCTICCATINC.NET,@ARCTICCATINC.COM,@ONTEXTRONDEU.ONMICROSOFT.COM,@TEXTRONAIR.COM,@BEECHCRAFT.COM,@ARCTICCAT.COM,@VLS-INC.COM,@TAC.TEXTRON.COM,@JACOBSENWEST.COM,@SYSTEMS.TEXTRON.COM,@TMLS.TEXTRON.COM,@AUSINFO.COM,@TEXTRONFINANCIAL.COM,@MCCAULEY.TEXTRON.COM,@LYCOMING.COM,@CESSNAFINANCE.TEXTRON.COM,@KLAUKE.TEXTRON.COM,@CITATIONAIR.COM,@TFC.TEXTRON.COM,@EZGO.TEXTRON.COM,@CESSNA.TEXTRON.COM,@CITATIONSHARES.COM,@TXT.TEXTRON.COM,@TPT.TEXTRON.COM,@TEXTRONSYSTEMS.CA,@KAUTEX-PARTNER.COM,@TSTS.TEXTRON.COM,@BADBOYBUGGIES.COM,@CHESILVALE.TEXTRON.COM,@PALADIN-TOOLS.COM,@CITATIONAIR.TEXTRON.COM,@TRUSIMULATION.COM,@HQ.TEXTRON.COM,@HRTEXTRON.TEXTRON.COM,@DC.TEXTRON.COM,@SYMTX.COM,@TELEFONIX.COM,@CESSNA.COM,@LYCOMING.TEXTRON.COM,@CFC.TEXTRON.COM,@ONTEXTRON.MAIL.ONMICROSOFT.COM,@JACOBSEN.TEXTRON.COM,@HOWEANDHOWE.COM,@TEMPO.TEXTRON.COM,@MYBELL.COM,@OVERWATCH.TEXTRON.COM,@KAUTEX.TEXTRON.COM,@AAI.TEXTRON.COM,@MEDICALNUMERICS.COM,@TUGTECH.COM,@PREMIER-DEICERS.COM,@TXTGSE.COM,@TIC.TEXTRON.COM,@ENT.TEXTRON.COM,@KAUTEX.DE,@JACOBSENTEXAS.COM,@MILLENWORKS.COM,@DOUGLAS-EQUIPMENT.COM,@TEXTRONMOTORS.COM,@TRACKEROFFROADSUPPORT.COM,@TEXTRONSYSTEMS.COM,@SAFEAERO.COM,@IPSI-AFG.COM,@ENDURA.TEXTRON.COM,@TIP.TEXTRON.COM,@MECHTRONIX.CA,@OPINICUS.COM,@HBCNET.COM,@FINANCE.TEXTRON.COM,@KAUTEX.COM,@ONTEXTRONEUR.ONMICROSOFT.COM,@TEXTAV.COM,@CVE.CO.UK,@OCCATURF.FR,@ABLEAEROSPACE.COM,@TEXTRON.COM,@GVWEST.COM,@TEAMS.SIPDE.KAUTEX.TEXTRON.COM,@TXTAV.COM,@AAICORP.COM,@TEKGPS.COM,@ABLEENGINEERING.COM,@VITEC-USA.COM,@TTT.TEXTRON.COM,@TKVGPS.COM"
+# AWD_Partner,G8705,,G8705000,TECH MAHINDRA (AMERICAS),"@techmahindra.com,@borngroup.com,@cerium-systems.com,@madpow.net,@pininfarina.it,@eventusg.com,@us.brainscale.com,@allyis.com,@thehcigroup.com"
+# AWD_Partner,B2505,,B2505000,NORTHROP GRUMMAN,@NGC.COM
+# AWD_Partner,A2477,,A2477000,Kiewit Corporation,@kiewit.com
+# AWD_Partner,A4822,,A4822000,Cisco,"@Cisco.com,@webex.com,@appdynamics.com,@epsagon.com,@replex.com,@Involvio.com,@KennaSecurity.com,@kenna.com,@SocioLabs.com"
+# AWD_Partner,A3909,,A3909000,Fujitsu North America,@fujitsu.com
+# AWD_Partner,B2044,,B2044000,Visa,"@visa.com,@authorize.net,@cardinalcommerce.com,@cybersource.com,@verifi.com,@yellowpepper.com"
+# AWD_Partner,A7320,,A732000,Lockton Management,"@lockton.com,@locktonaffinity.com,@choosemylo.net,@point6.com,@excelsior.com"
+# AWD_Partner,A2256,,A225600,Mayo Clinic,@mayo.edu
+# AWD_Partner,A3125,,A312500,Walgreens Company,"@walgreens.com,@wba.com,@no7company.com,@bootsretailusa.com,@duanereade.com,@riteaid.com,@wba.hk,@alliancerxwp.com,@boots.co.uk,@wbaoneit.com,@iARx.com"
+# AWD_Partner,A9923,,A992300,US Bank,"@usbank.com,@elavon.com"
+# AWD_Partner,A3001,,A300100,CDK,"@cdk.com,@lightspeeddms.com,@CVRREG.COM,@AVRS.COM,@CVRCONNECT.COM,@eLeadCRM.com,@advancedmd.com"
+# AWD_Partner,A5215,,A5215000,RANDSTAD PROFESSIONALS,"@RANDSTADUSA.COM,@TATUMLLC.COM,@TATUM-US.COM,@TECHNISOURCE.COM,@US.RANDSTADPROFESSIONALS.COM"
+# AWD_Partner,B2994,,B299400,Transamerica,"@transamerica.com,@aegon.com"
+# AWD_Partner,D6307,,D630700,Ameriprise Financial,"@ampf.com,@ameriprise.com"
+# AWD_Partner,Q0424,,Q042400,nVent Management,"@nvent.com,@pentair.com"
+# AWD_Partner,D0237,,D023700,Polaris Industries,"@polaris.com,@polaris-industries.com"
+# AWD_Partner,D3821,,D382100,Logistics Health,"@optumserve.com,@optum.com"
+# AWD_Partner,Z7347,,Z734700,Zurich Insurance,"@zurich.com,@zurichna.com"
+# AWD_Partner,D1398,,D139800,The Boldt Company,@boldt.com
+# AWD_Partner,B4649,,B4649000,Amdocs,"@amdocs.com,@vindicia.com"
+# AWD_Partner,A2996,,A2996000,Anheuser Busch LLC,"@anheuser-busch.com,@ab-inbev.com"
+# AWD_Partner,A2703,,A2703000,Epam Systems,@epam.com
+# AWD_Partner,A2316,,A2316000,Crown Cork and Seal,@crowncork.com
+# AWD_Partner,S9413,,S9413000,Avantor,"@avantorsciences.com,@masterflex.com,@vwr.com"
+# AWD_Partner,A1001,,A1001000,FMC Corporation,@fmc.com
+# AWD_Partner,A8129,,A8129000,West Pharmaceutical,@westpharma.com
+# AWD_Partner,A8520,,A8520000,Kennametal,"@kennametal.com,@widia.com"
+# AWD_Partner,A6507,,A6507000,"Ansys, Inc.",@ansys.com
+# AWD_Partner,B8121,,B8121000,Signet Group Services,"@signetjewelers.com,@jewels.com"
+# AWD_Partner,A4230,,A4230000,Pressco Technologies,@pressco.com
+# AWD_Partner,A8750,,A875000,Lubrizol Corporation,@lubrizol.com
+# AWD_Partner,V2823,,V282300,"Henry Schein, Inc.",@henryschein.com
+# AWD_Partner,A8674,,A867400,Moodys Corporation,"@moodys.com,@rms.com"
+# AWD_Partner,H4213,,H421300,Bloomberg,"@bloomberg.net,@bloomberg.org,@bloombergindustry.com"
+# AWD_Partner,A8272,,A8272000,NEP Group,"@aerialvideo.com,@bexel.com,@bsintl.com,@ct-group.com,@fletch.com,@halon.com,@luxmc.com,@mediatecgroup.com,@nepgroup.com,@prysmcollective.com,@prysmstages.com,@screenworksnep.com,@sosglobal.com,@svptv.com,@Vistaworldlink.com,@ctus.com"
+# AWD_Partner,D4710,,D471000,ABM Industries,"@abm.com,@ravenbolt.com"
+# AWD_Partner,B2763,,B276300,BlackRock Inc.,@blackrock.com
+# AWD_Partner,A7609,,A760900,"Canon USA, Inc.","@cusa.canon.com,@csa.canon.com,@cfs.canon.com,@cits.canon.com,@cvi.canon.com,@canada.canon.com,@cbps.canon.com,@nt-ware.com,@onyxgfx.com,@us.medical.com,@mcu.canon.com,@BriefCam.com,@arcules.com"
+# AWD_Partner,S7231,,S723100,Endeavor,"@160over90.com,@anthonytravel.com,@artandcommerce.com,@bkstg.com,@bloom-media.com,@cliffordfrench.co.uk,@dixontalent.com,@eleague.com,@endeavorco.com,@endeavorcontent.com,@endeavorstreaming.com,@euroleague.net,@evokefilms.co.uk,@film-45.com,@fifthseason.com,@frieze.com,@thisisfusion.com,@heed-global.com,@img.com,@imgarena.com,@exhibitionsintl.com,@imglive.com,@immbr.com,@kovertcreative.com,@kreateinc.com,@ma.de,@m2m.tv,@mailmangroup.com,@mainconcept.com,@missuniverse.com,@ncsasports.org,@neulion.com,@onlocationexp.com,@plproductions.co.uk,@primesport.com,@pbr.com,@qcue.com,@openbet.com,@wearered.com,@sevenleague.co.uk,@sntv.com,@thewallgroup.com,@ufc.com,@wmeagency.com,@wmeentertainment.com,@wonderfulunion.com,@zuffa.com"
+# AWD_Partner,A1187,,A1187000,FLUOR ENTERPRISE,"@fluor.com,@fluorgov.com,@nuscalepower.com,@trsstaffing.com,@trscraftservices.com,@lanl.com,@na.stork.com,@stork.com,@srs.gov,@unnpp.gov,@spr.doe.gov,@cooecfluor.com,@icafluor.com,@fluorconstructors.com,@virtainc.com"
+# AWD_Partner,B3007,,B300700,Carreker Corporation,@carreker.com
+# AWD_Partner,A8056,,A8056000,Massachusetts Financial,@MFS.com
+# AWD_Partner,D0208,,D0208000,Ab Initio Software,@abinitio.com
+# AWD_Partner,A4793,,A4793000,Groom Construction,@groomco.com
+# AWD_Partner,D0614,,D0614000,ATC Operations LLC,@americantower.com
+# AWD_Partner,K0323,,K0323000,SIMPSON GUMPERTZ & HEGER,@SGH.com
+# AWD_Partner,D3575,,D3575000,Boston Beer Corporation,@bostonbeer.com
+# AWD_Partner,M0537,,M0537000,Safe Harbor Marinas,@shmarinas.com
+# AWD_Partner,B9341,,B9341000,Boehringer Ingelheim,@boehringer-ingelheim.com
+# AWD_Partner,A3903,,A3903000,Carl Zeiss,@zeiss.com
+# AWD_Partner,A2116,,A211600,8x8,@8x8.com
+# AWD_Partner,D3330,,D333000,ARM HOLDINGS INC,@arm.com
+# AWD_Partner,B0038,,B003800,CADENCE DESIGN SYSTEMS,@cadence.com
+# AWD_Partner,A4396,,A439600,ELECTRIC POWER,"@epri.com,@epsinc.com"
+# AWD_Partner,G6671,,G667100,INFORMATICA,"@informatica.com,@siperian.com"
+# AWD_Partner,B4195,,B419500,MAXTOR CORP,@maxtor.com
+# AWD_Partner,A5998,,A5998000,BRG CONSULTING,"@thinkbrg.com,@brg-expert.com"
+# AWD_Partner,S7086,,S7086000,Beumer Corp,@beumer.com
+# AWD_Partner,C8828,,C8828000,IPEX INC,@ipexna.com
+# AWD_Partner,A6149,,A614900,Lutron Electronics,"@lutron.com,@ketra.com"
+# AWD_Partner,S6964,,S696400,Mistras,@mistrasgroup.com
+# AWD_Partner,B1785,,B178500,Minerals Technologies,@mineralstech.com
+# AWD_Partner,A1611,,A161100,Church & Dwight,@churchdwight.com
+# AWD_Partner,R3346,,R334600,SAGE Dining,@sagedining.com
+# AWD_Partner,T5573,,T557300,Working America,@workingamerica.org
+# AWD_Partner,B3576,,B357600,Tenable,@tenable.com
+# AWD_Partner,D6888,,D688800,Continental Pools,@continentalpools.com
+# AWD_Partner,T1099,,T109900,Harford County,@harfordsheriff.org
+# AWD_Partner,B6864,,B6864000,NEW YORK UNIVERSITY,@nyu.edu
+# AWD_Partner,D0275,,D0275000,"Kuehne + Nagel, Inc.","@kuehne-nagel.com,@CFIPERSHIBLES.COM,@nacora.com,@RE-TRANS.COM"
+# AWD_Partner,A1439,,A1439000,VEECO,@veeco.com
+# AWD_Partner,D4728,,D4728000,Alvarez & Marsal,@alvarezandmarsal.com
+# AWD_Partner,R7861,,R7861000,Lachman Consultant,@lachmanconsultants.com
+# AWD_Partner,H6104,,H6104000,Maximus,@maximus.com
+# AWD_Partner,P6851,,P6851000,Ion Beam Applications,@iba-group.com
+# AWD_Partner,D6522,,D6522000,M.C.Dean,@mcdean.com
+# AWD_Partner,D0265,,D0265000,Framatome,@framatome.com
+# AWD_Partner,A2122,,A2122000,Insitute for Defenses,@ida.org
+# AWD_Partner,B2285,,B2285000,IEM,"@iem.com,@iem-health.com"
+# AWD_Partner,T7668,,T7668000,Kimely-Horn,@kimley-horn.com
+# AWD_Partner,Q0737,,Q0737000,NStar,@nstarglobalservices.com
+# AWD_Partner,S9117,,S911700,Ignite Restaurant Group,@igniterestaurants.com
+# AWD_Partner,A0137,,A0137000,Inter Technologies,@intertech.tv
+# AWD_Partner,A2921,,A2921000,Magic Leap,"@magicleap.com,@mlhorizons.com"
+# AWD_Partner,G4188,,G4188000,New Image Marketing,"@nimresearch.com,@calibratedinspections.com"
+# AWD_Partner,R0211,,R0211000,Barbizon,@barbizonusa.com
+# AWD_Partner,J5208,,J5208000,Brooks International,@brooksint.com
+# AWD_Partner,A4756,,A4756000,All Star Healthcare,"@asrlocums.com,@allstarrecruiting.com "
+# AWD_Partner,D7542,,D7542000,Hayes Locums,@hayeslocums.com
+# AWD_Partner,A2397,,A2397000,Aflac,"@aflac.com,@communicorp.com  "
+# AWD_Partner,B5480,,B5480000,Mowhawk Industries,"@Mohawkind.com,@Daltile.com,@Marazzitile.com,@Unilin.com,@Us-unilin.com,@Americanolean.com,@Keysgranite.com,@Naturalminerals.com,@Ao-marazzi.com,@Ragnousa.com"
+# AWD_Partner,S1778,,S177800,Yorktown Systems,@ysginc.com 
+# AWD_Partner,A0921,,A092100,McKee Foods,@mckee.com
+# AWD_Partner,J7020,,J702000,Class Inc.,@classleasing.com
+# AWD_Partner,Y2432,,Y2432000,"RS & H, INC",@rsandh.com
+# AWD_Partner,A5387,,A5387000,Optimum Healthcare,@optimumhit.com
+# AWD_Partner,A5059,,A5059000,Stellar Group,@stellar.net
+# AWD_Partner,A9812,,A9812000,BRIGHTER HEALTH,@bhnco.com
+# AWD_Partner,A3291,,A3291000,Immunotek Biocenters,@immunotek.com
+# AWD_Partner,D3660,,D3660000,3D Systems,@3dsystems.com
+# AWD_Partner,B6433,,B6433000,Biesse America,@biesseamerica.com
+# AWD_Partner,D1387,,D1387000,Hendrick Motorsports,@hmsracing.com
+# AWD_Partner,A7818,,A7818000,Ettain Group,"@ettaingroup.com,@experis.com"
+# AWD_Partner,S1568,,S1568000,Wenker Inc.,@wenkerinc.com
+# AWD_Partner,A7543,,A754300,JM Huber,"@huber.com,@cpkelco.com,@millerchemical.com,@naturalsoda.com,@sewallforestry.com"
+# AWD_Partner,D8601,,D860100,Altium Packaging,"@altiumpkg.com,@plasticind.com,@envisionplastics.com "
+# AWD_Partner,D4698,,D469800,Dekra,"@external.dekra.com,@dekra.com,@Dekra.org,@bstsolutions.com"
+# AWD_Partner,A5802,,A580200,SRC,@scires.com
+# AWD_Partner,C0087,,C0087000,Bombardier,@brp.com
+# AWD_Partner,G8621,,G862100,MIRANTIS INC,@mirantis.com
+# AWD_Partner,C3421,,C3421000,Sajo Inc,@sajo.com
+# AWD_Partner,C0802,,C0802000,ONTARIO POWER GENERATION,@opg.com
+# AWD_Partner,C2731,,C2731000,PALFINGER US HOLDINGS,@palfinger.com
+# AWD_Partner,C7903,,C7903000,BROCK SOLUTIONS INC,@brocksolutions.com
+# AWD_Partner,C4103,,C4103000,TOROMONT INDUSTRIES,@toromont.com
+# AWD_Partner,C2675,,C2675000,SUPERHEAT FGH LIMITED,@superheatfgh.com
+# AWD_Partner,C1604,,C1604000,MAPLE LEAF FOODS INC,@mapleleaf.com
+# AWD_Partner,C3222,,C3222000,ALGONQUIN POWER,@algonquinpower.com
+# AWD_Partner,C1269,,C1269000,HOME HARDWARE STORES,@homehardware.ca
+# AWD_Partner,C0358,,C0358000,ECLIPSE AUTOMATION,@eclipseautomation.com
+# AWD_Partner,K9465,,K9465000,TURNER & TOWNSEND,@turntown.com
+# AWD_Partner,C1084,,C1084000,OpenText,@opentext.com
+# AWD_Partner,C4448,,C4448000,Sunwing Airlines Inc,"@sunwing.com,@sunwing.ca,@sellofvacations.com,@flysunwing.com,@sunwing.net"
+# AWD_Partner,C1742,,C1742000,CSA Group,@csagroup.org
+# AWD_Partner,N2408,,N240800,OPORTUN INC,@oportun.com
+# AWD_Partner,C1853,,C1853000,GHD Limited,@ghd.com
+# AWD_Partner,C2211,,C221100,PCL Constructors,"@pcl.com,@melloy.com,@nordicpcl.com,@pcl-ed.com,@tetonindustrial.com,@mtcasl.com,@pcl.ca,@pclmarco.com"
+# AWD_Partner,C4172,,C417200,Morningstar Air Express,"@maei.ca,@morningstarpartners.ca,@aurorajet.ca"
+# AWD_Partner,C8757,,C875700,Cameco Corportation,@cameco.com
+# AWD_Partner,Q2577,,Q257700,NCS Fluid Handeling,"@ncsfluidsystems.ca,@ncsmanagement.ca"
+# AWD_Partner,C5540,,C554000,Canterra Seeds,@canterra.com
+# AWD_Partner,C4128,,C412800,Factors Group,"@factorsgroup.com,@wnpharmaceuticals.com,@naturalfactors.com,@webbernaturals.com,@bioclinicalnaturals.com"
+# AWD_Partner,C0587,,C058700,Aurora Glazing,@aurora.glass.com
+# AWD_Partner,C4579,,C457900,WhiteWater West,@whitewaterwest.com
+# AWD_Partner,C1658,,C165800,Canadian Pacific Rail,@cpr.ca
+# AWD_Partner,A2431,,A243100,Cenovus,@cenovus.com
+# AWD_Partner,R0356,,R035600,Nutrien,"@NUTRIEN.COM,@AGRIUM.COM,@POTASHCORP.COM,@PCSPHOSPHATE.COM,@CPSAGU.COM"
+# AWD_Partner,C3441,,C3441000,Calfrac,@CALFRAC.COM
+# AWD_Partner,C1467,,C146700,Graham Construction,@GRAHAM.CA
+# AWD_Partner,H6299,,H6299000,Hyundai America,@HATCI.COM
+# AWD_Partner,D3497,,D3497000,Huffmaster,@HUFFMASTER.COM
+# AWD_Partner,A4044,,A4044000,Workday,@workday.com
+# AWD_Partner,A1832,,A183200,SRI INTERNATIONAL,@sri.com
+# AWD_Partner,A5226,,A522600,2K Games Inc,"@2K.com,@FIRAXIS.COM"
+# AWD_Partner,W1958,,W1958000,Flatiron Construction,@flatironcorp.com
+# AWD_Partner,G9763,,G9763000,Geostabalization,"@gsi.us,@gsican.ca"
+# AWD_Partner,A2799,,A279900,HALLIBURTON,"@halliburton.com,@boots-coots.com,@fann.com,@lgc.com,@welldynamics.com,@summitesp.com,@athlonsolutions.com"
+# AWD_Partner,A5494,,A549400,Weir Group,"@weir.com,@mail.weir.com,@global.weir.com,@esco.com"
+# AWD_Partner,B5556,,B5556000,QUALCOMM INC,"@qualcomm.com,@qti.qualcomm.com"
+# AWD_Partner,A1565,,A156500,,"@kbr.com,@us.kbr.com,@socar-kbr.az,@sigmabravo.com,@fncaustralia.com.au,@harmonic.kbr.com,@oss-limited.com,@wyle.com,@centauricorp.com,@adnoc.ae,@homesafealliance.com,@WEATHERLYINC.COM,@kbrwyle.com,@chemours.com,@nnb-edfenergy.com,@OMANLNG.CO.OM,@sgt-inc.com,@hsetglobal.com,@khadefencesolutions.com.au"
+# AWD_Partner,B7710,,B7710000,Microsoft,"@microsoft.com,@Github.com,@Linkedin.com"
+# AWD_Partner,A7379,,A7379000,APPLE,"@apple.com,@appletv.com,@beatsbydre.com,@filemaker.com,@mac.com,@euro.apple.com,@aisa.apple.com,@braeburncapital.com,@claris.com"
+# AWD_Partner,B2016,,B2016000,ORACLE CORP,"@oracle.com,@netsuite.com,@cerner.com"
+# AWD_Partner,A1677,,A1677000,NESTLE,"@nestle.com,@purina.nestle.com,@9SquareVentures.com,@A14SAP.NESTLE.COM,@AB4SAP.NESTLE.COM,@abm.ams.nestle.com,@aguasaolourenco.com.br,@AMS.NESTLE.COM,@AR.NESTLE.COM,@ARROWHEADWATER.COM,@BABYRUTH.COM,@bagzieshop.com,@barrelandbutcher.com,@billing2.readyrefresh.com,@BO.NESTLE.COM,@body2body.pl,@boostedbrew.com,@BR.NESTLE.COM,@BR01.NESTLE.COM,@breederclub.it,@BUTTERFINGER.COM,@CA.NESTLE.COM,@CA.NESTLEPROFESSIONAL.COM,@CANYONCREEKRANCH.COM,@CARNATIONINSTANTBREAKFAST.COM,@CBR.NESTLE.COM,@chameleoncoldbrew.com,@CKMK.COM,@CL.NESTLE.COM,@CO.NESTLE.COM,@COFFEE-MATE.COM,@CR.NESTLE.COM,@DAILYFANCIES.COM,@DEERPARKWATER.COM,@DO.NESTLE.COM,@DOLCE-GUSTO.CL,@DOLCE-GUSTO.CO.KR,@DOLCE-GUSTO.US,@DOLCEGUSTO-B2B.COM.BR,@DOLCEGUSTO-ME.COM,@dpabrasil.com.br,@dreamlandcreamery.com,@DREYERS.COM,@DRINKTRADEWINDS.COM,@EC.NESTLE.COM,@EDI.US.NESTLE.COM,@EDYS.COM,@eop.nestle.com,@faceuptorosacea.ca,@fagalbolivia.com,@fax.ams.nestle.com,@fax.us.nestle.com,@fax2016test.ams.nestle.com,@fope.nestle.com,@FORTIFLORAGOODMOVE.COM,@frozenmightybites.com,@GAROTO.COM,@GAROTO.COM.BR,@GERBER.COM.MX,@goodbe.com,@GOODLIGHT.COM.BR,@GOODNES.COM,@goodnightfood.com,@GROWUP.US,@GT.NESTLE.COM,@haagendazsshoppecompany.com,@HN.NESTLE.COM,@ICECREAM.COM,@ICEMOUNTAINWATER.COM,@IFPURINA.COM,@INFORMATION.POWERBAR.COM,@janrain.nestle.com,@JM.NESTLE.COM,@JUICYJUICE.COM,@kitkat.ca,@KOFFIE.COM.MX,@m.readyrefresh.com,@MAIL.BUITONI.COM,@mail.pronourish.com,@Malher.com,@MEALS.COM,@MIKO.ES,@MOSS.AMS.NESTLE.COM,@MX.NESTLE.COM,@myfancyfeast.com,@Myicr.com,@MYSPRINGWATER.COM,@N-AGENCIAS.COM.MX,@naturalnso.com,@nescafe.ca,@NESCAFEUSA.COM,@NESQUIK.COM,@NESTEA.COM,@NESTLE.CA,@NESTLE.COM.BR,@NESTLECLINICALNUTRITION.COM,@NESTLEFAMILY.COM,@NESTLEFOODSERVICES.COM,@nestlehealthscience.ca,@nestlehealthscience.us,@NESTLEJOBS.CA,@nestlemarcas.com,@NESTLEPURELIFEDIRECT.COM,@NESTLE-SENTIRSEBIEN.COM,@NESTLE-WATERS.COM.BR,@NESTLEWATERSNA.COM,@NESTLE-WATERSNA.COM,@NESUSA.COM,@NI.NESTLE.COM,@outsiderspizza.com,@OZARKAWATER.COM,@PA.NESTLE.COM,@PARTNERS-N-WELLNESS.COM,@PAWSWAY.CA,@PAYCOFOODS.COM,@PE.NESTLE.COM,@PERRIERGROUP.COM,@perrierusa.com,@personalisedproplan.co.uk,@PETFINDER.COM,@PETSFORPEOPLE.COM,@POLANDSPRING.COM,@POLANDSPRINGWATER.COM,@POWERBAR.COM,@PR.NESTLE.COM,@pronourish.com,@PURINA.COM,@PURINACARE.COM,@purinafarms.com,@PURINAPETSFORSENIORS.COM,@Purinastore.com,@PURINAWEIGHTCOACH.COM,@PY.NESTLE.COM,@rallytorescue.com,@RALLYTORESCUE.ORG,@RD4SAP.nestle.com,@RDBA.NESTLE.COM,@RDCT.NESTLE.COM,@RDMO.NESTLE.COM,@RDOH.NESTLE.COM,@RDSN.NESTLE.COM,@readyrefresh.com,@refillplus.com,@rootlabpetfood.com,@sac.co.nestle.com,@saphecmail.nestle.com,@SELLBOTTLEDWATER.COM,@service.readyrefresh.com,@STLPETLOVER.COM,@STLPETLOVER.ORG,@SV.NESTLE.COM,@sweetearthfoods.com,@sweethabit.com,@SWEETLEAFTEA.COM,@SWIRLPUERTORICO.COM,@TASTERSCHOICE.COM,@THESPARKLINGLIFE.COM,@TRYPROPLAN.CA,@TT.NESTLE.COM,@tubebesano.com.pa,@US.NESTLE.COM,@US.NESTLEPROFESSIONAL.COM,@UY.NESTLE.COM,@VE.NESTLE.COM,@WAGGINTRAINBRAND.CA,@WATERS.NESTLE.COM,@wildscapefood.com,@WONKA.COM,@ZEPHYRHILLSWATER.COM,@RD.NESTLE.COM"
+# AWD_Partner,D1643,,D1643000,ACUITY BRANDS,"@acuitybrands.com,@acuitysp.com,@lithonia.com,@2020designstudio.com,@2020lightlab.com,@abtechnologyservices.com,@acuitybrands.com,@acuitybrands.com.mx,@acuitybrandscontrols.ca,@acuitybrandscontrols.com,@acuitybrandslighting.com,@acuitybrandstechnologyservices.com,@acuitylightinggroup.com,@acuitynext.com,@acuitynext.io,@acuitynext.net,@acuitysso.com,@aduratech.com,@agile2dev.onmicrosoft.com,@alights.com,@americanelectriclighting.com,@amerillum.com,@antiquestreetlamps.com,@apg-abl.com,@atrius.acuitybrands.com,@atrius.com,@atrius-iot.com,@atrius-iot.io,@austinlightingproducts.com,@axora.co.uk,@buildingdashboard.net,@buildingos.com,@bytelight.com,@cbcplastics.com,@claims.acuitybrands.com,@competetoreduce.org,@cyclonelighting.com,@dglogik.com,@distech-controls.com,@eldoled.com,@eldoled.nl,@eurekalighting.com,@geometri.io,@gothamlighting.com,@gtc.acuitybrands.com,@guardian-networks.com,@healthcare-lighting.com,@holophane.at,@holophane.co.uk,@Holophane.com,@holophane.com.mx,@holophane.de,@holophane.eu.com,@holophane-austin.com,@holophaneeclairage-france.fr,@holophane-envision.co.uk,@hr-surveys.acuitybrands.com,@hydrel.com,@Indyltg.com,@interplaylighting.com,@iotaengineering.com,@junoai.acuitybrands.com,@JunoLighting.com,@junolightinggroup.com,@Junoltg.com,@JunoltgGroup.com,@lightingcontrols.com,@lightingforlearning.com,@lithonia.com,@locuslabs.com,@lucidconnects.com,@luciddesigngroup.com,@luciddg.com,@luminaireled.net,@luminairelighting.com,@luminairesgroup.com,@luminis.com,@marklighting.com,@metaloptics.com,@myholophane.com,@nlightcontrols.com,@pathwayconnect.com,@peerlesslighting.com,@peerless-lighting.com,@powersentrysafety.com,@pricing.acuitybrands.com,@privacy.acuitybrands.com,@privacyuat.acuitybrands.com,@quicktronic.com,@relocwiring.com,@renaissancelighting.com,@rllight.com,@roamcontrols.com,@roam-services.com,@roamservices.net,@saeris.com,@sensorswitch.com,@sky.acuitybrands.com,@speclightsolutions.com,@sunoptics.com,@synergylightingcontrols.com,@tersenlighting.com,@theluminairesgroup.com,@tlginc.co,@visual-3d.com,@visuallightingsoftware.com,@whiteoptics.com,@winonalighting.com"
+# AWD_Partner,D4603,,D460300,TIAA Bank,"@tiaa.org,@everbank.com,@Elitelenderservices.com,@glennmont.com,@greenworkslending.com,@envisagesystems.com,@loansupportteam.com,@symphonyasset.com,@everbank.com,@financeservicecenter.com,@tiaabank.com,@TIAAAPC.onmicrosoft.com,@TIAAGBR.onmicrosoft.com,@TIAADEU.onmicrosoft.com,@TIAACREF.onmicrosoft.com,@tiaa-cref.org,@kaspick.com,@in.tiaa.org,@covariancecapital.com,@tiaadirect.org,@tgam.com,@tiaacharitable.org,@tiaa.org,@nuveenglobal.com,@tiaainvestments.com,@TIAACREF.mail.onmicrosoft.com,@nuveenglobal.info,@nuveenwest.com,@nuveenisg.com,@sbasset.com,@tradewindsglobal.com,@nwq.com,@tiaainstitute.org,@nuveen.com,@tradewinds.com,@nuveeninstitutional.com"
+# AWD_Partner,D5934,,D593400,BevMo!,"@gopuff.com,@bevmo.com"
+# AWD_Partner,X2826,,X2826000,TETRA TECH,"@dpkconsulting.com,@msi-inc.com,@pro-telligent.com,@pro-integridad.com,@aegl.net,@airportnetwork.com,@ardaman.com,@bas.com,@bridgenet.us,@bwfed.com,@canprojects.com,@coanda.ca,@coffey.com,@cornerstoneeg.com,@cosentini.com,@cosentini-ma.com,@eaintegrator.com,@eba.ca,@ecoaus.com.au,@eglobaltech.com,@espvanuatu.org,@fpa-inc.com,@geminienergyservices.com,@glumac.com,@hoarelea.co.uk,@hoarelea.com,@iapasg.org,@induscorp.com,@ldisllc.com,@msi-inc.com,@ndy.com,@rooney-eng.com,@seguetech.com,@thekaizencompany.com,@wyg.com,@tetratech.com"
+# AWD_Partner,A5774,,A5774000,BKD,"@bkd.com,@forvis.com"
+# AWD_Partner,C2015,,C201500,BlackBerry Limited,"@blackberry.com,@rim.com,@qnx.com"
+# AWD_Partner,K0016,,K001600,Dropbox,@dropbox.com
+# AWD_Partner,D0632,,D063200,Electronics For Imaging,@efi.com
+# AWD_Partner,K9446,,K944600,MoveCenter,@movecenter.com
+# AWD_Partner,B2217,,B221700,Nikon Precision,"@nikon.com,@ntasfb.com,@NIKONOA.NET"
+# AWD_Partner,A2376,,A237600,Twitter,@twitter.com
+# AWD_Partner,G6502,,G650200,Amkor Technology,@amkor.com
+# AWD_Partner,A1328,,A132800,Axon Enterprise,@axon.com
+# AWD_Partner,B9862,,B986200,Best Western,@bestwestern.com
+# AWD_Partner,A5026,,A502600,Carlisle Companies,@carlisle.com
+# AWD_Partner,X9508,,X950800,Dignity Health,@dignityhealth.org
+# AWD_Partner,S9939,,S993900,Freeport McMoran,@fmi.com
+# AWD_Partner,B0678,,B067800,Grand Canyon Education,@gce.com
+# AWD_Partner,R0277,,R027700,Insight Enterprises,@insight.com
+# AWD_Partner,D3653,,D365300,Wood Group Management,@woodplc.com
+# AWD_Partner,D8001,,D800100,Westlake Chemical Corp,@westlake.com
+# AWD_Partner,S8175,,S817500,Talen Energy,@talenenergy.com
+# AWD_Partner,B2673,,B267300,Odem NEMT Inc,@odemnemt.com
+# AWD_Partner,B0833,,B0833000,VERISK ANALYTICS,"@verisk.com,@3eco.com,@aer.com,@maplecroft.com,@vesseltracker.com,@woodmac.com,@360inspecthub.com,@360-value.com,@3ecompany.com,@4csolutions.net,@air-worldwide.com,@ais.claims,@ais.tech,@amsgeo.com,@analyzere.com,@apisenterprise.net,@apissupport.com,@arielresearch.com,@arium.co.uk,@Ascendian.com,@ASPECTLP.COM,@automatedinsurancesolutions.co.uk,@automatedinsurancesolutions.com,@aws.fasttechnology.com,@bail.claims,@bankruptcy-intelligence.com,@barlowjonker.com,@betterestimating.com,@billing.vesseltracker.com,@brookhunt.com,@builderadius.com,@builderadius.net,@buildfax.com,@business-insight.net,@cargonet.com,@citiesrevealed.com,@claimsuite.com,@commercesignals.com,@commodityvectors.com,@consultmake.com,@contactstate.com,@controlcam.com,@corp.argusinformation.com,@corp.petrotranz.com,@coteincendie.ca,@cpscmsa.com,@crworld.co.uk,@customerexperience.verisk.com,@cv-alir.com,@cv-exchange.com,@data.genscape.com,@datadrivensafety.com,@datarise.com,@ddsyak.com,@emails.woodmac.com,@emergent-intel.com,@energyfundamentals.com,@envapower.com,@estimateon.com,@exchange.maplecroft.com,@fastfinancialsystems.com,@fasttechnology.cloud,@fasttechnology.com,@fintellix.com,@fireunderwriters.ca,@focus.woodmac.com,@francosignor.com,@g2.verisk.com,@g2llc.com,@g2netview.com,@g2webservices.com,@g2webservices.net,@gallagherbassettmir.com,@gbtpa-cs.com,@genscape.com,@genscape.net,@geoaware.info,@geoinformationgroup.co.uk,@getclarity.ca,@gopact.net,@gpenergymanagement.com,@gprenew.com,@Greentechmedia.com,@Gtmresearch.com,@hillandassoc.com,@hs.woodmac.com,@hsesystems.com,@icreate.in,@icsinbox.com,@i-fnol.com,@ignite.systems,@iix.com,@inferenda.com,@infield.co.uk,@infield.com,@infieldlive.com,@infutor.com,@insurancelink.ie,@iso.com,@iso-its.com,@jornaya.com,@lciinc.com,@learnitsolutions.com,@lloydswordings.com,@lmawordings.com,@lmits.ca,@mail.validus-ivc.co.uk,@make-consulting.com,@marketstance.com,@marketview.co.nz,@msds.com,@mspnavigator.com,@mywheels.ie,@ner.net,@nerusa.com,@netmap-us.com,@noticelink.com,@openrecordsdataretrieval.com,@openrecordsdataretrieval.org,@Optaintel.ca,@ordrmail.com,@outbound.validus-ivc.co.uk,@pciep.com,@pcifibres.com,@pcinylon.com,@pcs-canada.com,@pcs-turkey.com,@petrotranz.com,@PowerAdvocate.com,@prometrix.iso.com,@propertypreswizard.com,@proscendian.com,@pruvan.com,@qualityplanning.com,@reinspections.xactnet.co.uk,@reinspections.xactnet.com,@richardcrouse.com,@riskintelligence.ie,@rmaerialsurveys.com,@roskill.co.uk,@roskill.com,@ruf.com,@rxnpetrochem.com,@sequel.com,@sequelhealth.com,@sharplineallocations.com,@springrockproduction.com,@thepcigroup.com,@theukmap.co.uk,@uk.iso.com,@ukmapstore.co.uk,@Validus-ivc.co.uk,@Validus-ivc.com,@validus-ivc.com.au,@Validusportal.co.uk,@validusportal.com.au,@vcase.co.uk,@verisk.cl,@verisk.co.uk,@verisk.de,@verisk.io,@verisk.mail.onmicrosoft.com,@verisk.onmicrosoft.com,@verisk3e.com,@veriskcan.onmicrosoft.com,@veriskclimate.com,@veriskdeu.onmicrosoft.com,@veriskdom.com,@veriskeur.onmicrosoft.com,@veriskfinancialargus.com,@veriskfinancialresearch.com,@VeriskGBR.onmicrosoft.com,@veriskind.onmicrosoft.com,@veriskretail.com,@verisksg2.teamssg.pure-ip.com,@whitespace.co.uk,@xactcloud.com,@XACTIMATEONE.CL,@xactnet.com,@xactprm.com,@xactremodel.com,@xactvalue.com,@xactware.ca,@xactware.co.uk,@xactware.com,@xactware.com.au,@zipforward.com"
+# AWD_Partner,B7024,,B7024000,Dish Network,"@dish.com,@dish.com,@sling.com"
+# AWD_Partner,G4208,,G420800,Ifco Systems,@ifcosystems.com
+# AWD_Partner,A8541,,A854100,Loreal,"@loreal.com,@carolsdaughter.com,@clarisonic.com,@decleor-us.com,@itcosmetics.com,@kiehls-usa.com,@lancome-usa.com,@matrix.com,@maybelline.com,@mcb-loreal.com,@nyxcosmetics.com,@pulpriothair.com,@pureology-usa.com,@redken.com,@salonCentric.com,@skinceuticals.com,@softsheen-carson.com,@urbandecay.com,@youthtothepeople.com"
+# AWD_Partner,B8981,,B8981000,RPM INTERNATIONAL,"@rpminc.com,@dap.com,@rpmwfg.com,@bisonip.com,@tremcoinc.com,@tremco.ca,@wtiservices.com,@rpmrepublic.com,@euclidchemical.com,@canambuildingenvelope.com,@chemtron.ca,@nudura.com,@euclidcanada.com,@tremcocpg.com,@euclidchemical.mx,@keyresin.com,@tremco-illbruck.com,@cpg-europe.com,@vandex.de,@rpm-belgium.be,@alteco-technik.de,@vandex.com,@rpmcpg.com,@flowcrete.com,@vandex.ch,@dryvit.pl,@dryvit.ca,@dryvit.com,@flowcrete.co.uk,@tremcocpg-asiapacific.com,@euclidchemical.com.co,@toxement.com.co,@euclidchemical.com.ec,@tremco.com,@schul.com,@willseal.com,@prebuckproducts.com,@dap.com,@rustoleum.com.au,@gatorgrit.com,@legendbrands.com,@legendbrandseurope.com,@cfmconsolidated.com,@dri-eazhome.com,@legendbrands.net,@comcenterpro.com,@carboline.com,@stonhard.com,@rpmpcg.com,@rustoleum.co.za,@fibergrate.com,@arnettepolymers.com,@stoncor-me.com,@hummervoll.no,@uslekspan.com,@uslamerica.com,@appliedpolymerics.com,@stoncor.com.ar,@stoncor.com,@corgrate.com,@epoplex.com,@expanko.com,@uslgroup.com,@liquidelements.com,@fptinfrastructure.com,@primeresins.com,@adfire.com,@carbolineindia.com,@api-spa.com,@perlitayvermiculita.com,@perlindustria.com,@argosgestion.com,@fibregrid.com,@pitchmasticpmb.com,@usluk.com,@uslsp.com,@ekspan.co.uk,@uslinternational.com,@pdsenviro.com,@grupopv.es,@firelanz.com,@stoncor.com.na,@logiball.com,@spc-net.com,@stonharddocs.com,@dudick.com,@tor-coatings.com,@rustoleum.ca,@rustoleum.com,@rustoleum.com.ar,@rustoleum.com.pe,@rpminc.com,@rpmconsumer.com,@kop-coat.com,@mrtproducts.com,@dayglo.com,@viveri.com,@rpmtwo.com,@pettitpaint.com,@rpmspg.com,@finishworks.com,@rpmwfg.com,@guardianproducts.net,@rpmicg.com,@valvtect.com,@mcmillan-bros.com,@morrells.co.uk,@mohawk-finishing.com,@morrells.ca,@morrells.nl,@tcipowder.com,@rydenor.com,@morrells.za.com,@KIRKERENT.com,@rpmscg.com,@kirkereurope.co.uk,@tds-tech.com,@Mantrose.com,@natureseal.com,@agricoat.co.uk,@holtonfp.com,@mantrose.co.uk,@agpro.co.nz,@kop-coat.co.nz,@kop-coat.com.au,@radiantcolor.be,@alphakem.com.au,@profilefoodingredients.com,@ramucpoolpaint.com,@tremco.com.au,@tmc.tremco.com.au,@watco.de,@watco.fr,@watco.co.uk"
+# AWD_Partner,G9297,,G929700,WageWorks,"@wageworks.com,@healthequity.com"
+# AWD_Partner,B5721,,B572100,American Express,"@amexgbt.com,@aexp.com"
+# AWD_Partner,A6264,,A6264000,indel,"@indelinc.com,@consarc.com,@inductotherm.com,@THERMATOOL.COM,@USJOMARCORP.COM,@RADYNE.COM,@ATHENACONTROLS.COM,@inductoheat.com"
+# AWD_Partner,B4496,,B449600,Nova Medical Centers,@n-o-v-a.com
+# AWD_Partner,A1253,,A1253000,Northwestern Mutual,"@nothwesternmutual.com,@nm.com,@northwesternmutual.com"
+# AWD_Partner,X2049,,X204900,Williams Sonoma,"@wsgc.com,@williams-sonoma.com"
+# AWD_Partner,B4067,,B406700,ACCENTURE,"@accenture.com,@accenturefederal.com,@afs.com,@alight.com,@asmr.com,@avanade.com,@compuware.com,@droga5.com,@ds.dev.accenture.com,@sforce.accenture.com,@fusionx.com,@kateskesler.com,@kurt-salmon.com,@modruson.com,@mortgagecadence.com,@octo.com,@onbionic.com,@orbium.com,@pslintl.com,@replgroup.com,@rootinc.com,@seaburyconsulting.com,@talkingpointusa.com,@touchcast.com,@whatifinnovation.com"
+# AWD_Partner,B9205,,B920500,Raytheon(Legacy UTC),"@aatcorp.com,@adfos.rockwellcollins.com,@arinc.com,@arincdirect.com,@atschiller.com,@aviationelectronics.com,@bbn.com,@beaerospace.com,@beaerospace-systems.com,@brazonics.com,@btl.co.il,@claverham.com,@collins.com,@collinsaero.com,@collinsaerospace.com,@corp.rockwellcollins.com,@corpdc.utc.com,@corphq.utc.com,@corpuk.utc.com,@delavan.co.uk,@engineallianceportal.com,@fischer-seats.com,@fischer-seats.de,@goodrich.com,@hfemail.com,@hs.utc.com,@hsd.utc.com,@hsmarston.co.uk,@iae-jaec.com,@iaev2500.com,@jareinhardt.com,@kidde-deugra.com,@lists.arinc.com,@macrolink.com,@mikrosystems.com,@nm.hsd.utc.com,@pciga.com,@pikewerks.com,@prattwhitney.com,@prattwhitneychina.com,@pw.utc.com,@pwaero.utc.com,@pwap.utc.com,@pwbe.utc.com,@pwc.ca,@pwk.com.pl,@pwrze.utc.com,@rtx.com,@raytheon.co.uk,@raytheon.com,@raytheon.com.au,@raytheoncyber.com,@raytheon-ssd.com,@rps-emea.com,@sigovs.com,@solipsys.com,@teligy.com,@thalesraytheon-us.com,@trainingsupportadmin.com,@ratier-figeac.fr,@sbmachineinc.com,@siliconsensing.com,@teklam.com,@utc.com,@wovenelectronics.com,@seakr.com"
+# AWD_Partner,A0063,,A0063000,CAE INC.,"@CAE.COM,@milusa.com,@cae.com"
+# AWD_Partner,D8250,,D825000,Alfa Group,@alliax.com
+# AWD_Partner,A0599,,A059900,PetSmart,@Petsmart.com
+# AWD_Partner,H6509,,H650900,Make-a-Wish,@Wish.org
+# AWD_Partner,D1157,,D115700,SVB Financial Group,@svb.com
+# AWD_Partner,T4972,,T497200,Shamrock Companies,@Shamrockfoods.com
+# AWD_Partner,B5475,,B547500,Kitchell Corporation,@Kitchell.com
+# AWD_Partner,A2765,,A276500,Avnet,@Avnet.com
+# AWD_Partner,D9011,,D901100,Baylor Scott & White Heal,@bswhealth.org
+# AWD_Partner,B9968,,B996800,Boy Scouts of America,@scouting.org
+# AWD_Partner,B2893,,B289300,DR Horton,@drhorton.com
+# AWD_Partner,S0048,,S004800,Fleet Pride,@fleetpride.com
+# AWD_Partner,A9517,,A951700,Greystone Communities,@greystonecommunities.com
+# AWD_Partner,D0242,,D024200,Koenig & Bauer,@Koenig-bauer.com
+# AWD_Partner,A7062,,A706200,OneSource Virtual,@onesourcevirtual.com
+# AWD_Partner,D0772,,D077200,Omnitracs,@omnitracs.com
+# AWD_Partner,S1095,,S109500,TRESU Group,@tresu.com
+# AWD_Partner,D0667,,D066700,Kyocera,"@kyocera.com,@kyocera-wireless.com"
+# AWD_Partner,Z7708,,Z770800,Cal Dive International,@caldive.com
+# AWD_Partner,D4449,,D444900,Compulink Business Sys,"@compulinkadvantage.com,@compulink-software.com"
+# AWD_Partner,M9406,,M940600,Collins Aerospace,"@aatcorp.com,@adfos.rockwellcollins.com,@arinc.com,@arincdirect.com,@atschiller.com,@aviationelectronics.com,@bbn.com,@beaerospace.com,@beaerospace-systems.com,@brazonics.com,@btl.co.il,@claverham.com,@collins.com,@collinsaero.com,@collinsaerospace.com,@corp.rockwellcollins.com,@corpdc.utc.com,@corphq.utc.com,@corpuk.utc.com,@delavan.co.uk,@engineallianceportal.com,@fischer-seats.com,@fischer-seats.de,@goodrich.com,@hfemail.com,@hs.utc.com,@hsd.utc.com,@hsmarston.co.uk,@iae-jaec.com,@iaev2500.com,@jareinhardt.com,@kidde-deugra.com,@lists.arinc.com,@macrolink.com,@mikrosystems.com,@nm.hsd.utc.com,@pciga.com,@pikewerks.com,@prattwhitney.com,@prattwhitneychina.com,@pw.utc.com,@pwaero.utc.com,@pwap.utc.com,@pwbe.utc.com,@pwc.ca,@pwk.com.pl,@pwrze.utc.com,@rtx.com,@raytheon.co.uk,@raytheon.com,@raytheon.com.au,@raytheoncyber.com,@raytheon-ssd.com,@rps-emea.com,@sigovs.com,@solipsys.com,@teligy.com,@thalesraytheon-us.com,@trainingsupportadmin.com,@ratier-figeac.fr,@sbmachineinc.com,@siliconsensing.com,@teklam.com,@utc.com,@wovenelectronics.com,@seakr.com"
+# AWD_Partner,A7230,,A723000,Pratt & Whitney Canada,"@aatcorp.com,@adfos.rockwellcollins.com,@arinc.com,@arincdirect.com,@atschiller.com,@aviationelectronics.com,@bbn.com,@beaerospace.com,@beaerospace-systems.com,@brazonics.com,@btl.co.il,@claverham.com,@collins.com,@collinsaero.com,@collinsaerospace.com,@corp.rockwellcollins.com,@corpdc.utc.com,@corphq.utc.com,@corpuk.utc.com,@delavan.co.uk,@engineallianceportal.com,@fischer-seats.com,@fischer-seats.de,@goodrich.com,@hfemail.com,@hs.utc.com,@hsd.utc.com,@hsmarston.co.uk,@iae-jaec.com,@iaev2500.com,@jareinhardt.com,@kidde-deugra.com,@lists.arinc.com,@macrolink.com,@mikrosystems.com,@nm.hsd.utc.com,@pciga.com,@pikewerks.com,@prattwhitney.com,@prattwhitneychina.com,@pw.utc.com,@pwaero.utc.com,@pwap.utc.com,@pwbe.utc.com,@pwc.ca,@pwk.com.pl,@pwrze.utc.com,@rtx.com,@raytheon.co.uk,@raytheon.com,@raytheon.com.au,@raytheoncyber.com,@raytheon-ssd.com,@rps-emea.com,@sigovs.com,@solipsys.com,@teligy.com,@thalesraytheon-us.com,@trainingsupportadmin.com,@ratier-figeac.fr,@sbmachineinc.com,@siliconsensing.com,@teklam.com,@utc.com,@wovenelectronics.com,@seakr.com"
+# AWD_Partner,C2037,,C2037000,Recipe Unlimited,"@recipeunlimited.com,@cara.com"
+# AWD_Partner,G6244,,G624400,MD7,"@md7.com,@thoughtcapitalpartners.com"
+# AWD_Partner,A4421,,A4421000,DELOITTE,"@DELOITTE.COM,@clearcarbonconsulting.com,@clearcarboninc.com,@corporatelattice.com,@deloitteacademy.ch,@deloitteretired.com,@deloitteuniversity.com,@domani.com,@masscareercustomization.com,@oco-inc.com,@panewhires.com,@pharmacm.com,@tciconsult.com,@ydeloitte.com,@deloittefed.com,@intrasphere.com,@aggressorllc.com,@crgpartners.com,@trgusa.com,@crpllc.net,@iediscovery.com,@dupress.com,@partnerdatalink.com,@doblin.com,@bersin.com,@monitor.com,@recomdata.com,@mccollpartners.com,@fusion.deloitte.com,@thevigilant.com,@ubermind.com,@banyanbranch.com,@cisbydeloitte.com,@lraworldwide.com,@usopen.deloitte.com,@thisisheat.com,@communication.deloitte.com,@talent.deloitte.com,@caseyquirk.com,@sfheat.com,@solvasdigitize.com,@gcp.deloitte.com,@blabpredicts.com,@atadata.com,@buginsights.com,@ocg.deloitte.com,@innowake.de,@innowake.com,@day1solutions.com,@bnymnotices.com,@lendernotices.com,@wtnotices.com,@eventops.deloitte.com,@nextstepadvisory.com,@eaevents.deloitte.com,@cor3info.com,@ginniemae.gov,@uslist.us.deloitte.com,@dev.cloud.trueview.deloitte.com,@trueviewbuild.deloitte.com,@trueview.deloitte.com,@strueview.deloitte.com,@deloitte.co.il,@hbf.deloitte.com,@cis-partners.com,@5500.deloitte.com,@zcapnotices.com,@chenavarinotices.com,@medirectnotices.com,@t-deloittegamail.com,@deloittegesmail.com,@usinfosecriskmanagement.deloitte.com,@gahelp.deloitte.com,@globalservicedesk.deloitte.com,@repapering.com,@siepenotices.com,@io.deloitte.com,@demo.securerelease.us,@dev.securerelease.us,@qa.securerelease.us,@securerelease.us,@deerpathnotices.com,@thesmartfactory.io,@hashedin.com,@from.deloitte.com,@communications.deloitte.com,@info.deloitte.com,@envelope.from.deloitte.com,@dbnotices.com,@intelataxandlegal.com,@intelaglobal.com,@inteladomain.com,@cyberbytes.deloitte.com,@ml.deloitte.com,@transientx.com,@terbiumlabs.com,@intelademo.com,@upstreamtaxanalyzer.com,@testipcasqa.com,@testipacsstage.com,@npd.deloittefusion.net,@deloittespark.com,@acetaxdemo.com,@btstaxdemo.com,@gestaxdemo.com,@ittptaxdemo.com,@lbstaxdemo.com,@mtstaxdemo.com,@nationaltaxdemo.com,@nftstaxdemo.com,@psgtaxdemo.com,@othertaxdemo.com,@tmctaxdemo.com,@ttotaxdemo.com,@alterdomusnotices.com"
+# AWD_Partner,B3184,,B318400,IHI Inc.,"@ihi-g.com,@ihi-press.com,@ihi-ec.com,@ihipower.com,@ihiinc.ihi.co.jp,@ihi-us.com,@ihiterrasun.com,@ihi-turbo.com,@hauzer.us,@ihi-bernex.com"
+# AWD_Partner,A1632,,A163200,Cubic Corp,@cubic.com
+# AWD_Partner,G9517,,G951700,Avid Center,@avid.org
+# AWD_Partner,N2161,NULL,N2161000,EY,"@AF.EY.COM,@AL.EY.COM,@DZ.EY.COM,@AR.EY.COM,@AM.EY.COM,@AU.EY.COM,@AT.EY.COM,@AZ.EY.COM,@BS.EY.COM,@BH.EY.COM,@BD.EY.COM,@BB.EY.COM,@BY.EY.COM,@BE.EY.COM,@BM.EY.COM,@BO.EY.COM,@BA.EY.COM,@BW.EY.COM,@BR.EY.COM,@VG.EY.COM,@BN.EY.COM,@BG.EY.COM,@KH.EY.COM,@CM.EY.COM,@CA.EY.COM,@KY.EY.COM,@TD.EY.COM,@CL.EY.COM,@CN.EY.COM,@TW.EY.COM,@CO.EY.COM,@CR.EY.COM,@CI.EY.COM,@HR.EY.COM,@CY.EY.COM,@CZ.EY.COM,@CZ.EYLAW.COM,@CD.EY.COM,@DK.EY.COM,@DO.EY.COM,@EC.EY.COM,@EG.EY.COM,@SV.EY.COM,@GQ.EY.COM,@EE.EY.COM,@FJ.EY.COM,@FI.EY.COM,@FR.EY.COM,@GA.EY.COM,@GE.EY.COM,@DE.EY.COM,@GH.EY.COM,@GI.EY.COM,@GR.EY.COM,@GU.EY.COM,@GT.EY.COM,@GN.EY.COM,@HN.EY.COM,@HU.EY.COM,@IS.EY.COM,@IN.EY.COM,@ID.EY.COM,@IQ.EY.COM,@IE.EY.COM,@IM.EY.COM,@IL.EY.COM,@IT.EY.COM,@JM.EY.COM,@JP.EY.COM,@JO.EY.COM,@KZ.EY.COM,@KE.EY.COM,@KR.EY.COM,@KW.EY.COM,@KG.EY.COM,@LA.EY.COM,@LV.EY.COM,@LB.EY.COM,@LY.EY.COM,@LT.EY.COM,@LU.EY.COM,@MK.EY.COM,@MW.EY.COM,@MY.EY.COM,@MT.EY.COM,@MU.EY.COM,@MX.EY.COM,@MD.EY.COM,@MC.EY.COM,@MN.EY.COM,@ME.EY.COM,@MA.EY.COM,@MZ.EY.COM,@MM.EY.COM,@NA.EY.COM,@NL.EY.COM,@AN.EY.COM,@NZ.EY.COM,@NI.EY.COM,@NG.EY.COM,@NO.EY.COM,@OM.EY.COM,@PK.EY.COM,@PS.EY.COM,@PA.EY.COM,@PG.EY.COM,@PY.EY.COM,@PE.EY.COM,@PH.EY.COM,@PL.EY.COM,@PT.EY.COM,@QA.EY.COM,@CG.EY.COM,@RO.EY.COM,@RU.EY.COM,@RW.EY.COM,@SA.EY.COM,@SN.EY.COM,@RS.EY.COM,@SG.EY.COM,@SK.EY.COM,@SI.EY.COM,@ZA.EY.COM,@ES.EY.COM,@LK.EY.COM,@SE.EY.COM,@CH.EY.COM,@TZ.EY.COM,@TH.EY.COM,@TT.EY.COM,@TN.EY.COM,@TR.EY.COM,@UG.EY.COM,@UA.EY.COM,@AE.EY.COM,@UY.EY.COM,@UZ.EY.COM,@VE.EY.COM,@VN.EY.COM,@ZM.EY.COM,@ZW.EY.COM,@DP.EY.COM,@EXTERNALCONTRACTOR.EY.COM,@EYC3.COM,@EYPORTJACKSONPARTNERS.COM,@GDS.EY.COM,@HK.EY.COM,@MEHLMANJACOBS.COM,@@PARTHENON.EY.COM,@DOBERMAN.EY.COM,@EY-AVOCATS.COM,@EYLAW.AT,@EYLAW.COM.HK,@EYOP.EY.COM,@LAW.SE.EY.COM,@MO.EY.COM,@XE03.EY.COM,@CONTROLLER-INSTITUT.AT,@EYG.EY.COM,@HOLLANDLAW.NL,@HVGLAW.BE,@HVGLAW.NL,@LAN.EY.COM,@RA-LAW.RO,@SU.EY.COM,@XE04.EY.COM,@LUMIERELP.COM,@SRB.IN,@VENTURY.EY-AVOCATS.COM,@EY.COM,@EYFOUNDATION.EY.COM,@EY-INNOVALUE.DE,@MXS.EY.COM,@PDSLEGAL.COM,@SKYE.EY.COM,@ATLASASIALAW.COM.SG,@CATALYST.EY.COM,@INVEST-TRADE.UK,@VODW.EY.COM,@XE05.EY.COM,@XE08.EY.COM,@ETVENTURE.EY.COM,@EY-SEREN.COM,@ISS.EY.COM,@MET.EY.COM,@RIVERVIEWLAW.EY.COM,@CYLAW.EY.COM,@PARTHENON.EY.COM,@RAPID.EY.COM,@RRP.PT,@UK.EY.COM,@XE02.EY.COM"
+# AWD_Partner,A2368,,A236800,Pride Soccer Club,@pridesoccer.com
+# AWD_Partner,A9215,,A921500,Konami Gaming,@konamigaming.com
+# AWD_Partner,B3215,,B321500,Quidel,@quidel.com
+# AWD_Partner,D5304,,D530400,Everi Payments Inc,"@everi.com,@mm-games.com"
+# AWD_Partner,S8951,,S895100,Arandell Corporation,@arandell.com
+# AWD_Partner,B9677,,B967700,Brady Corporation,@bradycorp.com
+# AWD_Partner,A8562,,A856200,CCI Systems Inc,@ccisystems.com
+# AWD_Partner,D1032,,D103200,Cuna Mutual Group,@cunamutual.com
+# AWD_Partner,D1930,,D193000,Curt Joa Inc,@joa.com
+# AWD_Partner,A2206,,A220600,Deere & Company,"@johndeere.com,@deere.com"
+# AWD_Partner,T8383,,T838300,Foth And Van Dyke,@foth.com
+# AWD_Partner,G0191,,G019100,General Casualty Insuranc,@generalcasualty.com
+# AWD_Partner,G0188,,G018800,Guaranty Bank,@guarantybank.com
+# AWD_Partner,D0796,,D079600,Hk Systems,@hksystems.com
+# AWD_Partner,D0821,,D082100,Kerry Ingredients,@kerry.com
+# AWD_Partner,R0057,,R005700,Phillips and Associates,@jrphillips.com
+# AWD_Partner,B4439,,B443900,Satcom Direct,"@satcomdirect.com,@sdgovernment.com,@comsat.com,@sddatacenter.com"
+# AWD_Partner,A3871,,A387100,Saddle Creek Logistics,@sclogistics.com
+# AWD_Partner,A3987,,A398700,Softserve,@softserveinc.com
+# AWD_Partner,T3729,,T372900,PSCU Incorporated,@pscu.com
+# AWD_Partner,U0991,,U099100,Ocwen Financial Corp,@ocwen.com
+# AWD_Partner,B2861,,B286100,NCCI Holdings,@ncci.com
+# AWD_Partner,D3418,,D341800,Witron Integrated Logi,"@witron.com,@witron.de"
+# AWD_Partner,B7921,,B792100,Lennar Corporation,@lennar.com
+# AWD_Partner,A7592,,A759200,TRC Companies,"@trccompanies.com,@trcsolutions.com"
+# AWD_Partner,A1018,,A101800,Landscience,@landscienceinc.com
+# AWD_Partner,A2077,,A207700,IQOR US Inc,@iqor.com
+# AWD_Partner,D4594,,D459400,Simon Hegele Healthcare,"@simonhegele.com,@gmedlogistics.com"
+# AWD_Partner,B3877,,B387700,Enercon Services,@enercon.com
+# AWD_Partner,D0221,,D022100,ZS Associates,"@zs.com,@zsassociates.com"
+# AWD_Partner,D3013,,D301300,Diamond Tours Inc,@diamondtours.com
+# AWD_Partner,D3280,,D328000,Perdoceo Education Corp,"@aiuniv.edu,@coloradotech.edu,@perdoceoed.com,@digitalcrafts.com,@hippoeducation.com,@trident.edu,@codingdojo.com,@my.calsouthern.edu,@careered.com"
+# AWD_Partner,B2075,,B207500,Shibaura Machine,"@shibaura-machine.com,@Toshiba-machine.com"
+# AWD_Partner,D0302,,D030200,Soliant Health,"@Soliant.com,@msi-intl.com"
+# AWD_Partner,S8219,,S821900,Marel,"@marel.com,@craft.co,@wengercorp.com,@townsendfarms.com"
+# AWD_Partner,B3113,,B311300,ThoughtWorks,@thoughtworks.com
+# AWD_Partner,B4056,,B405600,ThyssenKrupp North Americ,@thyssenkrupp.com
+# AWD_Partner,N4258,,N425800,Tootsie Roll,@tootsie-roll.com
+# AWD_Partner,D0615,,D061500,Transcendia,@transcendia.com
+# AWD_Partner,G1589,,G158900,UGN,@ugn.com
+# AWD_Partner,S0693,,S069300,Waterline Renewal Tech,"@lmktechnologies.com,@waterlinerenewal.com,@perma-liner.com,@permaform.net,@pipeliningsupply.com"
+# AWD_Partner,B4149,,B414900,William Blair & Company,@williamblair.com
+# AWD_Partner,S7791,,S779100,Witt/Kieffer Inc,@wittkieffer.com
+# AWD_Partner,P2988,,P298800,Xcite Adverstising,"@xciteauto.com,@xciteadvertising.com,@reconlogic.com"
+# AWD_Partner,S6473,,S647300,Xeris Pharmaceuticals,@xerispharma.com
+# AWD_Partner,D9908,,D990800,First Solar,@firstsolar.com
+# AWD_Partner,B4808,,B480800,Atria,"@atriaseniorliving.com,@holidayseniorliving.com"
+# AWD_Partner,A4798,,A479800,Greif,@greif.com
+# AWD_Partner,B9286,,B928600,The Scotts Company,@scotts.com
+# AWD_Partner,A0765,,A076500,J M Smucker Company,@jmsmucker.com
+# AWD_Partner,B1734,,B173400,Advanced Drainage Systems,@adspipe.com
+# AWD_Partner,B9374,,B937400,AFIMAC Global,@afimacglobal.com
+# AWD_Partner,A2933,,A293300,Wendys International,@wendys.com
+# AWD_Partner,D3794,,D379400,Virtusa,@virtusa.com
+# AWD_Partner,D9410,,D941000,BJs Wholesale Club Inc,@bjs.com
+# AWD_Partner,B2496,,B249600,Cenveo Inc,@cenveo.com
+# AWD_Partner,A7047,,A704700,Mass Mutual,@massmutual.com
+# AWD_Partner,A6597,,A659700,Bose Corporation,@bose.com
+# AWD_Partner,A7336,,A733600,Haemonetics Corp,@haemonetics.com
+# AWD_Partner,R8510,,R851000,Precisely Software Incorp,@precisely.com
+# AWD_Partner,A0705,,A070500,Swiss Re America Holding,@swissre.com
+# AWD_Partner,D1376,,D137600,C & S Wholesale Grocers,@cswg.com
+# AWD_Partner,A4188,,A418800,Wwe Inc,@wwecorp.com
+# AWD_Partner,H9370,,H937000,Further LLC,@furtherllc.com
+# AWD_Partner,A6927,,A692700,BMW of North America,"@bmwna.com,@bmw.de,@bmwmc.com,@bmwfs.com,@bmwgroup.ca,@bmwsharedservices.com"
+# AWD_Partner,A1149,,A114900,Footlocker Corporate,@footlocker.com
+# AWD_Partner,N8514,,N851400,Schelling America,"@schelling.com,@ima.schelling.com"
+# AWD_Partner,A5768,,A576800,Sedgwick Claims Managemnt,"@sedwick.com,@sedgwickcms.com"
+# AWD_Partner,A1249,,A124900,Educational Testing Serv,@ets.org
+# AWD_Partner,W6582,,W658200,Convatec,@convatec.com
+# AWD_Partner,B1431,,B143100,AZZ WSI,@azz.com
+# AWD_Partner,T5495,,T549500,Capstone Logistics,@capstonelogistics.com
+# AWD_Partner,S9144,,S914400,Cancer Carepoint,@cancercarepoint.com
+# AWD_Partner,B1733,,B173300,Sales Incorporated,@salesinc.net
+# AWD_Partner,A5217,,A521700,Savannah College,@scad.edu
+# AWD_Partner,H7250,,H725000,HonorBuilt,@honorbuilt.com
+# AWD_Partner,D3720,,D372000,Knapp,"@knapp.com,@knappusa.com"
+# AWD_Partner,R3880,,R388000,Transportation Solns,@tsoa.com
+# AWD_Partner,B0573,,B057300,Northeastern University,"@northeastern.edu,@neu.edu"
+# AWD_Partner,A1746,,A174600,Draper,@draper.com
+# AWD_Partner,F2306,,F230600,Ameresco,@ameresco.com
+# AWD_Partner,B8792,,B879200,Oxford Instruments,@oxinst.com
+# AWD_Partner,D0810,,D081000,Par tech corp,@partech.com
+# AWD_Partner,S3260,,S326000,OXford Global,@oxfordcorp.com
+# AWD_Partner,B7254,,B725400,Omya Inc,"@omya.com,@worldtravelinc.com"
+# AWD_Partner,B8364,,B836400,ManrolandGoss Web Systems,"@manrolandgoss.com,@gossinternational.com"
+# AWD_Partner,A2298,,A229800,Cabot Corp,"@cabot-corp.com,@atlastravel.com"
+# AWD_Partner,S6314,,S631400,New Balance Athletics,"@newbalance.com,@tandt.com"
+# AWD_Partner,D2655,,D265500,Bucher Hydraulics,@bucherhydraulics.com
+# AWD_Partner,D0092,,D009200,Colony Display,@colonydisplay.com
+# AWD_Partner,H9962,,H996200,EA Langenfeld,@touchpoint360.com
+# AWD_Partner,A0343,,A034300,Familia Dental,"@familiadental.com,@vividsmiles.com"
+# AWD_Partner,G5630,,G563000,Favorite Healthcare Staff,@favoritestaffing.com
+# AWD_Partner,D4423,,D442300,Concorde Career Colleges,@concorde.edu
+# AWD_Partner,A0149,,A014900,Primetime Healthcare,@primetimehealthcare.com
+# AWD_Partner,A6210,,A621000,Littler Mendelson,@littler.com
+# AWD_Partner,D0451,,D045100,Transportation Management,@tms.com
+# AWD_Partner,B7075,,B707500,Perdue,@perdue.com
+# AWD_Partner,B0627,,B062700,UFCW,@ufcw.org
+# AWD_Partner,A3061,,A306100,T Rowe Price,@troweprice.com
+# AWD_Partner,A6503,,A650300,CoStar,"@costar.com,@loopnet.com,@apartments.com,@ten-x.com,@str.com,@homes.com,@homesnap.com,@bizbuysell.com,@land.com,@costarmanager.com,@belbex.com,@grecam.com,@thomas-daily.de,@costargroup.com,@costar.co.uk"
+# AWD_Partner,A5613,,A561300,Performance Marketing Grp,"@pmginc.com,@pmgincorporated.com"
+# AWD_Partner,S9740,,S974000,Interim Physicians,@interimphysicians.com
+# AWD_Partner,S1192,,S119200,Elumatec,@elumatec.com
+# AWD_Partner,A9977,,A997700,Bunzl,@bunzl.com
+# AWD_Partner,T5816,,T581600,Beckwood Press,@beckwoodpress.com
+# AWD_Partner,D5576,,D557600,Berry Global,@berryglobal.com
+# AWD_Partner,B1146,,B114600,Levi Ray & Shoup,@lrs.com
+# AWD_Partner,B4043,,B404300,Crowe LLP,"@crowe.com,@crowehrc.com,@crowehorwath.com"
+# AWD_Partner,B7145,,B714500,Bryan Cave LLP,"@blplaw.com,@bclplaw.com,@bryancave.com"
+# AWD_Partner,A2328,,A232800,Site Centers,@sitecenters.com
+# AWD_Partner,A2627,,A262700,Carmeuse Americas,@carmeuse.com
+# AWD_Partner,P4783,,P478300,Exagen Solutions,@exagensolutions.com
+# AWD_Partner,A5325,,A532500,Eriks North America,@eriksna.com
+# AWD_Partner,S9373,,S937300,800-Flowers,"@cheryls.com,@harryanddavid.com,@PersonalizationMall.com,@FruitBouquets.com,@1800Flowers.com,@1800Baskets.com"
+# AWD_Partner,A0166,,A016600,Project Veritas,@projectveritas.com
+# AWD_Partner,D7384,,D738400,L.V.M.H,"@lvmh-pc.com,@lvmh.com"
+# AWD_Partner,A1698,,A169800,Unilever,"@unilever.com,@persil.com,@persilproclean.com,@dove.com,@knorrmanagement.com"
+# AWD_Partner,A4849,,A484900,momentive,@momentive.com
+# AWD_Partner,B9326,,B932600,American Federation,@aft.org
+# AWD_Partner,D4077,,D407700,Networks Presentations,@networkstours.com
+# AWD_Partner,A9717,,A971700,Sika Corporation,"@us.sika.com,@co.sika.com,@sika-corp.com,@ch.sika.com"
+# AWD_Partner,D4245,,D424500,Presidio Networked Soln,@presidio.com
+# AWD_Partner,X8363,,X836300,Rohde & Schwarz,"@rsa.rohde-schwarz.com,@rohde-schwarz.com"
+# AWD_Partner,C3255,,C325500,Precision Drilling,@precisiondrilling.com
+# AWD_Partner,C9852,,C985200,Pembina Pipeline Corp,@pembina.com
+# AWD_Partner,C5786,,C578600,Moxies,@moxies.ca
+# AWD_Partner,C4605,,C460500,MNP LLP,@mnp.ca
+# AWD_Partner,O8144,,O814400,Evolution Energy Tech,@evolutioneng.com
+# AWD_Partner,F7552,,F755200,Operation Healing Forces,@ophf.org
+# AWD_Partner,C9514,,C951400,Valard Construction LP,@valard.com
+# AWD_Partner,N2156,,N215600,Markel,"@markel.com,@markelcorp.com"
+# AWD_Partner,A2413,,A241300,Innovative Refrigeration,@r717.net
+# AWD_Partner,A3897,,A389700,Invictus International,@invictusic.com
+# AWD_Partner,T2481,,T248100,Bystronic,@bystronic.com
+# AWD_Partner,Q2991,,Q299100,The ADT Corporation,@ADT.com
+# AWD_Partner,T7714,,T771400,Arco Business Services,"@arco1.com,@arcodb.com,@arcomurray.com,@arcomurraycc.com,@gma-architects.com,@midconcrete.com,@am-mech.com"
+# AWD_Partner,A8230,,A823000,Flight Safety Internation,@flightsafety.com
+# AWD_Partner,B9761,,B976100,Sentinel Real Estate Corp,@sentinelcorp.com
+# AWD_Partner,D3511,,D351100,Kering Americas Inc,@kering.com
+# AWD_Partner,C9015,,C901500,Alberta Medical Associati,@albertadoctors.org
+# AWD_Partner,A7533,,A753300,Team Velocity,@teamvelocitymarketing.com
+# AWD_Partner,M5534,,M553400,Lidl US LLC,@lidl.us
+# AWD_Partner,D8411,,D841100,Garmin,@garmin.com
+# AWD_Partner,M1448,,M144800,Jack Cooper,"@jackcooper.com,@naatc.com"
+# AWD_Partner,D6207,,D620700,Appian,@appian.com
+# AWD_Partner,Q2501,,Q250100,ICF Consulting Group,@icf.com
+# AWD_Partner,A2788,,A278800,LMI Government Consulting,@lmi.org
+# AWD_Partner,D0474,,D047400,Smithfield Foods,@smithfield.com
+# AWD_Partner,D1060,,D106000,Dealersocket,"@dealersocket.com,@automate.com"
+# AWD_Partner,Q0784,,Q078400,Esri,@esri.com
+# AWD_Partner,B6908,,B690800,Oncocyte,"@oncocyte.com,@travelstore.com"
+# AWD_Partner,A4933,,A493300,Evolve,"@evolve.com,@evolve.ca"
+# AWD_Partner,A6630,,A663000,Insomniac,"@insomniac.com,@fanexperiences.com"
+# AWD_Partner,D4300,,D430000,Toshiba,"@toshibasf.com,@toshiba.com,@tai.toshiba.com"
+# AWD_Partner,B8144,,B814400,Belfor,@us.belfor.com
+# AWD_Partner,H8190,,H819000,Alcon,"@alcon.com,@alconlabs.com"
+# AWD_Partner,D4747,,D474700,CTEH,"@cteh.com,@montrose-env.com"
+# AWD_Partner,B2968,,B296800,Anderson Merchandisers,@amerch.com
+# AWD_Partner,R0949,,R094900,Ford Audio,@fordav.com
+# AWD_Partner,A9396,,A939600,Rubicon Oilfield,@rubicon-oilfield.com
+# AWD_Partner,D1348,,D134800,Ribbon Communications,@rbbn.com
+# AWD_Partner,H8149,,H814900,Parkway Construction Co,@pkwycon.com
+# AWD_Partner,B4482,,B448200,Redd Ridge,@reddridgeconsulting.com
+# AWD_Partner,A5864,,A586400,SpartanNash,"@spartannash.com,@caitofoods.com"
+# AWD_Partner,A0740,,A074000,Par Systems,@par.com
+# AWD_Partner,B7768,,B776800,Land O Lakes,@landolakes.com
+# AWD_Partner,A3017,,A3017000,Carrier Corporation,"@carrier.com,@noresco.com,@CARRIERENTERPRISE.COM"
+# AWD_Partner,D4225,,D4225000,CSL Behring,"@cslbehring.com,@seqirus.com,@plasma.com,@csl.com.au,@cslbehring.com.au,@viforpharma.com"
+# AWD_Partner,A6782,,A6782000,CHEVRON,"@chevron.com,@chevrontexaco.com,@cpchem.com,@extramilecstores.com,@tengizchevroil.com,@unocal.com,@nblenergy.com,@AtlanticMethanol.com,@alngopco.com,@ALNGLTD.COM,@ALNGSOMG.COM"
+# AWD_Partner,D8118,,D8118000,TRAVEL + LEISURE CO,"@wyn.com,@wyndhamworldwide.com,@travelandleisure.com,@panoramaco.com,@rci.com"
+# AWD_Partner,C8109,,C8109000,CANADIAN NATIONAL RAILWAY,"@CN.CA,@cnid.ca,@autoportlimited.com"
+# AWD_Partner,A1205,,A1205000,MCKINSEY & COMPANY INC,"@mckinsey.com,@qa.mckinsey.com,@renewgrowth.org,@riskdynamics.eu,@riskdynamicsgroup.com,@sec.mckinsey.com,@solutions.mckinsey.com,@strategydesk.lln.mckinsey.com,@support.orpheus-it.com,@veryday.com,@visualdod.com,@westney.com,@aberkyn.com,@academy.mckinsey.com,@advisor.aberkyn.com,@alerts.mckinsey.com,@blue-bda.com,@bymckinsey.com,@candid.cloud,@candidpartners.com,@cfs.mckinsey.com,@devpartners.mckinsey.com,@elixir.com.sa,@elixir.sa,@eufax.mckinsey.com,@external.mckinsey.com,@finalta-global.com,@finalta-latam.com,@finalta.co.uk,@finalta.eu,@gama.mckinsey.com,@global-concepts.com,@hrcp.mckinsey.com,@hrcpinsights.com,@hypothesis.co,@ibmpoclab.mckinsey.com,@id.mckinsey.com,@impact.lln.mckinsey.com,@knowledgeplaza01.lln.mckinsey.com,@knowledgeplaza02.lln.mckinsey.com,@leanmanagement.lln.mckinsey.com,@lunar.com,@mcb-library.lln.mckinsey.com,@mckalpha.com,@mckinseyfinance.com,@mckinseysocialinitiative.org,@meta.mckinsey.com,@mspoclab.mckinsey.com,@nafax.mckinsey.com,@orpheus-it.com,@periscope-solutions.com,@pricemetrix.com,@MIOPartners.com"
+# AWD_Partner,A4871,,A4871000,ARAMARK,"@aramark.com,@nextlevelhs.net,@harvesttableculinary.com,@avendra.com"
+# AWD_Partner,D1053,,D1053000,Syngenta Crop Protec,"@syngenta.com,@agconnection.com,@adama.com,@kollant.it,@controlsolutionsinc.com,@bonide.com,@alligare.com"
+# AWD_Partner,M4030,,M403000,CCC Group,@cccgroup.com
+# AWD_Partner,G4307,,G430700,Entelligence,@entelligence.com
+# AWD_Partner,T4261,,T426100,Rain For Rent,@rainforrent.com
+# AWD_Partner,U2284,,U228400,Arete Associates,@arete.com
+# AWD_Partner,B6816,,B681600,Panda Restaurant Group,@PandaRG.com
+# AWD_Partner,A2541,,A254100,Butler Esprer Holdings,"@ESPERERHOLDINGS.COM,@PARTNERSPERSONNEL.COM,@BUTLERTELECOMLLC.COM"
+# AWD_Partner,A4966,,A496600,PieTown Production/Cir,@pietown.tv
+# AWD_Partner,A4308,,A430800,Torrrid,@torrid.com
+# AWD_Partner,K0160,,K016000,FTC Solar,@ftcsolar.com
+# AWD_Partner,S7110,,S711000,H.E.B. LP,@heb.com
+# AWD_Partner,A6651,,A665100,Indeed,@indeed.com
+# AWD_Partner,J2171,,J217100,Nidec Motor Corporatio,"@federalbroach.com,@nidec.com,@nidec-amd.com,@nidec-asi.com,@nidec-canton.com,@nidec-industrial.com,@nidec-ise.com,@nidec-mce.com,@nidec.mk.com,@nidec-motor.com,@nidec-shirmpo.com,@nidec-vis.com"
+# AWD_Partner,A5436,,A543600,Cook Group,"@cookmedical.com,@cookgroup.com,@cookbiotech.com,@cookmyosite.com,@frenchlick.com,@medinst.com,@cookregentec.com"
+# AWD_Partner,A8273,,A827300,McCarthy Holdings,"@mccarthy.com,@genuinemccarthy.com,@digcastle.com,@1864.com,@mccarthy.com"
+# AWD_Partner,Q0219,,Q021900,Hobby Lobby,@hobbylobby.com
+# AWD_Partner,G0007,,G000700,Loves Travel Stop,@Loves.com
+# AWD_Partner,D6182,,D618200,CFS Brands,"@cfsbrands.com,@piperproducts.com,@carlislefsp.com"
+# AWD_Partner,B7813,,B781300, Hilti,@Hilti.com
+# AWD_Partner,D4859,,D485900,Omni Air International,"@OAI.AERO,@omniairintl.com,@Amtra.AERO"
+# AWD_Partner,A2677,,A267700,T.D. Williamson,@TDWILLIAMSON.COM
+# AWD_Partner,T2553,,T255300,Frost,@FROSTPLLC.COM
+# AWD_Partner,D4412,,D441200,VCC LLC,@VCCUSA.com
+# AWD_Partner,A8737,,A873700,Elbit,"@EFW.com,@elbitsystems-us.com"
+# AWD_Partner,A3476,,A347600,Lhoist,@lhoist.com
+# AWD_Partner,D2059,,D205900,San Diego Padres,@padres.com
+# AWD_Partner,G4296,,G429600,Argus Realty Investors,@argusrealty.com
+# AWD_Partner,B4860,,B486000,BARRICK GOLD OF NORTH,@barrick.com
+# AWD_Partner,A1058,,A105800,Siegel Group Nevada,@siegelcompanies.com
+# AWD_Partner,X6230,,X623000,Illumina,@illumina.com
+# AWD_Partner,B8499,,B849900,Callaway Golf,@callawaygolf.com
+# AWD_Partner,S8394,,S839400,EDF RENEWABLE ENERGY,@edf-re.com
+# AWD_Partner,A2753,,A275300,TaylorMade,"@taylormadegolf.com,@tmag.com"
+# AWD_Partner,D8370,,D837000,TRAX TEST SERVICES,"@traxintl.com,@us.army.mil"
+# AWD_Partner,D2550,,D255000,ESCO Technoologies,"@ptitechnologies.com,@crissair.com,@vacco.com,@mayday.com,@westlandtech.com,@doble.com,@nrgsystems.com,@networkselectronic.com,@escotechnologies.com,@networkselectronic.com,@cmtmaterials.com,@globecomposite.com,@ets-lindgren.com"
+# AWD_Partner,D4533,,D453300,Peabody Investments Co,@peabodyenergy.com
+# AWD_Partner,A2943,,A294300,Kimball Electronics,"@kim,@kimballelectronics.com"
+# AWD_Partner,A9533,,A953300,VIP,@vipexecutiveservices.com
+# AWD_Partner,B2679,,B267900,RNDC,@rndc-usa.com
+# AWD_Partner,A0593,,A059300,Motiva,@motiva.com
+# AWD_Partner,A0593,,A059300,Cirrus Logic,@cirrus.com
+# AWD_Partner,D5611,,D561100,NES Global,@nesfircroft.com
+# AWD_Partner,T0740,,T074000,Ortiz,@grupoortiz.com
+# AWD_Partner,D4362,,D436200,Ultra Clean Holdings,@uct.com
+# AWD_Partner,D0321,,D032100,PDI,@pdisoftware.com
+# AWD_Partner,X1301,,X130100,SunPower,@sunpower.com
+# AWD_Partner,D3382,,D338200,Davcor,@davcoraviation.com
+# AWD_Partner,A6063,,A606300,KAR Global,"@adesa.ca,@autofinance.com,@AutoNiq.com,@autovin.com,@carsarrive.com,@carwave.com,@dentology.com,@htlkeys.com,@karglobal.com,@openlane.ca,@openlane.com,@parnorthamerica.com,@traderev.ca,@TradeRev.com"
+# AWD_Partner,A8728,,A872800,Washington University,@wustl.edu
+# AWD_Partner,B9121,,B912100,Concentra,@concentra.com
+# AWD_Partner,A7479,,A747900,Eagle Materials,@eaglematerials.com
+# AWD_Partner,D4967,,D496700,FlexJet,@flexjet.com
+# AWD_Partner,D4468,,D446800,Lancesoft,@lancesoft.com
+# AWD_Partner,A0325,,A032500,Megger,@megger.com
+# AWD_Partner,B4624,,B462400,Pioneer Natural Resour,@pxd.com
+# AWD_Partner,B7087,,B708700,Remington Hotels,@remingtonhotels.com
+# AWD_Partner,D7661,,D766100,Six Flags,@sftp.com
+# AWD_Partner,A2295,,A229500,TSP Technology Service,@mytsp.net
+# AWD_Partner,H9368,,H936800,Lenovo,"@lenovo.com,@motorola.com"
+# AWD_Partner,B2244,,B224400,Blackbaud,"@blackbaud.com,@blackbaud.ca,@blackbaud.co.uk,@blackbaud.com.au,@everfi.com,@justgiving.com"
+# AWD_Partner,D7294,,D729400,Empire Today,"@empire-today.com,@empiretoday.com,@luna.com,@sittonflooring.com"
+# AWD_Partner,A9739,,A973900,Perkins and Will,"@perkinswill.com,@shl.dk,@nelsonnygaard.com,@pyr.com"
+# AWD_Partner,D7987,,D798700,Alight,"@alight.com,@hrm.northgatearinso.com"
+# AWD_Partner,Q2582,,Q258200,Air Tel Tower,@airteltower.com
+# AWD_Partner,K0456,,K045600,Barilla,@barilla.com
+# AWD_Partner,R0412,,R041200,Power Solutions,@psiengines.com
+# AWD_Partner,F0735,,F073500,Rational,@rational-online.com
+# AWD_Partner,D3992,,D399200,Handtmann,@handtmann.us
+# AWD_Partner,G0214,,G021400,Bare Escentuals Inc,"@bareescentual.com,@bareminerals.com"
+# AWD_Partner,B7896,,B789600,Biocare Medical Inc,"@biocare.net,@empiregenomics.com"
+# AWD_Partner,A8235,,A823500,Brown & Caldwell Co,@brwncald.com
+# AWD_Partner,B3967,,B396700,Celera,@celera.com
+# AWD_Partner,A1897,,A189700,Clark Pacific,@clarkpacific.com
+# AWD_Partner,B6710,,B671000,Cloudflare,"@cloudflare.com,@vectrix.com,@jaal.com"
+# AWD_Partner,D3807,,D380700,Copart,@copart.com
+# AWD_Partner,A3359,,A335900,Alation Inc,@alation.com
+# AWD_Partner,D5196,,D519600,Digital Persona Inc,@digitalpersona.com
+# AWD_Partner,A3863,,A386300,Egain Communications,@egain.com
+# AWD_Partner,B4065,,B406500,Energous,@energous.com
+# AWD_Partner,B4681,,B468100,Harmonic Inc,@harmonicinc.com
+# AWD_Partner,A3408,,A340800,IIX Inc,"@iix.com,@iix.co.jp"
+# AWD_Partner,D4705,,D470500,Lawson-Hawks Insurance,@lawson-hawks.com
+# AWD_Partner,S1947,,S194700,Matrixx Software,@matrixx.com
+# AWD_Partner,S6765,,S676500,Splashtop Inc,@splashtop.com
+# AWD_Partner,P8875,,P887500,Sports Clips,@sportclips.com
+# AWD_Partner,A9101,,A910100,CAA,"@CAA.COM,@caasports.com"
+# AWD_Partner,H9049,,H904900,coolsys,@coolsys.com
+# AWD_Partner,Y4756,,Y475600,ossur,@ossur.com
+# AWD_Partner,S2173,,S217300,UST GLOBAL,"@UST.COM,@XPANXION.COM"
+# AWD_Partner,S7066,,S706600,VERIFY,"@VSCNET.COM,@VERIFYGLOBAL.COM"
+# AWD_Partner,S2997,,S299700,SECURITY INDUSTRY,"@SIS.COM,@sis.us"
+# AWD_Partner,D8251,,D825100,ISS Facility Services,@us.issworld.com
+# AWD_Partner,X8458,,X845800,Rackspace US Inc,@rackspace.com
+# AWD_Partner,A4631,,A463100,Southwest Research Instit,"@swri.org,@contractor.swri.org,@swri.edu,@boulder.swri.edu,@D16.swri.us"
+# AWD_Partner,D8740,,D874000,Koch Industries,"@kochcc.com,@kochgs.com,@kochind.com,@kochps.com,@kochsep.com,@molex.com,@gapac.com,@1888INVESTMENTS.COM,@1888MGMT.COM,@ANTRON.NET,@bpnet.gapac.com,@darkvisiontech.com,@depcompower.com,@fhr.com,@genesismotion.com,@guardian.com,@hamworthy-combustion.com,@I-360.com,@infor.com,@invista.com,@KBSAP.com,@KBSEUROPE.COM,@kbslp.cloud,@kbslp.com,@kbssrvs.com,@kbx.com,@kbx.global,@kbxlogistics.com,@kes.global,@khtcan.ca,@kochchemtech.com,@kochglitsch.com,@kochind.onmicrosoft.com,@kochmembrane.com,@kochpipeline.com,@kochprojectsolutions.com,@kochsec.com,@kochspecialty.com,@kochtc.com,@KPLSRV.COM,@KSPS.COM,@molex.co.kr,@opdepc.com,@pegasus.co.uk,@pegasussoftware.ie,@sentient-energy.com,@springcreekcap.com,@srgglobal.com"
+# AWD_Partner,D1649,,D164900,Thales,"@thalesgroup.com,@thalesgroup.com,@us.thalesgroup.com,@ca.thalesgroup.com,@tccsus.com,@thalesatmus.com,@thalesdigital.io,@us.thalesaleniaspace.com,@thalesdsi.com,@thalesdsi.com,@thalesvisionix.com,@thalestct.com,@tampamicrowave.come,@aaccorp.com"
+# AWD_Partner,R3276,,R3276000,Sonova USA Inc.,"@advancedbionics.com,@connecthearing.com,@phonak.com,@sonova.com,@onesourcehearing.com,@unitron.com"
+# AWD_Partner,Q2175,,Q2175000,Quikrete,"@quikrete.com,@ContechLLC.com,@Quikrete.ca,@ipcproducts.com,@Tremron.com,@TargetProducts.com,@con-span.com,@keystonewalls.com,@forterrapc-canada.ca,@mpgblock.com,@forterraprecast.com,@azbestblock.com,@forterra-pc.com,@bigrbridge.com,@contech-cpi.com,@keystonehardscapes.com,@flagstonepavers.com,@imbriumsystems.com,@monarchmtn.com,@bomix.ca,@flbestblock.com,@pavestone.com,@contechbridge.com,@greencore-usa.com,@coloradobestblock.com,@bestblock.com,@kirchnerblock.com,@qprmail.com,@cyntech.ca,@premierbuildingsolutions.net,@tejasstone.com,@Daubois.com,@MutualTarget.com,@westernagg.com,@midwestblock.com,@forterra-canada.ca,@cbpmail.net,@filterra.com,@specmix.com,@quikrete.com,@oberfields.com,@shermandixie.com,@forterrapc-usa.com,@forterra-usa.com,@gabestblock.com,@TargetTechnologiesInt.com,@quikrete.net,@quikrete.onmicrosoft.com,@TTIIOnline.com,@rinker-pipe.com,@highperformancecement.com,@willamettegraystone.com,@conteches.com,@quikrete.mail.onmicrosoft.com,@quikretehsm.com,@cstpavers.com,@rinkerpipe.com,@qualityblock.com,@forterrapc-canada.com,@glassmountainpumice.com,@forterra-precast.com,@bomat.net,@forterra-canada.com,@romanstone.com,@us-pipe.com,@forterrabp.com,@rededuct.com,@forterrabp.onmicrosoft.com ,@uspipe.com,@uspipefab.com,@education.uspipe.com,@constructurefab.com,@metalfit.com,@barbourconcrete.com"
+# AWD_Partner,A6162,,A616200,Apex Measuring,@apexmeasuring.com
+# AWD_Partner,B9770,,B9770000,AeroVironment Inc,"@avinc.com,@KRATOSDEFENSE.COM"
+# AWD_Partner,A5001,,A5001000,VERIZON COMMUNICATIONS,"@verizon.com,@verizonwireless.com,@verizonconnect.com,@ie.verizon.com,@uk.verizon.com,@au.verizon.com,@fr.verizon.com,@nl.verizon.com,@de.verizon.com,@ph.verizon.com,@hk.verizon.com,@sg.verizon.com,@bluejeans.com,@visible.com,@skyward.io"
+# AWD_Partner,A3721,,A372100,Siemens,"@ACRORAD.JP,@ADVANCEDAIRFOILS.COM,@advanced-airfoils.com,@comfyapp.com,@CTSI.COM,@ELECTRIUM.CO.UK,@enlightedinc.com,@EVOSOFT.COM,@INTERNAL.SIEMENS.COM,@INTERNAL.SIEMENS-ENERGY.COM,@j2inn.com,@mendix.com,@mentor.com,@next47.com,@oez.com,@OMNETRIC.COM,@PETNETSOLUTIONS.COM,@russelectric.com,@sat-automation.com,@SIEMENS.COM,@SIEMENS-ENERGY.COM,@siemensgovt.com,@SIEMENS-HEALTHINEERS.COM,@SIEMENS-LOGISTICS.COM,@TRENCHGROUP.COM,@TRENCH-GROUP.COM,@VARIAN.COM,@VARIAN.ONMICROSOFT.COM"
+# AWD_Partner,A1266,,A126600,Fruit of the Loom,@fotlinc.com
+# AWD_Partner,S9078,,S907800,Allied Universal,@aus.com
+# AWD_Partner,S0485,,S048500,Draeger,@draeger.com
+# AWD_Partner,R6725,,R672500,Gentell,@gentell.com
+# AWD_Partner,A8916,,A891600,Radian Group,@radian.biz
+# AWD_Partner,D3754,,D375400,Dechert,@dechert.com
+# AWD_Partner,B5806,,B580600,American Eagle,@ae.com
+# AWD_Partner,D1693,,D169300,Gibraltar Industries,@gibraltar1.com
+# AWD_Partner,D2797,,D279700,Belden Inc,@belden.com
+# AWD_Partner,A1012,,A101200,Goldman Sachs,"@gs.com,@ayco.com"
+# AWD_Partner,B4039,,B403900,American Kennel Club,@akc.org
+# AWD_Partner,D6281,,D628100,GQR Healthcare,@gqrgm.com
+# AWD_Partner,D6895,,D689500,Erickson Inc,@erickson.com
+# AWD_Partner,S7121,,S712100,Medicus Healthcare Soln,@medicushcs.com
+# AWD_Partner,B0482,,B048200,Artivion,"@artivion.com,@cryolife.com"
+# AWD_Partner,D9547,,D954700,Kemira,@kemira.com
+# AWD_Partner,T2858,,T285800,Navient,"@navient.com,@earnest.com,@duncansolutions.com,@pioneer-credit.com,@xtendhealthcare.net"
+# AWD_Partner,B9485,,B948500,Jack Henry & Associates,@jackhenry.com
+# AWD_Partner,R8089,,R808900,Sayers Technology LLC,@sayers.com
+# AWD_Partner,A7300,,A730000,SAI Global Compliance,@sai360.com
+# AWD_Partner,C4102,,C410200,SAI Global,@saiglobal.com
+# AWD_Partner,A9507,,A950700,RSM US LLP,@rsmus.com
+# AWD_Partner,D4348,,D434800,Portillos Hot Dogs,@portillos.com
+# AWD_Partner,A5637,,A563700,Plymouth Tube Company,@plymouth.com
+# AWD_Partner,B1924,,B192400,Panduit,"@panduit.com,@atlona.com"
+# AWD_Partner,A1037,,A103700,OSI Group LLC,@osigroup.com
+# AWD_Partner,H6613,,H661300,Nouryon,@nouryon.com
+# AWD_Partner,D0526,,D052600,Agyle Networks,@agylenetworks.com
+# AWD_Partner,G8752,,G875200,Bread Financial,"@breadfinancial.com,@Alliancedata.com"
+# AWD_Partner,F7975,,F797500,Choctaw Defense Services,@choctawdefense.com
+# AWD_Partner,S1912,,S191200,Garver LLC,@garverusa.com
+# AWD_Partner,A9673,,A967300,Integer Telecom Services,@integertel.com
+# AWD_Partner,X8050,,X805000,Raising Canes Restaurant,@raisingcanes.com
+# AWD_Partner,B9497,,B949700,Rent A Center,@rentacenter.com
+# AWD_Partner,D1525,,D152500,Simpson Strong-Tie,@strongtie.com
+# AWD_Partner,A8650,,A865000,W&W-AFCO Steel LLC,"@wwafcosteel.com,@afcosteel.com"
+# AWD_Partner,B8694,,B869400,HKS Inc,@hksinc.com
+# AWD_Partner,D1252,,D125200,Academy Sports & Outdoors,@academy.com
+# AWD_Partner,K0561,,K056100,Anadarko,@anadarko.com
+# AWD_Partner,A2322,,A232200,Atla Copco North America,"@atlascopco.com,@us.atlascopco.com"
+# AWD_Partner,A8943,,A894300,The Hershey Company,@herseys.com
+# AWD_Partner,Q0353,,Q035300,Orbcomm,@orbcomm.com
+# AWD_Partner,S0972,,S097200,Covation Biomaterials,"@covationbio.com,@covapdo.com"
+# AWD_Partner,A1618,,A161800,Far Ridgeline Engagements,"@frleinc.com,@avantusfederal.com,@us.qinetiq.com"
+# AWD_Partner,F3708,,F370800,Torchys Tacos,@torchystacos.com
+# AWD_Partner,A6723,,A672300,Weatherford,@weatherford.com
+# AWD_Partner,S2026,,S202600,Accelerate Diagnostics,@axdx.com
+# AWD_Partner,A5220,,A522000,ATP World Tour,@atpworldtour.com
+# AWD_Partner,B8051,,B805100,BlackHawk Network,@bhnetwork.com
+# AWD_Partner,D4827,,D482700,Cognosante,@cognosante.com
+# AWD_Partner,J2181,,J218100,Cove Communities,@covecommnunities.com
+# AWD_Partner,S8271,,S827100,IRCA Valley Interiors,@ircahotelservices.com
+# AWD_Partner,S7097,,S709700,Kona Grill,@konagrill.com
+# AWD_Partner,J2536,,J253600,Medtrek,@med-trek.com
+# AWD_Partner,B8741,,B874100,Troon Golf,@troon.com
+# AWD_Partner,D0071,,D007100,Vaisala Inc,@vaisala.com
+# AWD_Partner,H8617,,H861700,Imperva,@imperva.com
+# AWD_Partner,S7191,,S719100,Infinera,@infinera.com
+# AWD_Partner,H8047,,H804700,MarkLogic,@marklogic.com
+# AWD_Partner,G9644,,G964400,Netflix Inc,@netflix.com
+# AWD_Partner,B1538,,B153800,Omnicell,"@omnicell.com,@receptrx.com"
+# AWD_Partner,B1072,,B107200,Seagate Technology,"@seagate.com,@xyratex.com"
+# AWD_Partner,X2243,,X224300,ServiceNow,"@servicenow.com,@service-now.com"
+# AWD_Partner,A6863,,A686300,Silver Spring Networks,@silverspringnet.com
+# AWD_Partner,H8610,,H861000,Varian Medical Systems,"@varian.com,@varianinc.com"
+# AWD_Partner,A1734,,A173400,XL-EMC ELECTRONIC MATERIA,"@memc.com,@sunedison.com"
+# AWD_Partner,A4160,,A416000,Bio-Rad Laboratories,@BIO-RAD.COM
+# AWD_Partner,B2630,,B263000,Champion Installs,@championinstalls.com
+# AWD_Partner,D0198,,D019800,Dasan Zhone Solutions Inc,"@ZHONE.COM,@DZSI.COM,@DASANZHONE.COM,@ADTRAN.COM"
+# AWD_Partner,D1291,,D129100,Dreyers Grand Ice Cream,"@us.froneri.com,@dreyers.com"
+# AWD_Partner,D3092,,D309200,Ebara Technologies,"@EBARATECH.COM,@EBARA.COM,@PUMPSEBARA.COM,@EBARAINTL.COM"
+# AWD_Partner,D3353,,D335300,Environmental Chemical Co,@ecc.net
+# AWD_Partner,B9782,,B978200,Firemans Fund,"@ffic.com,@firemans.fun"
+# AWD_Partner,A5239,,A523900,Francisco Partners,@franciscopartners.com
+# AWD_Partner,B2391,,B239100,Gensler,@gensler.com
+# AWD_Partner,B2289,,B228900,Gilead Sciences,@gilead.com
+# AWD_Partner,A8323,,A832300,Activision,@ACTIVISION.COM
+# AWD_Partner,G0374,,G037400,Ascot Travel,@ASCOT-TRAVEL.COM
+# AWD_Partner,A3378,,A337800,CSC Corporation,@CSC-USA.COM
+# AWD_Partner,D5376,,D537600,Data Analysis Inc,"@DAICOMPANIES.COM,@ONEILDATA.COM,@WILLIAMONEIL.COM"
+# AWD_Partner,A9025,,A902500,Event 360,@EVENT360.COM
+# AWD_Partner,G0231,,G023100,First in Service Travel,"@F1S.COM,@OTGADVISORS.COM,@HIGHFLIGHTTRAVEL.COM"
+# AWD_Partner,H4489,,H448900,Harpo,"@HARPO.COM,@OWN.TV,@OWMANAGEMENTLLC.COM,@SHERISALATA.COM,@TRAVELEXBIZ.COM"
+# AWD_Partner,D4393,,D439300,The Cheesecake Factory,"@THECHEESECAKEFACTORY.COM,@NORTHITALIA.COM,@FOXRC.COM,@LAZYDOGRESTAURANTS.COM,@SOCAL.RR.COM,@DSLEXTREME.COM,@CFL.RR.COM,@GRANDLUXCAFE.COM,@SOCIALMONK.COM"
+# AWD_Partner,D2060,,D206000,Caesar Entertainment Corp,"@caesars.com,@harrahs.com"
+# AWD_Partner,S9839,,S983900,ISOTRACK,@isotrak.com
+# AWD_Partner,B8947,,B894700,Latham & Watkins,"@lawyerstravel.com,@lw.com"
+# AWD_Partner,K0035,,K003500,Meetings Made Easy,@meetingsme.com
+# AWD_Partner,A5757,,A575700,Nuvasive,@nuvasive.com
+# AWD_Partner,B8580,,B858000,Orora Packaging,@ororagroup.com
+# AWD_Partner,X2887,,X288700,ResMed,"@resmed.com,@matrixcare.com"
+# AWD_Partner,D7871,,D787100,XL Global,"@axaxl.com,@axa.com,@aexp.com"
+# AWD_Partner,B1126,,B112600,Baker McKenzie,@BAKERMCKENZIE.COM
+# AWD_Partner,D1849,,D184900,CoreLogic Solutions LLC,@CORELOGIC.COM
+# AWD_Partner,A9886,,A988600,Davita Inc,"@DAVITA.COM,@DAVITAINC.COM,@DAVITADIALYSIS.COM"
+# AWD_Partner,B5972,,B597200,DH Dental Business Servic,"@ENVISTA.COM,@ENVISTACO.COM,@ENVISTAHOLDINGS.COM,@ORMCO.COM,@KAVOKERR.COM,@NOBELBIOCARE.COM,@KAVO.COM,@IMPLANTDIRECT.COM,@orascoptic.com,@KERRDENTAL.COM,@dtxstudio.com,@METREX.COM"
+# AWD_Partner,K0630,,K063000,Horiba,@HORIBA.COM
+# AWD_Partner,A2580,,A258000,International Food Creatn,@INTFOODCREATIONS.COM
+# AWD_Partner,A5279,,A527900,Kawasaki Motors Corp,"@KMC-USA.COM,@SOPRIS.COM"
+# AWD_Partner,G9658,,G965800,Rivian,@RIVIAN.COM
+# AWD_Partner,D4103,,D410300,Skechers Usa,@SKECHERS.COM
+# AWD_Partner,B4876,,B487600,Spirent Communications,"@SPIRENT.COM,@SPIRENTCOM.COM,@SPIRENTSALES.COM"
+# AWD_Partner,A0753,,A075300,Sunbit,@SUNBIT.COM
+# AWD_Partner,B8559,,B855900,"Trace 3, LLC","@TRACE3.COM,@POPIN.COM,@DATA-STRATEGY.COM,@POPINNOW.COM"
+# AWD_Partner,D0855,,D085500,Trinity Property Consult,"@TRINITY-PM.COM,@TRINITY.COM"
+# AWD_Partner,G8748,,G874800,Versity Investments,"@booknladder.com,@versity.com,@versityinventments.com,@versityinvest.com,@sunstone.com,@sunstone-dev.com,@sunstonedevelopment.com,@theridge.com"
+# AWD_Partner,F6588,,F658800,White Hawk Retail Service,@teamwhitehawk.com
+# AWD_Partner,G0052,,G005200,Chaparral Steel,@chapusa.com
+# AWD_Partner,G4199,,G419900,Everest Group,@everestgrp.com
+# AWD_Partner,S9687,,S968700,Franchise Training Prog,@dickeys.com
+# AWD_Partner,D3519,,D351900,GMR Protection Resources,@gmr1.com
+# AWD_Partner,T4396,,T439600,Just Brakes,@justbrakes.com
+# AWD_Partner,G0044,,G004400,Korman Marketing Group LP,@kormanmarketing.com
+# AWD_Partner,D8748,,D874800,Homecare Homebase,@hchb.com
+# AWD_Partner,G7964,,G796400,MV Transportation,@mvtransit.com
+# AWD_Partner,S8138,,S813800,Gruma Corporation,@missionfoods.com
+# AWD_Partner,G7258,,G725800,CARE ACCESS RESEARCH,"@careaccess.com,@careaccessresearch.com"
+# AWD_Partner,D4711,,D471100,SDL Inc,@sdl.com
+# AWD_Partner,D1068,,D106800,Wayfair,@wayfair.com
+# AWD_Partner,A2025,,A202500,Virginia Transportation,@virginiatransportation.com
+# AWD_Partner,S9482,,S948200,Endurance International,@endurance.com
+# AWD_Partner,H9110,,H911000,Alexion Pharmaceuticals,@alexion.com
+# AWD_Partner,H8984,,H898400,The Training Associates,@thetrainingassociates.com
+# AWD_Partner,A1392,,A139200,Wilson Sporting Goods,"@wilson.com,@slugger.com,@AMERSPORTS.COM,@SALOMON.COM,@enve.com"
+# AWD_Partner,A9091,,A909100,Kirkland and Ellis,@kirkland.com
+# AWD_Partner,A7943,,A794300,Mazak Optonics Corporatn,@mazaklaser.com
+# AWD_Partner,A8973,,A897300,Stratus,"@stratusunlimited.com,@iconid.com"
+# AWD_Partner,A2822,,A282200,Komori America,@komori.us
+# AWD_Partner,N3644,,N364400,Sodick,@sodick.com
+# AWD_Partner,D3425,,D342500,Georg Fischer,@georgfischer.com
+# AWD_Partner,D4358,,D435800,Sev1tech,@sev1tech.com
+# AWD_Partner,B1836,,B183600,Konica Minolta Business,"@kmbs.konicaminolta.us,@allcovered.com"
+# AWD_Partner,B9765,,B976500,Beazer homes,@beazer.com
+# AWD_Partner,S6170,,S617000,HL America,@hlag.com
+# AWD_Partner,S0002,,S000200,Avalara,@avalara.com
+# AWD_Partner,C8802,,C8802000,Scotiabank,"@scotiabank.com,@md.ca"
+# AWD_Partner,A6567,,A656700,Campbell Soup Company,"@campbellsoup.com,@campbells.com,@pepperidgefarm.com,@snyderslance.com"
+# AWD_Partner,B8639,,B863900,IKEA,"@ingka.ikea.com,@ikea.com"
+# AWD_Partner,C8467,,C8467000,BELL CANADA,"@bell.ca,@astral.com,@bellaliant.ca,@bellmedia.ca,@bellmts.ca,@bellsolutionstech.ca,@belltechsolutions.ca,@createch.ca,@domeprod.com,@EXPERTECH.NET,@maskatel.qc.ca,@nordia.ca,@ntl.nt.net,@nwtel.ca,@ontera.ca,@quantrics.com,@Telebec.com,@thesource.ca,@virginplus.ca,@epic.ca,@bimor.ca"
+# AWD_Partner,S1847,,S184700,10th Lane Partners,"@centrelanepartners.com,@altbio.com,@candle-lite.com,@partylite.com,@oneidahospitality,@wisintl.com,@clpinc.com,@clickbooth.com,@crown-brands.com,@jobescompany.com,@easygardener.net,@protectabed.com,@dreamfit.com,@focuspg.com,@surefit.com,@hollander.com,@infobase.com,@llflex.com,@gilmour.com,@theoneidagroup.com,@vexos.com,@anchorhocking.com,@mdcprecision.com,@mdcvacuum.com,@globalses.com,@saladworks.com,@scripco.com,@scrip.com,@turningtechnologies.com,@woworksusa.com,@zoup.com,@lkeeco.com,@1880hospitality.com,@tomlinson1880.com"
+# AWD_Partner,B4047,,B4047000,Global Payments,"@globalpay.com,@globalpayments.com,@tsys.com,@e-hps.com,@heartland.us,@activenetwork.com,@gozego.com,@xenail.com,@netspend.com,@advancedmd.com,@cayan.com,@imobile3.com,@openedgepay.com,@greatergiving.com,@propay.com,@advmd.com,@evopayments.com"
+# AWD_Partner,C4023,,C4023000,CHC Helicopter Support,"@chcheli.com,@chc.ca,@chc.com,@heli-one.com"
+# AWD_Partner,D0136,,D013600,ESAB,"@esab.com,@thermal-dynamics.com,@esab.co.in,@esab.pl,@esab.net,@eutectic.com.br,@esab.se,@esabmexico.com.mx,@alcotec.com,@esab.com.br,@esab.com.ar,@esab-cutting.de,@esab.be,@esab.hu,@Victortechnologies.com,@esab.cn,@esab.dk,@esab.ru,@esab.lt,@esabasia.com,@esab.com.ua,@esab.fr,@esab.co.uk,@esab.ch,@esab.cz,@esab.no,@condornet.com.br,@esab.nl,@romar.com.cn,@esab.fi,@esab.bg,@esab.ee,@esab.ae,@esab-slovakia.sk,@esab.lv,@esab.onmicrosoft.com,@esab.co.at,@esab.de,@esab.es,@esab.com.pt,@esab.com.co,@esab.it,@esab.com.pe,@esab.sa,@ewacalloys.com,@hks-prozesstechnik.de,@tbi-industries.com,@tbi-industries.com.cn,@GCEGROUP.COM,@cigweld.com.au,@octopuz.com,@lojaesab.com.br,@ohiomedical.com,@swift-cut.com"
+# AWD_Partner,A8332,,A833200,Bondeulle,"@bonduelle.com,@readypac.com"
+# AWD_Partner,A4812,,A481200,Advanced Publications,"@advance.com,@condenast.com,@advance360.com,@advance.net,@advancecentralservices.com,@advancefinancegroup.com,@advancelocal.com,@advancemarketingsolutions.com,@advancemediany.com,@advanceoriginals.com,@al.com,@avp.vc,@cleveland.com,@cloudtheory.ai,@esportsobserver.com,@express-times.com,@fbfo.com,@gulflive.com,@hootinteractive.com,@joinsubtext.com,@leadersgroup.com,@lehighvalleylive.com,@masslive.com,@masslivemedia.com,@mlive.com,@mlivemediagroup.com,@mvdigitalgroup.com,@njadvancemedia.com,@nyup.com,@oregonian.com,@pennjerseyacs.com,@pennlive.com,@reckonsouth.com,@redclaymedia.com,@repub.com,@siadvance.com,@southernthing.com,@sportsbusinessjournal.com,@starledger.com,@syracuse.com,@syracusemediagroup.com,@thisisalabama.org,@turnitin.com,@zerosum.ai,@bonappetit.com,@codenast.com,@glamour.com,@gq.com,@newyorker.com,@pitchfork.com,@vanityfair.com,@vogue.com,@voguebusiness.com,@wired.com,@pubworx.com,@pwxsolutions.com"
+# AWD_Partner,D3654,,D3654000,EXPERIAN,"@EXPERIAN.COM,@PLAYERLYNC.COM,@CONSUMERINFO.COM,@PROTECTMYID.COM,@LOWERMYBILLS.COM,@SEARCHAMERICA.COM,@EXPERIANHEALTH.COM,@QAS.COM,@EXPERIANINTERACTIVE.COM,@PASSPORTHEALTH.COM,@CHEETAHMAIL.COM,@AEXP.COM,@BAKERHILL.COM,@hrgworldwide.com,@uk.experian.com"
+# AWD_Partner,D5311,,D531100,Kagan,"@KAGANONLINE.COM,@WWTZ.BZ"
+# AWD_Partner,B1236,,B123600,AT&T SERVICES INC,"@accbusiness.com,@acus.com,@aio.com,@aiowireless.com,@alascom.att.com,@alienvault.com,@ameritech.com,@ap.att.com,@appnexus.com,@ase.att-mail.com,@asemail.att.com,@att.com,@att.com.mx,@attwifi.com,@attws.com,@awsmail.att.com,@bkb.tv,@cingularlab.com,@corp.prodigy.com,@cricketcommunications.com,@cricketwireless.com,@d2mediasales.com,@directv.com,@directvla.com,@dtvhs.com,@dtvops.net,@emea.att.com,@ems.att.com,@exo.att.com,@grci.com,@interwise.com,@intl.att.com,@labs.att.com,@leapwireless.com,@lga.att.com,@mwmail.att.com,@mx.att.com,@quickplay.com,@reseach.att.com,@resortwifi.com,@resortwifi.net,@resortwifi.org,@semail.att.com,@superclick.com,@swmail.att.com,@unefon.com,@unefon.com.mx,@us.att.com,@wayad.corp.wayport.net,@wayport.com,@wayport.net,@wayportaccess.net,@wayport-asia.com,@wayport-asia.net,@wayport-europe.com,@wayport-europe.net,@wayport-intl.com,@wayport-intl.net,@wemail.att.com,@xandr.com"
+# AWD_Partner,B6372,,B637200,AT&T WIRELESS,"@accbusiness.com,@acus.com,@aio.com,@aiowireless.com,@alascom.att.com,@alienvault.com,@ameritech.com,@ap.att.com,@appnexus.com,@ase.att-mail.com,@asemail.att.com,@att.com,@att.com.mx,@attwifi.com,@attws.com,@awsmail.att.com,@bkb.tv,@cingularlab.com,@corp.prodigy.com,@cricketcommunications.com,@cricketwireless.com,@d2mediasales.com,@directv.com,@directvla.com,@dtvhs.com,@dtvops.net,@emea.att.com,@ems.att.com,@exo.att.com,@grci.com,@interwise.com,@intl.att.com,@labs.att.com,@leapwireless.com,@lga.att.com,@mwmail.att.com,@mx.att.com,@quickplay.com,@reseach.att.com,@resortwifi.com,@resortwifi.net,@resortwifi.org,@semail.att.com,@superclick.com,@swmail.att.com,@unefon.com,@unefon.com.mx,@us.att.com,@wayad.corp.wayport.net,@wayport.com,@wayport.net,@wayportaccess.net,@wayport-asia.com,@wayport-asia.net,@wayport-europe.com,@wayport-europe.net,@wayport-intl.com,@wayport-intl.net,@wemail.att.com,@xandr.com"
+# AWD_Partner,C2849,,C2849000,Brookfield,"@brookfied.com,@brookfield.com,@brookfieldpropertiesdevelopment.com,@Brookfieldproperties.com,@Brookfieldrp.com,@Brookfieldpropertiesfc.com,@Brookfieldpropertiesmultifamily.com,@Broookfieldpropertiesdevelopmemt.com,@Brookfieldoaktree.com,@Brookfieldbpapartments.com,@brookfieldrenewable.com,@evolugen.com,@luminace.com"
+# AWD_Partner,A1139,,A113900,ARINC,"@aatcorp.com,@adfos.rockwellcollins.com,@arinc.com,@arincdirect.com,@atschiller.com,@aviationelectronics.com,@bbn.com,@beaerospace.com,@beaerospace-systems.com,@brazonics.com,@btl.co.il,@claverham.com,@collins.com,@collinsaero.com,@collinsaerospace.com,@corp.rockwellcollins.com,@corpdc.utc.com,@corphq.utc.com,@corpuk.utc.com,@delavan.co.uk,@engineallianceportal.com,@fischer-seats.com,@fischer-seats.de,@goodrich.com,@hfemail.com,@hs.utc.com,@hsd.utc.com,@hsmarston.co.uk,@iae-jaec.com,@iaev2500.com,@jareinhardt.com,@kidde-deugra.com,@lists.arinc.com,@macrolink.com,@mikrosystems.com,@nm.hsd.utc.com,@pciga.com,@pikewerks.com,@prattwhitney.com,@prattwhitneychina.com,@pw.utc.com,@pwaero.utc.com,@pwap.utc.com,@pwbe.utc.com,@pwc.ca,@pwk.com.pl,@pwrze.utc.com,@rtx.com,@raytheon.co.uk,@raytheon.com,@raytheon.com.au,@raytheoncyber.com,@raytheon-ssd.com,@rps-emea.com,@sigovs.com,@solipsys.com,@teligy.com,@thalesraytheon-us.com,@trainingsupportadmin.com,@ratier-figeac.fr,@sbmachineinc.com,@siliconsensing.com,@teklam.com,@utc.com,@wovenelectronics.com,@seakr.com"
+# AWD_Partner,A1777,,A177700,RAYTHEON,"@aatcorp.com,@adfos.rockwellcollins.com,@arinc.com,@arincdirect.com,@atschiller.com,@aviationelectronics.com,@bbn.com,@beaerospace.com,@beaerospace-systems.com,@brazonics.com,@btl.co.il,@claverham.com,@collins.com,@collinsaero.com,@collinsaerospace.com,@corp.rockwellcollins.com,@corpdc.utc.com,@corphq.utc.com,@corpuk.utc.com,@delavan.co.uk,@engineallianceportal.com,@fischer-seats.com,@fischer-seats.de,@goodrich.com,@hfemail.com,@hs.utc.com,@hsd.utc.com,@hsmarston.co.uk,@iae-jaec.com,@iaev2500.com,@jareinhardt.com,@kidde-deugra.com,@lists.arinc.com,@macrolink.com,@mikrosystems.com,@nm.hsd.utc.com,@pciga.com,@pikewerks.com,@prattwhitney.com,@prattwhitneychina.com,@pw.utc.com,@pwaero.utc.com,@pwap.utc.com,@pwbe.utc.com,@pwc.ca,@pwk.com.pl,@pwrze.utc.com,@rtx.com,@raytheon.co.uk,@raytheon.com,@raytheon.com.au,@raytheoncyber.com,@raytheon-ssd.com,@rps-emea.com,@sigovs.com,@solipsys.com,@teligy.com,@thalesraytheon-us.com,@trainingsupportadmin.com,@ratier-figeac.fr,@sbmachineinc.com,@siliconsensing.com,@teklam.com,@utc.com,@wovenelectronics.com,@seakr.com"
+# AWD_Partner,A5512,,A551200,RAYTHEON,"@aatcorp.com,@adfos.rockwellcollins.com,@arinc.com,@arincdirect.com,@atschiller.com,@aviationelectronics.com,@bbn.com,@beaerospace.com,@beaerospace-systems.com,@brazonics.com,@btl.co.il,@claverham.com,@collins.com,@collinsaero.com,@collinsaerospace.com,@corp.rockwellcollins.com,@corpdc.utc.com,@corphq.utc.com,@corpuk.utc.com,@delavan.co.uk,@engineallianceportal.com,@fischer-seats.com,@fischer-seats.de,@goodrich.com,@hfemail.com,@hs.utc.com,@hsd.utc.com,@hsmarston.co.uk,@iae-jaec.com,@iaev2500.com,@jareinhardt.com,@kidde-deugra.com,@lists.arinc.com,@macrolink.com,@mikrosystems.com,@nm.hsd.utc.com,@pciga.com,@pikewerks.com,@prattwhitney.com,@prattwhitneychina.com,@pw.utc.com,@pwaero.utc.com,@pwap.utc.com,@pwbe.utc.com,@pwc.ca,@pwk.com.pl,@pwrze.utc.com,@rtx.com,@raytheon.co.uk,@raytheon.com,@raytheon.com.au,@raytheoncyber.com,@raytheon-ssd.com,@rps-emea.com,@sigovs.com,@solipsys.com,@teligy.com,@thalesraytheon-us.com,@trainingsupportadmin.com,@ratier-figeac.fr,@sbmachineinc.com,@siliconsensing.com,@teklam.com,@utc.com,@wovenelectronics.com,@seakr.com"
+# AWD_Partner,A5513,,A551300,RAYTHEON COMPANY,"@aatcorp.com,@adfos.rockwellcollins.com,@arinc.com,@arincdirect.com,@atschiller.com,@aviationelectronics.com,@bbn.com,@beaerospace.com,@beaerospace-systems.com,@brazonics.com,@btl.co.il,@claverham.com,@collins.com,@collinsaero.com,@collinsaerospace.com,@corp.rockwellcollins.com,@corpdc.utc.com,@corphq.utc.com,@corpuk.utc.com,@delavan.co.uk,@engineallianceportal.com,@fischer-seats.com,@fischer-seats.de,@goodrich.com,@hfemail.com,@hs.utc.com,@hsd.utc.com,@hsmarston.co.uk,@iae-jaec.com,@iaev2500.com,@jareinhardt.com,@kidde-deugra.com,@lists.arinc.com,@macrolink.com,@mikrosystems.com,@nm.hsd.utc.com,@pciga.com,@pikewerks.com,@prattwhitney.com,@prattwhitneychina.com,@pw.utc.com,@pwaero.utc.com,@pwap.utc.com,@pwbe.utc.com,@pwc.ca,@pwk.com.pl,@pwrze.utc.com,@rtx.com,@raytheon.co.uk,@raytheon.com,@raytheon.com.au,@raytheoncyber.com,@raytheon-ssd.com,@rps-emea.com,@sigovs.com,@solipsys.com,@teligy.com,@thalesraytheon-us.com,@trainingsupportadmin.com,@ratier-figeac.fr,@sbmachineinc.com,@siliconsensing.com,@teklam.com,@utc.com,@wovenelectronics.com,@seakr.com"
+# AWD_Partner,A1671,,A167100,QUAKER OATS,"@ROCKSTARENERGY.COM,@PEPSICO.COM,@MUSCLEMILKCOLLEGE.COM,@MUSCLEMILK.COM,@DRINKEVOLVE.COM,@CYTOSPORT.COM,@AZUREDS.AZURE.INTRA.PEPSICO.COM,@SNACKS2YOU.COM,@RFAXCSCFIT.PEPSICO.COM,@MAKEROATS.COM,@KEVITA.COM,@WBD.RU,@PEPSI.COM,@FAX.PEPSICO.COM,@RFAXPFC.PEPSICO.COM,@RFAXCSC.PEPSICO.COM,@CAPNCRUNCH.COM,@MSGROUTING.PEPSI.COM,@DORITOSLATENIGHT.COM,@MISSIONG.COM,@STACYSSNACKS.COM,@FRITOLAY.COM,@EN.PEPSI.CA,@PEPSICO.MAIL.ONMICROSOFT.COM,@PBSG.COM,@CA.SMARTSPOT.COM,@TR.SMARTSPOT.COM,@QUAKER-OATS.COM,@LIZMAIL.COM,@PCFCI.COM,@CAPTAINCRUNCH.COM,@NAKEDJUICE.NET,@IZZE.COM,@BLUEBIRD.CO.NZ,@PEPSICO.COM.MX,@QUAKERCA.COM,@PITACHIP.COM,@FR.QUAKEROATS.CA,@QUAKER.CO.UK,@MISSVICKIES.CA,@PEPSI.RU,@SAKATA.COM.AU,@GAMESA-USA.COM,@SMITHS.COM.AU,@PEPSICO.COM.AU,@PITACHIPS.COM,@FR.PEPSI.CA,@TROPICANA.COM,@DORITOS.COM,@GATORADE.COM,@PC.SMARTSPOT.COM,@NEAREAST.COM,@QTGSALES.COM,@PBGMEXICO.COM,@PEPSICO.ONMICROSOFT.COM,@WALKERS-EATHAPPY.CO.UK,@NAKEDJUICE.COM,@WALKERS.CO.UK,@EN.QUAKEROATS.CA,@PEPSI-QTG.COM,@PEPSIAMERICAS.COM,@QUAKEROATS.COM,@PBG-SPAIN.INTL.PEPSI.COM,@INTL.FRITOLAY.COM,@EBPP.PEPSICO.COM,@BD.PEPSICO.COM,@INTL.PEPSICO.COM,@CS.TROPICANA.COM,@CA.PEPSI.COM,@INTL.PEPSI.COM,@THEHIVEBRANDS.COM,@G1D.PEPSICO.COM,@R1Q.PEPSICO.COM,@R1U.PEPSICO.COM,@R1P.PEPSICO.COM,@PLANETPARTNERSHIP.COM,@PENS.PEPSICO.COM,@SAPP17.PEPSICO.COM,@PEPWAP11176.PEPSICO.COM,@PEPWAP20616.PEPSICO.COM,@PEPWAP11179.PEPSICO.COM,@PEPWAP20885.PEPSICO.COM,@PEPWAP21099.PEPSICO.COM,@PEPWAP21226.PEPSICO.COM,@A1P.PEPSICO.COM,@PEPWAP21493.PEPSICO.COM,@SAPP16.PEPSICO.COM,@GETPAID.PEPSICO.COM,@S1U.PEPSICO.COM,@BLUECLOUDINC.COM,@B1D.PEPSICO.COM,@B1I.PEPSICO.COM,@B1Q.PEPSICO.COM,@B1U.PEPSICO.COM,@B11.PEPSICO.COM,@SAPD20.PEPSICO.COM,@A1U.PEPSICO.COM,@X1D.PEPSICO.COM,@SAPQ20.PEPSICO.COM,@SAPP20.PEPSICO.COM,@SAP-SRMQA.PEPSICO.COM,@VWATER.COM,@SARDINHABAHIA.COM.BR,@TRUENORTHSNACKS.COM,@TRUENORTHNUTS.COM,@EQLIBRI.COM.BR,@GATORADE.COM.MX,@ELMA-CHIPS.COM.BR,@SABRITAS.COM.MX,@MAIZORO.COM.MX,@TODDY.COM.BR,@TODDYNHO.COM.BR,@ELMACHIPS.COM.BR,@COQUEIRO.COM.BR,@GAMESA.COM.MX,@QUAKER.COM.BR,@FRITOLAY.COM.TW,@FRITOLAY.CL,@ALTUSFOODS.COM,@PEPSICO.COM.BR,@KFC-MTB.MS.TEAMS.VODACOM.CO.ZA,@KFC.CFO.MSDR.TEAMS.VODACOM.CO.ZA,@KFC.CO.UK,@KFC.COM,@KFC.COM.AU,@KFC.MTB.MSDR.TEAMS.VODACOM.CO.ZA,@BOOKITPROGRAM.COM,@MAIL.PIZZAHUT.COM,@MAILHUB.PIZZAHUT.COM,@MY.PIZZAHUT.COM,@O365.PIZZHUT.IO,@PIZZAHUT.CO.UK,@ORDERS.PIZZAHUT.COM,@PIZZAHUT.COM,@WINGSTREET.COM,@INTERNATIONALBELL.COM,@TACOBELL.CO.UK,@TACOBELL.COM,@TACOBELLFOUNDATION.COM,@TACOBELLFOUNDATION.ORG,@TACOMAIL.TACOBELL.COM,@TAKINGPEOPLEWITHYOU.COM,@THECOLLIDERLAB.COM,@YUM-EU.TAO-GLOBALVOICE.COM,@YUM-INDIA.NET,@YUM-US.TAO-GLOBALVOICE.COM,@YUM-US2.TAO-GLOBALVOICE.COM,@YUMBRANDSINC.ONMICROSOFT.COM,@DRAGONTAILSYSTEMS.COM,@YUM.com"
+# AWD_Partner,A1802,,A180200,PEPSICO NAF US,"@ROCKSTARENERGY.COM,@PEPSICO.COM,@MUSCLEMILKCOLLEGE.COM,@MUSCLEMILK.COM,@DRINKEVOLVE.COM,@CYTOSPORT.COM,@AZUREDS.AZURE.INTRA.PEPSICO.COM,@SNACKS2YOU.COM,@RFAXCSCFIT.PEPSICO.COM,@MAKEROATS.COM,@KEVITA.COM,@WBD.RU,@PEPSI.COM,@FAX.PEPSICO.COM,@RFAXPFC.PEPSICO.COM,@RFAXCSC.PEPSICO.COM,@CAPNCRUNCH.COM,@MSGROUTING.PEPSI.COM,@DORITOSLATENIGHT.COM,@MISSIONG.COM,@STACYSSNACKS.COM,@FRITOLAY.COM,@EN.PEPSI.CA,@PEPSICO.MAIL.ONMICROSOFT.COM,@PBSG.COM,@CA.SMARTSPOT.COM,@TR.SMARTSPOT.COM,@QUAKER-OATS.COM,@LIZMAIL.COM,@PCFCI.COM,@CAPTAINCRUNCH.COM,@NAKEDJUICE.NET,@IZZE.COM,@BLUEBIRD.CO.NZ,@PEPSICO.COM.MX,@QUAKERCA.COM,@PITACHIP.COM,@FR.QUAKEROATS.CA,@QUAKER.CO.UK,@MISSVICKIES.CA,@PEPSI.RU,@SAKATA.COM.AU,@GAMESA-USA.COM,@SMITHS.COM.AU,@PEPSICO.COM.AU,@PITACHIPS.COM,@FR.PEPSI.CA,@TROPICANA.COM,@DORITOS.COM,@GATORADE.COM,@PC.SMARTSPOT.COM,@NEAREAST.COM,@QTGSALES.COM,@PBGMEXICO.COM,@PEPSICO.ONMICROSOFT.COM,@WALKERS-EATHAPPY.CO.UK,@NAKEDJUICE.COM,@WALKERS.CO.UK,@EN.QUAKEROATS.CA,@PEPSI-QTG.COM,@PEPSIAMERICAS.COM,@QUAKEROATS.COM,@PBG-SPAIN.INTL.PEPSI.COM,@INTL.FRITOLAY.COM,@EBPP.PEPSICO.COM,@BD.PEPSICO.COM,@INTL.PEPSICO.COM,@CS.TROPICANA.COM,@CA.PEPSI.COM,@INTL.PEPSI.COM,@THEHIVEBRANDS.COM,@G1D.PEPSICO.COM,@R1Q.PEPSICO.COM,@R1U.PEPSICO.COM,@R1P.PEPSICO.COM,@PLANETPARTNERSHIP.COM,@PENS.PEPSICO.COM,@SAPP17.PEPSICO.COM,@PEPWAP11176.PEPSICO.COM,@PEPWAP20616.PEPSICO.COM,@PEPWAP11179.PEPSICO.COM,@PEPWAP20885.PEPSICO.COM,@PEPWAP21099.PEPSICO.COM,@PEPWAP21226.PEPSICO.COM,@A1P.PEPSICO.COM,@PEPWAP21493.PEPSICO.COM,@SAPP16.PEPSICO.COM,@GETPAID.PEPSICO.COM,@S1U.PEPSICO.COM,@BLUECLOUDINC.COM,@B1D.PEPSICO.COM,@B1I.PEPSICO.COM,@B1Q.PEPSICO.COM,@B1U.PEPSICO.COM,@B11.PEPSICO.COM,@SAPD20.PEPSICO.COM,@A1U.PEPSICO.COM,@X1D.PEPSICO.COM,@SAPQ20.PEPSICO.COM,@SAPP20.PEPSICO.COM,@SAP-SRMQA.PEPSICO.COM,@VWATER.COM,@SARDINHABAHIA.COM.BR,@TRUENORTHSNACKS.COM,@TRUENORTHNUTS.COM,@EQLIBRI.COM.BR,@GATORADE.COM.MX,@ELMA-CHIPS.COM.BR,@SABRITAS.COM.MX,@MAIZORO.COM.MX,@TODDY.COM.BR,@TODDYNHO.COM.BR,@ELMACHIPS.COM.BR,@COQUEIRO.COM.BR,@GAMESA.COM.MX,@QUAKER.COM.BR,@FRITOLAY.COM.TW,@FRITOLAY.CL,@ALTUSFOODS.COM,@PEPSICO.COM.BR,@KFC-MTB.MS.TEAMS.VODACOM.CO.ZA,@KFC.CFO.MSDR.TEAMS.VODACOM.CO.ZA,@KFC.CO.UK,@KFC.COM,@KFC.COM.AU,@KFC.MTB.MSDR.TEAMS.VODACOM.CO.ZA,@BOOKITPROGRAM.COM,@MAIL.PIZZAHUT.COM,@MAILHUB.PIZZAHUT.COM,@MY.PIZZAHUT.COM,@O365.PIZZHUT.IO,@PIZZAHUT.CO.UK,@ORDERS.PIZZAHUT.COM,@PIZZAHUT.COM,@WINGSTREET.COM,@INTERNATIONALBELL.COM,@TACOBELL.CO.UK,@TACOBELL.COM,@TACOBELLFOUNDATION.COM,@TACOBELLFOUNDATION.ORG,@TACOMAIL.TACOBELL.COM,@TAKINGPEOPLEWITHYOU.COM,@THECOLLIDERLAB.COM,@YUM-EU.TAO-GLOBALVOICE.COM,@YUM-INDIA.NET,@YUM-US.TAO-GLOBALVOICE.COM,@YUM-US2.TAO-GLOBALVOICE.COM,@YUMBRANDSINC.ONMICROSOFT.COM,@DRAGONTAILSYSTEMS.COM,@YUM.com"
+# AWD_Partner,A0714,,A071400,MHI,"@mhia.com,@mhicorr.com,@mhiahq.com,@mhiahq.info,@LogisnextAmericas.com,@amermhi.com,@amer.mhps.com,@mitsubishipower.ca,@diamondwtg.com,@mitsubishi-engine.com,@mitsubishi-turbo.com,@mnes-us.com,@mhicompressor.com,@crystalmoverservices.com,@mhica.ca,@mhirj.com,@primetals.com,@mhi.com,@icjetservice.com,@mhimexico.com,@mssa.com,@aeropowermhi.com,@MDATURBINES.com,@abpinduction.com,@ds.mhi.com,@energy-usa.com,@oridenpower.com,@eqdepot.com"
+# AWD_Partner,A8643,,A864300,Harsco Corporation,"@harsco.com,@CLEANEARTHINC.COM,@IKGINDUSTRIES.COM,@HARSCOTRACK.COM,@HSGCONSTRUCTORS.COM,@SCRAPMETALSERVICES.COM,@enviri.com"
+# AWD_Partner,B9471,,B947100,HYUNDAI,"@hyundai.com,@hmausa.com,@hma-usa.com,@innoceanusa.com,@mobisusa.com,@translead.com,@hyundaitranslead.com,@hcamerica.com,@HMMAUSA.COM,@hmgma.com"
+# AWD_Partner,C7893,,C789300,PBG CANADA,"@ROCKSTARENERGY.COM,@PEPSICO.COM,@MUSCLEMILKCOLLEGE.COM,@MUSCLEMILK.COM,@DRINKEVOLVE.COM,@CYTOSPORT.COM,@AZUREDS.AZURE.INTRA.PEPSICO.COM,@SNACKS2YOU.COM,@RFAXCSCFIT.PEPSICO.COM,@MAKEROATS.COM,@KEVITA.COM,@WBD.RU,@PEPSI.COM,@FAX.PEPSICO.COM,@RFAXPFC.PEPSICO.COM,@RFAXCSC.PEPSICO.COM,@CAPNCRUNCH.COM,@MSGROUTING.PEPSI.COM,@DORITOSLATENIGHT.COM,@MISSIONG.COM,@STACYSSNACKS.COM,@FRITOLAY.COM,@EN.PEPSI.CA,@PEPSICO.MAIL.ONMICROSOFT.COM,@PBSG.COM,@CA.SMARTSPOT.COM,@TR.SMARTSPOT.COM,@QUAKER-OATS.COM,@LIZMAIL.COM,@PCFCI.COM,@CAPTAINCRUNCH.COM,@NAKEDJUICE.NET,@IZZE.COM,@BLUEBIRD.CO.NZ,@PEPSICO.COM.MX,@QUAKERCA.COM,@PITACHIP.COM,@FR.QUAKEROATS.CA,@QUAKER.CO.UK,@MISSVICKIES.CA,@PEPSI.RU,@SAKATA.COM.AU,@GAMESA-USA.COM,@SMITHS.COM.AU,@PEPSICO.COM.AU,@PITACHIPS.COM,@FR.PEPSI.CA,@TROPICANA.COM,@DORITOS.COM,@GATORADE.COM,@PC.SMARTSPOT.COM,@NEAREAST.COM,@QTGSALES.COM,@PBGMEXICO.COM,@PEPSICO.ONMICROSOFT.COM,@WALKERS-EATHAPPY.CO.UK,@NAKEDJUICE.COM,@WALKERS.CO.UK,@EN.QUAKEROATS.CA,@PEPSI-QTG.COM,@PEPSIAMERICAS.COM,@QUAKEROATS.COM,@PBG-SPAIN.INTL.PEPSI.COM,@INTL.FRITOLAY.COM,@EBPP.PEPSICO.COM,@BD.PEPSICO.COM,@INTL.PEPSICO.COM,@CS.TROPICANA.COM,@CA.PEPSI.COM,@INTL.PEPSI.COM,@THEHIVEBRANDS.COM,@G1D.PEPSICO.COM,@R1Q.PEPSICO.COM,@R1U.PEPSICO.COM,@R1P.PEPSICO.COM,@PLANETPARTNERSHIP.COM,@PENS.PEPSICO.COM,@SAPP17.PEPSICO.COM,@PEPWAP11176.PEPSICO.COM,@PEPWAP20616.PEPSICO.COM,@PEPWAP11179.PEPSICO.COM,@PEPWAP20885.PEPSICO.COM,@PEPWAP21099.PEPSICO.COM,@PEPWAP21226.PEPSICO.COM,@A1P.PEPSICO.COM,@PEPWAP21493.PEPSICO.COM,@SAPP16.PEPSICO.COM,@GETPAID.PEPSICO.COM,@S1U.PEPSICO.COM,@BLUECLOUDINC.COM,@B1D.PEPSICO.COM,@B1I.PEPSICO.COM,@B1Q.PEPSICO.COM,@B1U.PEPSICO.COM,@B11.PEPSICO.COM,@SAPD20.PEPSICO.COM,@A1U.PEPSICO.COM,@X1D.PEPSICO.COM,@SAPQ20.PEPSICO.COM,@SAPP20.PEPSICO.COM,@SAP-SRMQA.PEPSICO.COM,@VWATER.COM,@SARDINHABAHIA.COM.BR,@TRUENORTHSNACKS.COM,@TRUENORTHNUTS.COM,@EQLIBRI.COM.BR,@GATORADE.COM.MX,@ELMA-CHIPS.COM.BR,@SABRITAS.COM.MX,@MAIZORO.COM.MX,@TODDY.COM.BR,@TODDYNHO.COM.BR,@ELMACHIPS.COM.BR,@COQUEIRO.COM.BR,@GAMESA.COM.MX,@QUAKER.COM.BR,@FRITOLAY.COM.TW,@FRITOLAY.CL,@ALTUSFOODS.COM,@PEPSICO.COM.BR,@KFC-MTB.MS.TEAMS.VODACOM.CO.ZA,@KFC.CFO.MSDR.TEAMS.VODACOM.CO.ZA,@KFC.CO.UK,@KFC.COM,@KFC.COM.AU,@KFC.MTB.MSDR.TEAMS.VODACOM.CO.ZA,@BOOKITPROGRAM.COM,@MAIL.PIZZAHUT.COM,@MAILHUB.PIZZAHUT.COM,@MY.PIZZAHUT.COM,@O365.PIZZHUT.IO,@PIZZAHUT.CO.UK,@ORDERS.PIZZAHUT.COM,@PIZZAHUT.COM,@WINGSTREET.COM,@INTERNATIONALBELL.COM,@TACOBELL.CO.UK,@TACOBELL.COM,@TACOBELLFOUNDATION.COM,@TACOBELLFOUNDATION.ORG,@TACOMAIL.TACOBELL.COM,@TAKINGPEOPLEWITHYOU.COM,@THECOLLIDERLAB.COM,@YUM-EU.TAO-GLOBALVOICE.COM,@YUM-INDIA.NET,@YUM-US.TAO-GLOBALVOICE.COM,@YUM-US2.TAO-GLOBALVOICE.COM,@YUMBRANDSINC.ONMICROSOFT.COM,@DRAGONTAILSYSTEMS.COM,@YUM.com"
+# AWD_Partner,D0351,,D035100,SABRA DIPPING COMPANY,"@ROCKSTARENERGY.COM,@PEPSICO.COM,@MUSCLEMILKCOLLEGE.COM,@MUSCLEMILK.COM,@DRINKEVOLVE.COM,@CYTOSPORT.COM,@AZUREDS.AZURE.INTRA.PEPSICO.COM,@SNACKS2YOU.COM,@RFAXCSCFIT.PEPSICO.COM,@MAKEROATS.COM,@KEVITA.COM,@WBD.RU,@PEPSI.COM,@FAX.PEPSICO.COM,@RFAXPFC.PEPSICO.COM,@RFAXCSC.PEPSICO.COM,@CAPNCRUNCH.COM,@MSGROUTING.PEPSI.COM,@DORITOSLATENIGHT.COM,@MISSIONG.COM,@STACYSSNACKS.COM,@FRITOLAY.COM,@EN.PEPSI.CA,@PEPSICO.MAIL.ONMICROSOFT.COM,@PBSG.COM,@CA.SMARTSPOT.COM,@TR.SMARTSPOT.COM,@QUAKER-OATS.COM,@LIZMAIL.COM,@PCFCI.COM,@CAPTAINCRUNCH.COM,@NAKEDJUICE.NET,@IZZE.COM,@BLUEBIRD.CO.NZ,@PEPSICO.COM.MX,@QUAKERCA.COM,@PITACHIP.COM,@FR.QUAKEROATS.CA,@QUAKER.CO.UK,@MISSVICKIES.CA,@PEPSI.RU,@SAKATA.COM.AU,@GAMESA-USA.COM,@SMITHS.COM.AU,@PEPSICO.COM.AU,@PITACHIPS.COM,@FR.PEPSI.CA,@TROPICANA.COM,@DORITOS.COM,@GATORADE.COM,@PC.SMARTSPOT.COM,@NEAREAST.COM,@QTGSALES.COM,@PBGMEXICO.COM,@PEPSICO.ONMICROSOFT.COM,@WALKERS-EATHAPPY.CO.UK,@NAKEDJUICE.COM,@WALKERS.CO.UK,@EN.QUAKEROATS.CA,@PEPSI-QTG.COM,@PEPSIAMERICAS.COM,@QUAKEROATS.COM,@PBG-SPAIN.INTL.PEPSI.COM,@INTL.FRITOLAY.COM,@EBPP.PEPSICO.COM,@BD.PEPSICO.COM,@INTL.PEPSICO.COM,@CS.TROPICANA.COM,@CA.PEPSI.COM,@INTL.PEPSI.COM,@THEHIVEBRANDS.COM,@G1D.PEPSICO.COM,@R1Q.PEPSICO.COM,@R1U.PEPSICO.COM,@R1P.PEPSICO.COM,@PLANETPARTNERSHIP.COM,@PENS.PEPSICO.COM,@SAPP17.PEPSICO.COM,@PEPWAP11176.PEPSICO.COM,@PEPWAP20616.PEPSICO.COM,@PEPWAP11179.PEPSICO.COM,@PEPWAP20885.PEPSICO.COM,@PEPWAP21099.PEPSICO.COM,@PEPWAP21226.PEPSICO.COM,@A1P.PEPSICO.COM,@PEPWAP21493.PEPSICO.COM,@SAPP16.PEPSICO.COM,@GETPAID.PEPSICO.COM,@S1U.PEPSICO.COM,@BLUECLOUDINC.COM,@B1D.PEPSICO.COM,@B1I.PEPSICO.COM,@B1Q.PEPSICO.COM,@B1U.PEPSICO.COM,@B11.PEPSICO.COM,@SAPD20.PEPSICO.COM,@A1U.PEPSICO.COM,@X1D.PEPSICO.COM,@SAPQ20.PEPSICO.COM,@SAPP20.PEPSICO.COM,@SAP-SRMQA.PEPSICO.COM,@VWATER.COM,@SARDINHABAHIA.COM.BR,@TRUENORTHSNACKS.COM,@TRUENORTHNUTS.COM,@EQLIBRI.COM.BR,@GATORADE.COM.MX,@ELMA-CHIPS.COM.BR,@SABRITAS.COM.MX,@MAIZORO.COM.MX,@TODDY.COM.BR,@TODDYNHO.COM.BR,@ELMACHIPS.COM.BR,@COQUEIRO.COM.BR,@GAMESA.COM.MX,@QUAKER.COM.BR,@FRITOLAY.COM.TW,@FRITOLAY.CL,@ALTUSFOODS.COM,@PEPSICO.COM.BR,@KFC-MTB.MS.TEAMS.VODACOM.CO.ZA,@KFC.CFO.MSDR.TEAMS.VODACOM.CO.ZA,@KFC.CO.UK,@KFC.COM,@KFC.COM.AU,@KFC.MTB.MSDR.TEAMS.VODACOM.CO.ZA,@BOOKITPROGRAM.COM,@MAIL.PIZZAHUT.COM,@MAILHUB.PIZZAHUT.COM,@MY.PIZZAHUT.COM,@O365.PIZZHUT.IO,@PIZZAHUT.CO.UK,@ORDERS.PIZZAHUT.COM,@PIZZAHUT.COM,@WINGSTREET.COM,@INTERNATIONALBELL.COM,@TACOBELL.CO.UK,@TACOBELL.COM,@TACOBELLFOUNDATION.COM,@TACOBELLFOUNDATION.ORG,@TACOMAIL.TACOBELL.COM,@TAKINGPEOPLEWITHYOU.COM,@THECOLLIDERLAB.COM,@YUM-EU.TAO-GLOBALVOICE.COM,@YUM-INDIA.NET,@YUM-US.TAO-GLOBALVOICE.COM,@YUM-US2.TAO-GLOBALVOICE.COM,@YUMBRANDSINC.ONMICROSOFT.COM,@DRAGONTAILSYSTEMS.COM,@YUM.com,@SABRA.COM"
+# AWD_Partner,H1418,,H141800,HONICKMAN,"@ROCKSTARENERGY.COM,@PEPSICO.COM,@MUSCLEMILKCOLLEGE.COM,@MUSCLEMILK.COM,@DRINKEVOLVE.COM,@CYTOSPORT.COM,@AZUREDS.AZURE.INTRA.PEPSICO.COM,@SNACKS2YOU.COM,@RFAXCSCFIT.PEPSICO.COM,@MAKEROATS.COM,@KEVITA.COM,@WBD.RU,@PEPSI.COM,@FAX.PEPSICO.COM,@RFAXPFC.PEPSICO.COM,@RFAXCSC.PEPSICO.COM,@CAPNCRUNCH.COM,@MSGROUTING.PEPSI.COM,@DORITOSLATENIGHT.COM,@MISSIONG.COM,@STACYSSNACKS.COM,@FRITOLAY.COM,@EN.PEPSI.CA,@PEPSICO.MAIL.ONMICROSOFT.COM,@PBSG.COM,@CA.SMARTSPOT.COM,@TR.SMARTSPOT.COM,@QUAKER-OATS.COM,@LIZMAIL.COM,@PCFCI.COM,@CAPTAINCRUNCH.COM,@NAKEDJUICE.NET,@IZZE.COM,@BLUEBIRD.CO.NZ,@PEPSICO.COM.MX,@QUAKERCA.COM,@PITACHIP.COM,@FR.QUAKEROATS.CA,@QUAKER.CO.UK,@MISSVICKIES.CA,@PEPSI.RU,@SAKATA.COM.AU,@GAMESA-USA.COM,@SMITHS.COM.AU,@PEPSICO.COM.AU,@PITACHIPS.COM,@FR.PEPSI.CA,@TROPICANA.COM,@DORITOS.COM,@GATORADE.COM,@PC.SMARTSPOT.COM,@NEAREAST.COM,@QTGSALES.COM,@PBGMEXICO.COM,@PEPSICO.ONMICROSOFT.COM,@WALKERS-EATHAPPY.CO.UK,@NAKEDJUICE.COM,@WALKERS.CO.UK,@EN.QUAKEROATS.CA,@PEPSI-QTG.COM,@PEPSIAMERICAS.COM,@QUAKEROATS.COM,@PBG-SPAIN.INTL.PEPSI.COM,@INTL.FRITOLAY.COM,@EBPP.PEPSICO.COM,@BD.PEPSICO.COM,@INTL.PEPSICO.COM,@CS.TROPICANA.COM,@CA.PEPSI.COM,@INTL.PEPSI.COM,@THEHIVEBRANDS.COM,@G1D.PEPSICO.COM,@R1Q.PEPSICO.COM,@R1U.PEPSICO.COM,@R1P.PEPSICO.COM,@PLANETPARTNERSHIP.COM,@PENS.PEPSICO.COM,@SAPP17.PEPSICO.COM,@PEPWAP11176.PEPSICO.COM,@PEPWAP20616.PEPSICO.COM,@PEPWAP11179.PEPSICO.COM,@PEPWAP20885.PEPSICO.COM,@PEPWAP21099.PEPSICO.COM,@PEPWAP21226.PEPSICO.COM,@A1P.PEPSICO.COM,@PEPWAP21493.PEPSICO.COM,@SAPP16.PEPSICO.COM,@GETPAID.PEPSICO.COM,@S1U.PEPSICO.COM,@BLUECLOUDINC.COM,@B1D.PEPSICO.COM,@B1I.PEPSICO.COM,@B1Q.PEPSICO.COM,@B1U.PEPSICO.COM,@B11.PEPSICO.COM,@SAPD20.PEPSICO.COM,@A1U.PEPSICO.COM,@X1D.PEPSICO.COM,@SAPQ20.PEPSICO.COM,@SAPP20.PEPSICO.COM,@SAP-SRMQA.PEPSICO.COM,@VWATER.COM,@SARDINHABAHIA.COM.BR,@TRUENORTHSNACKS.COM,@TRUENORTHNUTS.COM,@EQLIBRI.COM.BR,@GATORADE.COM.MX,@ELMA-CHIPS.COM.BR,@SABRITAS.COM.MX,@MAIZORO.COM.MX,@TODDY.COM.BR,@TODDYNHO.COM.BR,@ELMACHIPS.COM.BR,@COQUEIRO.COM.BR,@GAMESA.COM.MX,@QUAKER.COM.BR,@FRITOLAY.COM.TW,@FRITOLAY.CL,@ALTUSFOODS.COM,@PEPSICO.COM.BR,@KFC-MTB.MS.TEAMS.VODACOM.CO.ZA,@KFC.CFO.MSDR.TEAMS.VODACOM.CO.ZA,@KFC.CO.UK,@KFC.COM,@KFC.COM.AU,@KFC.MTB.MSDR.TEAMS.VODACOM.CO.ZA,@BOOKITPROGRAM.COM,@MAIL.PIZZAHUT.COM,@MAILHUB.PIZZAHUT.COM,@MY.PIZZAHUT.COM,@O365.PIZZHUT.IO,@PIZZAHUT.CO.UK,@ORDERS.PIZZAHUT.COM,@PIZZAHUT.COM,@WINGSTREET.COM,@INTERNATIONALBELL.COM,@TACOBELL.CO.UK,@TACOBELL.COM,@TACOBELLFOUNDATION.COM,@TACOBELLFOUNDATION.ORG,@TACOMAIL.TACOBELL.COM,@TAKINGPEOPLEWITHYOU.COM,@THECOLLIDERLAB.COM,@YUM-EU.TAO-GLOBALVOICE.COM,@YUM-INDIA.NET,@YUM-US.TAO-GLOBALVOICE.COM,@YUM-US2.TAO-GLOBALVOICE.COM,@YUMBRANDSINC.ONMICROSOFT.COM,@DRAGONTAILSYSTEMS.COM,@YUM.com,@hongrp.com"
+# AWD_Partner,A8289,,A828900,Bioclinica,@bioclinica.com
+# AWD_Partner,B6090,,B609000,Cozen OConnor,@cozen.com
+# AWD_Partner,A7255,,A725500,Arconic Inc,@arconic.com
+# AWD_Partner,D1586,,D158600,Crown Castle,@crowncastle.com
+# AWD_Partner,B0785,,B078500,Genco Distribution,@genco.com
+# AWD_Partner,H9532,,H953200,Ensafe,"@ensafe.com,@gr2llc.com"
+# AWD_Partner,B8256,,B825600,Clark Construction,@clarkconstruction.com
+# AWD_Partner,B5078,,B507800,Finra,@finra.org
+# AWD_Partner,D3401,,D340100,Smartonix,@smartronix.com
+# AWD_Partner,U7531,,U753100,Ralph Lauren,"@ralphlauren.com,@poloralphlauren.com"
+# AWD_Partner,B8770,,B877000,Priority Assist dba,@intlauto.com
+# AWD_Partner,B9964,,B996400,Trumpf,@trumpf.com
+# AWD_Partner,X3692,,X369200,Deployed Resources,@deployedresources.com
+# AWD_Partner,A3402,,A3402000,Duravant LLC,"@Duravant.com,@arpac.com,@duravant.com,@fischbein.com,@fmhconveyors.com,@fmhconveyors.co.uk,@foodmate.nl,@foodmate.co.uk,@foodmateusa.com,@key.net,@marlen.com,@mespack.com,@motiono6.at,@nvenia.com,@qcconveryors.com,@supportpro.pro,@wecotek.com,@wulftec.com,@qcconveyors.com,@multiscan.eu,@marelec.com"
+# AWD_Partner,D9498,,D9498000,WESCO Distribution,"@wesco.com,@wescodist.com,@aa-electric.com,@accu-tech.com,@aedga.com,@aelux.com,@anixter.com,@avonelec.com,@brewssupply.com,@brucknersupply.com,@calvert-wire.com,@carltonbates.com,@carlton-bates.com,@cbc-connect.com,@cca-corp.com,@conney.com,@eecol.cl,@eecol.com,@eescodist.com,@gocsc.com,@hambyyoung.com,@hazmasters.com,@hces.net,@herningunderground.com,@hilineco.com,@hnstools.com,@intelix.com,@kvasupply.com,@lcomp.com,@libav.com,@libertycable.com,@libertyelectrical.com,@maxcell.us,@modernwholesale.com,@needhamelectric.com,@potelcom.com,@reco.net,@reily.com,@rselectronics.com,@sateng.com,@sls-solutions.ca,@stoneeaglesupply.com,@tvcinc.com,@wescodist.mail.onmicrosoft.com,@wescodist.onmicrosoft.com,@wescomex.com,@wescosps.co.uk,@wescosps.com,@anixter.wescodist.com,@WireXpress.com,@XpressConnect.com,@rahisystems.com"
+# AWD_Partner,D2094,,D2094000,WOLCOTT SQUARED LLC,"@wsquared.com,@premisehealth.com,@lbmc.com,@wsquared.com,@premisehealth.com,@lbmc.com,@advancedch.com,@apexautomotive.com,@athenacare.health,@bondedfilter.com,@goodpeds.com,@miraclemileadvisors.com,@nashvilleliteracy.org,@psychhub.com,@buffkinbaker.com,@alivehospice.org,@alpsummit.com,@heritagepointeseniorliving.com,@brentwoodchildrens.com,@encorehealthgroup.com,@leadpublicschools.com,@monogramhealth.com,@spirashealth.com,@rowhealthcare.com,@wickshiresl.com,@vigilant-health.com,@hcvue.com,@ae-cap.com,@bfcsolutions.com,@boostjourneys.com,@brentwoodchildrens.com,@casproviders.org,@csps.me,@decodehealth.ai,@iquity.com,@littleotterhealth.com,@lync-hp.com,@mosaic-cg.com,@mylocalinfusion.com,@recoveryclubamerica.com,@rubiconfounders.com,@rxgenomix.com,@spartansr7.com,@thais.health,@thedermcentertn.com,@vitalipartners.com,@woodardbros.com"
+# AWD_Partner,A3060,,A306000,Covenant Living Communiti,"@covliving.org,@cmb.org,@covchurch.org,@covenantbenevolence.org,@covenantcareathome.org,@covenantplacetulsa.org,@covenantretirement.onmicrosoft.com,@covenantretirement.org,@hsvk.org,@journal.covenantbenevolence.org,@lifeconnectprofile.org,@mail.covenantretirement.org,@openstrategy.group,@saidolearning.com,@threecrownspark.com,@threecrownspark.org,@nationalcovenantproperties.org"
+# AWD_Partner,A8446,,A844600,RELX Group,"@1science.com,@3d4medical.com,@4k8k-expo.jp,@aboutlexis.com,@academiccell.com,@accuity.com,@accuitysolutions.com,@accurint.com,@acsprod.lexisnexis.com,@acsprod.lexis-nexis.com,@adaptris.com,@adonis.nl,@agendashow.com,@agendawmns.com,@agentiq.co.za,@agregister.co.uk,@agriworldaustralia.com.au,@aicte.myelsevier.com,@aime.com.au,@aimex.com.au,@aiotex-kansai.jp,@airlinebusiness.com,@alerts.rbi.co.uk,@all-energy.com.au,@alumnicomputer.com,@am-expo.jp,@amirsys.com,@analytics.icis.com,@animalsimulator.com,@ap80.lexisnexis.com,@apmaritime.com,@app.firmmanager.com,@arcfinity.org,@ascendworldwide.com,@asiatvforum.com,@aureus-sciences.com,@australiansustainability.com.au,@authess.com,@automecfeira.com.br,@automecpesados.com.br,@autonomous-drive.jp,@avsoft.co.uk,@avsoft.us,@awite.com.au,@b2b.regn.net,@b2bindex.co.uk,@bankersaccuity.com,@bankersalmanac.com,@barconventbrooklyn.com,@barconventsingapore.com,@batteryjapan.jp,@beautifulyouaustralia.com.au,@beautyexpoaustralia.com.au,@beauty-week.jp,@bender.com,@bepress.com,@bex-asia.com,@bhglive.com.au,@bhusa.com,@bienaldolivrosp.com.br,@billing.ariessys.com,@biogenideconcologytraining.com,@biolc.com,@biomednet.com,@bizlaw.jp,@blueskysolution.com,@bm-expo.jp,@bmn.com,@bookexpo.reedexpo.com,@bookexpoamerica.com,@bostoncompliance.com,@brasiloffshore.com,@broadcastalert.net,@buildings.reedexpo.com,@businesslaw.jp,@butterworths.co.nz,@butterworths.co.uk,@butterworths.com,@butterworths.com.au,@buyerzone.co.uk,@buyerzone.fr,@c1energy.com,@c2e2.com,@cafebrasserie-expo.co.id,@cahners.com,@capmon.com,@capmon.com.au,@capsuleshow.com,@cardiostim.com,@cardnotpresent.com,@careers.mendeley.com,@casesoft.com,@cbnet.info,@cdipcentral.lexisnexis.com,@cdms.net,@cell.com,@celre.co.uk,@ceramics-japan.jp,@certsp.reedelsevier.com,@chemease.com,@chemexpo.com,@chemicaldata.com,@chemicalmarketreporter.com,@choicepoint.com,@choicepoint.net,@choicepointinc.com,@choicepointprg.com,@choicepointprg.net,@cirium.com,@clinicallearning.com,@cmefindonesia.com,@cnionline.com,@cni-online.com,@coating-japan.jp,@coating-kansai.jp,@collegeofdirectsupport.com,@collexis.com,@compliancemax.com,@compliance-max.com,@compliance-praxis.at,@conducivetech.com,@constructionjobsuk.com,@constructionlaw-direct.com,@corderycompliance.co.uk,@corp.regn.net,@cosplaycentral.com,@couperin.myelsevier.com,@courtlink.com,@courtlink.lexisnexis.com,@cpmrc.com,@crediva.co.uk,@cs.bepress.com,@csd.reedexpo.com,@current-biology.com,@current-opinion.com,@current-opinions.com,@currenttrends.com,@current-trends.com,@datalister.com,@davidsonmedicine.com,@dbt.co.uk,@decisis.com,@deedsearch.co.za,@dermtext.com,@devsp.reedelsevier.com,@dicebreaker.com,@digitalfoundry.net,@diio.net,@dm2lists.com,@docs.nl.lexisnexis.dev,@dorlands.com,@doyma.es,@draytonlr.co.uk,@driveadvisor.telematicsdriver.com,@droitcontrelatraite.com,@drugdiscoverytoday.com,@ecomexpomelbourne.com.au,@edata.com,@e-di.mx,@eesaccmail.elsevier.com,@eesmail.elsevier.com,@eg.co.uk,@egi.co.uk,@egplireland.com,@egpropertylink.com,@egx.net,@ehealthcareers.com,@ei.org,@ejcancer.com,@e-la.mx,@electroacupunctureknowledge.com,@elibrarystudent.de,@eliosinc.com,@elsevier.co.jp,@elsevier.co.uk,@elsevier.com,@elsevier.com.br,@elsevier.com.sg,@elsevier.de,@elsevier.fr,@elsevier.ie,@elsevier.net,@elsevier.nl,@elsevier-biofuel.com,@elsevierbooks.com,@elseviercomputerscience.com,@elsevierdirect.com,@elsevier-education.com,@elsevieremea.com,@elsevierengineering.com,@elseviergrandchallenge.com,@elsevierhealth.com,@elsevierhealthcareers.com,@elsevier-international.com,@elsevierjobs.com,@elseviermathematics.com,@elsevieropl.nl,@elsevier-tracking.net,@email.elsevier.com,@email-reedexpo.com,@emscopes.com,@emss.elsevier.com,@enclarity.com,@enclarity.net,@energiaquefalacomvoce.com.br,@engineeringvillage.com,@epress.co.uk,@equipdineasia.com,@equipotel.com.br,@equipotelnordeste.com.br,@eroom.elsevier.com,@escardiocontent.org,@eslo.co.uk,@essentialretail.com,@estatesgazette.com,@eurogamer.net,@evisetraining.elsevier.com,@evoluprint.fr,@evolution.com.br,@ewiitest.elsevier.com,@examen.com,@exch2010.lexisnexis.co.za,@exitcare.com,@expoaluminio.com.br,@expoarquiteturasustentavel.com.br,@expobeautyshow.com,@expoferretera.com.mx,@expoferretera.mx,@expolightingamerica.com,@expolux.com.br,@exponacionalferretera.com.mx,@exponacionalferretera.mx,@exposeguridad.com,@expo-tecnologia.com,@expoxx.at,@expoxx.eu,@ezgov.com,@f4f.com,@familylaw.co.uk,@farmade.co.uk,@farmade.com,@farmersweeklygroup.co.uk,@farmplan.co.uk,@fastenerandfixing.com,@fastfixtechnology.com,@fcexpo.jp,@febrava.com.br,@fedtravel.com,@feedback.lexisnexis.com,@feiconne.com.br,@feimafe.com.br,@feiplastic.com.br,@fenasucro.com.br,@fibosea.com,@fibo-usa.com,@fiee.com.br,@filmtech.jp,@findthemetaverse.com,@fircosoft.com,@firesolutions.com,@fitness-show.com.au,@fleshandbones.com,@flightascendconsultancy.com,@flightmapsanalytics.com,@flightstats.com,@floridalegalperiodicals.com,@fraudoftheday.com,@ftcwatch.com,@ftj.jp,@functionalfabricfair.com,@funding.scival.com,@g2easia.com,@gallium.co.za,@gamercreative.com,@gamer-events.com,@gamer-network.net,@gamesindustry.biz,@ged.reedexpo.fr,@geofacets.com,@ghostconvey.co.za,@ghostdigest.co.za,@global.elsevier.com,@globalcomms.reedexpo.co.uk,@globalgamingexpo.com,@goldfieldsminingexpo.com.au,@goldstandard.com,@gouldlaw.com,@gpce.com.au,@green-living.com.sg,@groupe76.fr,@hairexpo.com.au,@hairexpoaustralia.com,@hairexpoindonesia.com,@halsburyslawexchange.co.uk,@hardware.reedexpo.com,@healthmarketscience.com,@helitechinternational.com,@heliyon.com,@hesitest.com,@hmsonline.com,@hpccsystems.com,@ib-expo.jp,@ibtmamericas.com,@ibtmlatinamerica.com,@icis.com,@icis-china.com,@icisheren.com,@icislor.com,@idanalytics.com,@idcorp.co.za,@idex.com,@id-health.com,@idigital.co.za,@iil.co.uk,@ijt.jp,@imagecap.com,@imbibe.com,@india.myelsevier.com,@infermed.com,@infosec.lexisnexis.com,@infosecuritymexico.com,@injuryjournal.com,@innobuild-asia.com,@innovata-llc.com,@insurquote.com,@intelligize.com,@interaction.com,@interairport-southeastasia.com,@interfacesoftware.com,@interimhrtoday.com,@internationalbeautyexpo.com.au,@interphex.com,@interphex.reedexpo.com,@irnetwork.co.za,@irseclipse.co.uk,@isc.reedexpo.com,@iscbrasil.com.br,@isceast.com,@iscexpo.com.br,@iscwest.com,@iyetek.com,@japan-it.jp,@jck.reedexpo.com,@jckmarketplace.com,@jckonline.com,@jelly.deals,@jisshow.com,@joining-expo.jp,@jordanpublishing.co.uk,@journal-office.com,@journalsconsult.com,@jpfood.jp,@juris.com,@juris-classeur.com,@kellysearch.co.in,@kellysearch.co.uk,@kellysearch.com,@kellysearch.de,@keystonecomiccon.com,@knovel.com,@knowable.com,@kumarandclark.com,@lancet.com,@lancetconferences.com,@law24.co.za,@lawofficermagazine.com,@lawyersweekly.ca,@legal.regn.net,@legalperfect.co.za,@legalstudio.com,@legalstudio.com.cn,@legendexhibitions.com,@lexis-asone.jp,@lexisestates.co.za,@lexismaroc.com,@lexismaroc.ma,@lexisnexis.ae,@lexisnexis.at,@lexisnexis.be,@lexisnexis.ca,@lexisnexis.ch,@lexisnexis.co.in,@lexisnexis.co.jp,@lexisnexis.co.nz,@lexisnexis.co.uk,@lexis-nexis.co.uk,@lexisnexis.co.za,@lexisnexis.com,@lexis-nexis.com,@lexisnexis.com.au,@lexisnexis.com.br,@lexisnexis.de,@lexisnexis.dev,@lexisnexis.eu,@lexisnexis.fr,@lexisnexis.ie,@lexisnexis.jp,@lexisnexis.ma,@lexisnexis.nl,@lexisnexis.pl,@lexisnexisip.com,@lexisnexisrisk.com,@lexisnexisrol.foundation,@lexisnexisrolfoundation.net,@lexisnexisrolfoundation.org,@lexis-seminar.jp,@lexistracker.co.za,@lexmachina.com,@lifeinstyle.com.au,@live-event.jp,@lncompliance.co.za,@lndomains.com,@lnrm.co.za,@locus.com.au,@londonbookfair.co.uk,@mackbrooks.co.uk,@mackbrooks.com,@macroedc.com,@magnify.com,@mail.estatesgazette.com,@mail.ibtmevents.com,@mail.lexisnexis.com,@mail.reedexpo.fr,@mail.reedmidem.com,@mail.safisalons.fr,@mail-bridger.lexisnexis.eu,@mailgate2.lexisnexis.com,@mailgate2.lexis-nexis.com,@mailhost.lexisnexis.com,@maisoninstyle.com.au,@mapflow.com,@mardevonline.com,@mari-inc.com,@marketing.lexisnexis.com.au,@masson.es,@masson.fr,@material-expo.jp,@mcexpocomfort-asia.com,@mcstrategies.com,@mdconsult.com,@mealeys.com,@mecanica.com.br,@medai.com,@medical-jpn.jp,@medicinepublishing.co.uk,@mendeley.com,@messe.at,@messecongress.at,@metal-japan.jp,@miningandengineeringnsw.com.au,@miningandengineeringwa.com.au,@mkp.com,@mlex.com,@mlexfs-core.com,@mlexmarketinsight.com,@mobilenetwork.jp,@mosby.com,@myacademic.co.za,@myelsevier.com,@mymobilitycoach.com,@nationalhardwareshow.com,@nationalmanufacturingweek.com.au,@netterimages.com,@news.lexisnexis.at,@news.reedgiftfairs.com.au,@newscientist.com.au,@newsletters.elsevier.com,@nexis.com,@nextens.nl,@nl.lexisnexis.dev,@nrs-accuity.com,@nrsboston.com,@nrs-inc.com,@ny.biomednet.com,@nycomiccon.com,@oceanologyinternational.com,@oecov.at,@offshore-europe.co.uk,@onlineretailer.com,@onlineretailer.net,@onlineretailerlive.com.au,@opdsearch.com,@optimaldecisions.com,@optimal-decisions.com,@outsidexbox.com,@outsidextra.com,@ozcomiccon.com,@pacprint.com.au,@paritycomputing.com,@patentsight.com,@pathwaystudio.com,@pathwaystudio.myelsevier.com,@paxaustralia.com.au,@pclaw.com,@pdpdt.org,@peopletracer.co.uk,@pexsa.co.za,@pga.reedexpo.com,@pgaexpo.com,@pgafallexpo.com,@pgamerchandiseshow.com,@pgashows.com,@photonix-expo.jp,@plas.jp,@playworldaustralia.com.au,@plumanalytics.com,@pnce.com.au,@pollutec-brasil.com,@pophost2.elsevier.nl,@practiceupdate.com,@printex.net.au,@proagrica.com,@prod.lexisnexis.com,@prod.lexis-nexis.com,@propiq.co.za,@prosports-expo.jp,@psg3303.lexisnexis.com,@psg3309.lexisnexis.com,@pvexpo.jp,@pvs-expo.jp,@qmeexpo.com.au,@queenslandgasconference.com.au,@queenslandminingexpo.com.au,@quicktrip.com,@racquetpaddlesports.com,@radiusdx.com,@rapsheets.com,@ratesclearance.com,@ravellaw.com,@rbi.co.uk,@rbi.jobs,@rbtexpo.com,@reaxys.com,@reedalcantara.com.br,@reedbusiness.com,@reedbusiness.com.au,@reedbusiness.nl,@reedces.com.cn,@reed-coex.co.kr,@reedelsevier.co.uk,@reedelsevier.com,@reed-elsevier.com,@reed-elsevier.com.au,@reedelsevier.com.ph,@reedelsevier.de,@ReedElsevier.mail.onmicrosoft.com,@ReedElsevier.onmicrosoft.com,@reedepay.com,@reedexhibitions.at,@reedexhibitions.co.id,@reedexhibitions.co.kr,@reedexhibitions.com.au,@reedexpo.ae,@reedexpo.at,@reedexpo.co.id,@reedexpo.co.jp,@reedexpo.co.uk,@reedexpo.com,@reedexpo.com.au,@reedexpo.com.br,@reedexpo.com.cn,@reedexpo.com.hk,@reedexpo.com.my,@reedexpo.com.sg,@reedexpo.de,@reedexpo.fr,@reedexpo.it,@reedexpo.ru,@reed-export.fr,@reedexporum.com,@reedgiftfairs.com.au,@reedguanghe.com,@reedhengjin.com,@reedhongda.com,@reedhuabai.com,@reedhuaqun.com,@reedhuayin.com.cn,@reediberia.com,@reedinfo.co.uk,@reedjewelrygroup.com,@reedkfairs.com,@reedkuozhan.com,@reedmanch.com,@reedmedicaleducation.com.au,@reedmidem.com,@reedminingevents.com.au,@reedpanorama.com,@reedpop.com,@reedpop.com.au,@reedsunaidiexpo.com,@reedtech.com,@reedtradex.co.th,@reedtradex.vn,@regn.net,@reilaw.com,@reipmsi.com,@relx.com,@relxgroup.com,@renewableenergyfocus.com,@renp.com,@retailbusinesstechnologyexpo.com,@retaildesignexpo.com,@retaildesignworld.co.uk,@retaildesignworld.com,@retaildigitalsignageexpo.com,@rev.vc,@rezzed.com,@risk.lexisnexis.com,@risk.regn.net,@riskmetricscorp.com,@riskwise.com,@rockpapershotgun.com,@rsi.lexisnexis.com,@ruleoflawfoundation.org,@rx.cmefindonesia.com,@rxexporum.com,@rxgbs.net,@rxglobal.com,@rxkfairs.com,@rxnova.com,@sacompany.co.za,@safe-banking.com,@safetyfirstexpo.com.au,@safisalons.fr,@salao2rodas.com.br,@salaodasduasrodas.com.br,@salaodoautomovel.com.br,@salaoduasrodas.com.br,@sales.elsevier.com,@salonmelbourne.com.au,@sanction.com,@santosoffshore.com.br,@sbc.relx.com,@sbfe.net,@scb-asia.com,@scibite.com,@scidirect.com,@science.regn.net,@sciencedirect.com,@sciencejobs.com,@science-metrix.com,@scirus.com,@scitopics.com,@scival.com,@scopus.com,@scopusinfo.com,@screensingapore.com.sg,@sdgresources.relx.com,@seasiacafeexpo.com,@seisint.com,@sharepoint.reedelsevier.com,@shepards.com,@sheshunoff.com,@singaporecomiccon.com,@singaporetgcc.com,@sitlamericas.com,@smartgridexpo.jp,@snowflakesoftware.com,@sommelierwineawards.com,@sortingcodes.co.uk,@sortingcodeselectronic.co.uk,@sousei-expo.jp,@sp.reedelsevier.com,@spday.lexisnexis.com,@spg1353.lexisnexis.com,@spmail.reedelsevier.com,@srsanalyser.com,@srsanalyzer.com,@srsdata.com,@srsskedsync.com,@ssaform4641.net,@sslng.icis.com,@ssrn.com,@sstsoftware.com,@standout.at,@standout.eu,@startrekmissions.com,@statenet.com,@statenet.lexisnexis.com,@suppliers.fwi.co.uk,@surveys.lexisnexisrisk.com,@systemstandbau.at,@systemstandbau.eu,@tagallstate.com,@taxation-jobs.co.uk,@techselect.elsevier-biofuel.com,@tecnon-ptm.com,@thebottomlinenews.ca,@thehaul.com,@theknowable.com,@thelawyersdaily.ca,@thermal-power.jp,@theseed.com,@tilog-logistix.com,@tolley.co.uk,@tracesmart.co.uk,@tschach-solutions.com,@univentio.com,@univentio.nl,@urbanfischer.de,@usgamer.net,@ushighschools.myelsevier.com,@uxresearch.lexisnexis.com,@vg247.com,@viruseradication.com,@visionariescommunity.com,@visionexpo.com,@visionexpoeast.com,@visionexpowest.com,@vitalchek.com,@wasteexpoaustralia.com.au,@wbsaunders.com,@webinar.elsevier.com,@wehearyou.elsevier.com,@windeed.co.za,@windexpo.jp,@winetechexpo.com.au,@woodheadpublishing.com,@worldcompliance.com,@xperthr.co.uk,@xperthr.com,@xperthr.nl,@xperthrmail.co.uk,@xperthrrecruiter.co.uk,@yourelsevier.com,@Inssi.com"

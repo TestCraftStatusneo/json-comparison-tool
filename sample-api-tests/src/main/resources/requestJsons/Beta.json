@@ -1,0 +1,118 @@
+{
+            "vehicleFeatures": [
+                {
+                    "name": "Doors",
+                    "value": "4",
+                    "description": "4 Doors",
+                    "caption": "4 Doors",
+                    "filterEnabled": false,
+                    "iconEnabled": false,
+                    "webEnabled": false
+                },
+                {
+                    "name": "Seats",
+                    "value": "5",
+                    "description": "5 Seats",
+                    "imageName": "keyIndicator.gif",
+                    "caption": "5 Seats",
+                    "filterEnabled": false,
+                    "iconEnabled": false,
+                    "webEnabled": false
+                },
+                {
+                    "name": "Radio",
+                    "value": "Y",
+                    "description": "Radio",
+                    "caption": "Radio",
+                    "filterEnabled": false,
+                    "iconEnabled": false,
+                    "webEnabled": false
+                },
+                {
+                    "name": "ABG",
+                    "value": "Y",
+                    "description": "Air Bag",
+                    "caption": "Air Bag",
+                    "filterEnabled": false,
+                    "iconEnabled": false,
+                    "webEnabled": false
+                },
+                {
+                    "name": "Air",
+                    "value": "Y",
+                    "description": "Air Conditioning",
+                    "caption": "Air Conditioning",
+                    "filterEnabled": false,
+                    "iconEnabled": false,
+                    "webEnabled": false
+                },
+                {
+                    "name": "Auto",
+                    "value": "Y",
+                    "description": "Automatic",
+                    "caption": "Automatic",
+                    "filterEnabled": false,
+                    "iconEnabled": false,
+                    "webEnabled": false
+                },
+                {
+                    "name": "Suitcases_large",
+                    "value": "1",
+                    "description": "Holds 1 large, 1 small Suitcases",
+                    "imageName": "lg1l1s.gif",
+                    "caption": "Bag",
+                    "filterEnabled": false,
+                    "iconEnabled": false,
+                    "webEnabled": true
+                },
+                {
+                    "name": "Suitcases_small",
+                    "value": "1",
+                    "description": "Holds 1 large, 1 small Suitcases",
+                    "imageName": "lg1l1s.gif",
+                    "caption": "Bag",
+                    "filterEnabled": false,
+                    "iconEnabled": false,
+                    "webEnabled": true
+                },
+                {
+                    "name": "Suitcases",
+                    "value": "1/1",
+                    "description": "Holds 1 large, 1 small Suitcases",
+                    "imageName": "lg1l1s.gif",
+                    "caption": "Holds 1 large, 1 small Suitcases",
+                    "filterEnabled": false,
+                    "iconEnabled": false,
+                    "webEnabled": false
+                },
+                {
+                    "name": "mpg",
+                    "value": "27/35",
+                    "description": "27-35 mpg",
+                    "imageName": "keyIndicator4.gif",
+                    "caption": "27-35 mpg",
+                    "filterEnabled": false,
+                    "iconEnabled": false,
+                    "webEnabled": false
+                },
+                {
+                    "name": "Bluetooth SYNC",
+                    "value": "Y",
+                    "description": "Bluetooth SYNC",
+                    "caption": "Bluetooth SYNC",
+                    "filterEnabled": false,
+                    "iconEnabled": false,
+                    "webEnabled": false
+                },
+                {
+                    "name": "Back-up Camera",
+                    "value": "Y",
+                    "description": "Back-up Camera",
+                    "imageName": "Back-up Camera",
+                    "caption": "Back-up Camera",
+                    "filterEnabled": false,
+                    "iconEnabled": false,
+                    "webEnabled": false
+                }
+            ]
+}

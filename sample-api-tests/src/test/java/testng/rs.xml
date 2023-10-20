@@ -1,0 +1,28 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="regression" parallel="methods" verbose="1" thread-count="1">
+    <!--    <listeners>-->
+    <!--        <listener class-name="com.avis.listeners.retry.AnnotationTransformer"></listener>-->
+    <!--    </listeners>-->
+
+    <test name="BT API Automation Regression Tests">
+<!--        <parameter name="environment" value="QA"/>    &lt;!&ndash; < Possible values : LOCAL/QA/STAGE/PRE_PROD/PROD> &ndash;&gt;-->
+        <parameter name="version" value="V1"/>    <!-- < Possible values : V1/V2/V3> -->
+<!--        <parameter name="brand" value="BUDGET"/>    &lt;!&ndash; < Possible values : V1/V2/V3> &ndash;&gt;-->
+        <parameter name="service" value="RS"/>    <!-- < Possible values : V1/V2/V3> -->
+
+        <packages>
+            <package name="com.bt.tests.avl.rs"></package>
+        </packages>
+
+        <!--
+                <classes>
+                    <class name="com.bt.tests.MasterTests"></class>
+                    <class name="com.bt.tests.HierarchyTests"></class>
+                    <class name="com.bt.tests.GeneralTests"></class>
+                </classes>
+                 -->
+    </test>
+
+
+</suite>
