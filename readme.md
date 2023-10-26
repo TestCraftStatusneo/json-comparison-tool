@@ -19,4 +19,4 @@ This tool automatically compares JSON responses from two environments for the sa
 
 ## Questions and Feedback 
 
-Feel free to reach out to ishan.kumar@statusneo.com for questions and feedback. 
+Feel free to reach out to devarshi.ojha@statusneo.com for questions and feedback. 
